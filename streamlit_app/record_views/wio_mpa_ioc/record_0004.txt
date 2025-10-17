@@ -1,0 +1,42 @@
+================================================================================
+RECORD 4 of 78
+================================================================================
+
+OBJECTID   : 4
+NAME       : Moheli
+Country    : Comoros
+Designatio : Marine Protected Area
+Status     : Working
+Category   : National
+Geographic : 12?23'S, 43?47'E
+Administra : Union of the Comoros
+Surface    : 366.75
+Management : NULL
+Targetted  : ?seagrass beds
+ ?several coral facies
+ ?mangroves
+ ?islets 
+ ?beaches
+ ?deep sea 
+ ?natural forest
+Targette_1 : NULL
+Zonation   : NULL
+Institutio : NULL
+Community  : NULL
+Connection : NULL
+Risks_Thre : ?the exploitation of coastal materials (beach sand, pebbles, beach rock, gravel and river 
+sediments) creates a risk to the conservation of the coastal zone and species dependent 
+thereon. These are very destructive activities and studies show that betwe
+Manageme_1 : NULL
+Manageme_2 : To ensure the sustainability of the PNM the following are required: ?prioritising implementation of National Park Management ?mobilization of financial resources for the management and proper running of the Park ?promotion of ecotourism, to help local co
+IUCN_Categ : NULL
+Year_estab : 2001
+Legally_in : Under the administrative supervision of the Ministry in charge of the Environment in the Union 
+of the Comoros. The Ministry in charge of the environment through the Directorate General of 
+Environment and Forestry has delegated the management of the na
+Planning_f : This overall objective implies several more specific elements: 
+ ?to conserve the entire PNM biodiversity (ecosystems, species, genetic variability) 
+ ?to maintain connectivity between the different habitats to allow for the genetic exchanges 
+necessary
+Risks_Th_1 : NULL
+geometry   : Polygon (Area: 622065535.383371, Bounds: (4844725.2842000015, -1391107.9563999996, 4890659.022599999, -1366457.7157999985))

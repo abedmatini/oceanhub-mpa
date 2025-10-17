@@ -1,0 +1,24 @@
+================================================================================
+RECORD 9 of 160
+================================================================================
+
+IDN        : 8
+ID_MJ      : 10
+MPA_NAME   : Parc National Coelacanthe
+COUNTRY    : Comoros
+REGION     : Comoros
+DESGNATION : Marine Protected Area
+STATUS     : Proposed
+CATEGORY   : National
+CATEGORY2  : National
+YEAR       : Not available
+ZONE       : Multiple
+MANAGED_BY : Ministry in charge of the Environment in the Union of the Comoros
+IUCN       : Undetermined
+NOTES      : NULL
+AREAKM_DEC : 93
+AREAKM_ACT : 92.760600
+PERIKM_ACT : 89.571400
+POINT_X    : 43.416500
+POINT_Y    : -11.895200
+geometry   : Polygon (Area: 96848999.845688, Bounds: (4814384.351399998, -1331959.3822999124, 4846648.248799997, -1314828.912999879))

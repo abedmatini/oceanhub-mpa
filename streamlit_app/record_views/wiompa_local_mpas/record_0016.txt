@@ -1,0 +1,24 @@
+================================================================================
+RECORD 16 of 208
+================================================================================
+
+IDN        : 15
+ID_MJ      : 167
+MPA_NAME   : Kivuko-Chambani
+COUNTRY    : Kenya
+REGION     : Kenya
+DESGNATION : Lobster no take
+STATUS     : Proposed
+CATEGORY   : Local
+CATEGORY2  : LMMA
+YEAR       : Proposed
+ZONE       : No-take area
+MANAGED_BY : NULL
+IUCN       : Undetermined
+NOTES      : NULL
+AREAKM_DEC : 2
+AREAKM_ACT : 4.503350
+PERIKM_ACT : 9.063600
+POINT_X    : 41.189000
+POINT_Y    : -2.118910
+geometry   : Polygon (Area: 4509472.473856, Bounds: (4583602.772500001, -235976.3439999267, 4586678.449599999, -232722.7409999178))

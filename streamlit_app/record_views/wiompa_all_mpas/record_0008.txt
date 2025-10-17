@@ -1,0 +1,24 @@
+================================================================================
+RECORD 8 of 368
+================================================================================
+
+IDN        : 7
+ID_MJ      : 157
+MPA_NAME   : Shimoni
+COUNTRY    : Kenya
+REGION     : Kenya
+DESGNATION : No Take Zone
+STATUS     : Working
+CATEGORY   : Local
+CATEGORY2  : LMMA
+YEAR       : 2010
+ZONE       : No-take area
+MANAGED_BY : Rodrigues Regional Assembly
+IUCN       : Undetermined
+NOTES      : Overlaps TBCA
+AREAKM_DEC : 0
+AREAKM_ACT : 0.054805
+PERIKM_ACT : 1.430760
+POINT_X    : 39.363500
+POINT_Y    : -4.644920
+geometry   : Polygon (Area: 55164.494868, Bounds: (4381623.990600001, -514354.7883998834, 4382227.676199997, -514007.4241999432))

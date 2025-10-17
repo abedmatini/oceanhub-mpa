@@ -1,0 +1,24 @@
+================================================================================
+RECORD 2 of 160
+================================================================================
+
+IDN        : 1
+ID_MJ      : 2
+MPA_NAME   : Mombasa Marine Reserve
+COUNTRY    : Kenya
+REGION     : Kenya
+DESGNATION : Marine Reserve
+STATUS     : Working
+CATEGORY   : National
+CATEGORY2  : National
+YEAR       : 1986
+ZONE       : Not described
+MANAGED_BY : Not described
+IUCN       : VI
+NOTES      : Updated year
+AREAKM_DEC : 200
+AREAKM_ACT : 194.637000
+PERIKM_ACT : 70.915100
+POINT_X    : 39.779600
+POINT_Y    : -4.065280
+geometry   : Polygon (Area: 195614129.249707, Bounds: (4418648.307899999, -460414.4485999398, 4437394.225200001, -438352.34019994567))

@@ -1,0 +1,24 @@
+================================================================================
+RECORD 3 of 160
+================================================================================
+
+IDN        : 2
+ID_MJ      : 3
+MPA_NAME   : Watamu National Park
+COUNTRY    : Kenya
+REGION     : Kenya
+DESGNATION : Marine National Park
+STATUS     : Working
+CATEGORY   : National
+CATEGORY2  : National
+YEAR       : 1968
+ZONE       : Not described
+MANAGED_BY : Kenya Wildlife Service (KWS)
+IUCN       : II
+NOTES      : Updated area
+AREAKM_DEC : 10
+AREAKM_ACT : 11.054500
+PERIKM_ACT : 17.260700
+POINT_X    : 39.991300
+POINT_Y    : -3.390300
+geometry   : Polygon (Area: 11093021.775851, Bounds: (4449135.543699998, -377169.59639989905, 4455167.909000002, -372349.28269994573))

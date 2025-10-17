@@ -1,0 +1,24 @@
+================================================================================
+RECORD 18 of 208
+================================================================================
+
+IDN        : 17
+ID_MJ      : 169
+MPA_NAME   : Kadhikia-Fawachu
+COUNTRY    : Kenya
+REGION     : Kenya
+DESGNATION : Gear Restricion
+STATUS     : Proposed
+CATEGORY   : Local
+CATEGORY2  : LMMA
+YEAR       : Proposed
+ZONE       : Gear Restriction
+MANAGED_BY : NULL
+IUCN       : Undetermined
+NOTES      : NULL
+AREAKM_DEC : 2
+AREAKM_ACT : 1.999440
+PERIKM_ACT : 6.237040
+POINT_X    : 41.157300
+POINT_Y    : -2.150500
+geometry   : Polygon (Area: 2002244.150282, Bounds: (4580450.7842000015, -238893.58129996294, 4582760.617199998, -236804.3768999383))

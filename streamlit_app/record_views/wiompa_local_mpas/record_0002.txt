@@ -1,0 +1,24 @@
+================================================================================
+RECORD 2 of 208
+================================================================================
+
+IDN        : 1
+ID_MJ      : 150
+MPA_NAME   : Wasini
+COUNTRY    : Kenya
+REGION     : Kenya
+DESGNATION : No Take Zone
+STATUS     : Working
+CATEGORY   : Local
+CATEGORY2  : LMMA
+YEAR       : 2008
+ZONE       : No-take area
+MANAGED_BY : Ministry of Blue Economy, Marine Resources, Fisheries and Shipping
+IUCN       : II
+NOTES      : Overlaps TBCA
+AREAKM_DEC : 0
+AREAKM_ACT : 0.420587
+PERIKM_ACT : 5.220330
+POINT_X    : 39.358800
+POINT_Y    : -4.655950
+geometry   : Polygon (Area: 423357.804755, Bounds: (4380756.372900002, -515804.9612999178, 4382240.852299999, -515065.2164999107))

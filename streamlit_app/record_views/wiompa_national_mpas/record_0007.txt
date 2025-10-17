@@ -1,0 +1,24 @@
+================================================================================
+RECORD 7 of 160
+================================================================================
+
+IDN        : 6
+ID_MJ      : 8
+MPA_NAME   : Kisite-Mpunguti Marine Park
+COUNTRY    : Kenya
+REGION     : Kenya
+DESGNATION : Marine National Park
+STATUS     : Working
+CATEGORY   : National
+CATEGORY2  : National
+YEAR       : 1978
+ZONE       : Not described
+MANAGED_BY : Kenya Wildlife Service (KWS)
+IUCN       : II
+NOTES      : Overlaps TBCA
+AREAKM_DEC : 28
+AREAKM_ACT : 34.002100
+PERIKM_ACT : 25.185800
+POINT_X    : 39.362500
+POINT_Y    : -4.714000
+geometry   : Polygon (Area: 34231681.181277, Bounds: (4377505.392099999, -525423.558499917, 4386566.7986, -518242.57749988895))

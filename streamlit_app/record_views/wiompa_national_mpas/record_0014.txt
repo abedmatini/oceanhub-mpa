@@ -1,0 +1,24 @@
+================================================================================
+RECORD 14 of 160
+================================================================================
+
+IDN        : 13
+ID_MJ      : 15
+MPA_NAME   : Ankarea
+COUNTRY    : Madagascar
+REGION     : Madagascar
+DESGNATION : Marine Protected Area
+STATUS     : Working
+CATEGORY   : National
+CATEGORY2  : National
+YEAR       : 2015
+ZONE       : Not described
+MANAGED_BY : Community and Wildlife Conservation Society
+IUCN       : V
+NOTES      : NULL
+AREAKM_DEC : 1355
+AREAKM_ACT : 1356.840000
+PERIKM_ACT : 147.603000
+POINT_X    : 48.574700
+POINT_Y    : -12.878300
+geometry   : Polygon (Area: 1427290485.898949, Bounds: (5388556.256399999, -1455345.0377999053, 5426061.633999999, -1417284.4341999195))

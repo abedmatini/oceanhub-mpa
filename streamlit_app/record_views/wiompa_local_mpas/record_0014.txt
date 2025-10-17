@@ -1,0 +1,24 @@
+================================================================================
+RECORD 14 of 208
+================================================================================
+
+IDN        : 13
+ID_MJ      : 165
+MPA_NAME   : Rewa & Kivonga
+COUNTRY    : Kenya
+REGION     : Kenya
+DESGNATION : Gear Restricion
+STATUS     : Proposed
+CATEGORY   : Local
+CATEGORY2  : LMMA
+YEAR       : 2015
+ZONE       : Gear Restriction
+MANAGED_BY : NULL
+IUCN       : Undetermined
+NOTES      : NULL
+AREAKM_DEC : 2
+AREAKM_ACT : 2.372240
+PERIKM_ACT : 9.876850
+POINT_X    : 41.121100
+POINT_Y    : -2.122800
+geometry   : Polygon (Area: 2375473.939984, Bounds: (4576465.072099999, -236027.2475999833, 4578934.619600001, -233467.54069990973))

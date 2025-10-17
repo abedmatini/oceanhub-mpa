@@ -1,0 +1,24 @@
+================================================================================
+RECORD 20 of 160
+================================================================================
+
+IDN        : 19
+ID_MJ      : 21
+MPA_NAME   : Masoala
+COUNTRY    : Madagascar
+REGION     : Madagascar
+DESGNATION : National Park
+STATUS     : Working
+CATEGORY   : National
+CATEGORY2  : National
+YEAR       : 1997
+ZONE       : Not described
+MANAGED_BY : Madagascar National Parks
+IUCN       : II
+NOTES      : Updated area
+AREAKM_DEC : 2405
+AREAKM_ACT : 107.494000
+PERIKM_ACT : 94.829700
+POINT_X    : 50.171700
+POINT_Y    : -15.852800
+geometry   : MultiPolygon (Area: 116105964.104389, Bounds: (5558161.976199998, -1795632.9403998617, 5607880.559399998, -1760918.0668998943))

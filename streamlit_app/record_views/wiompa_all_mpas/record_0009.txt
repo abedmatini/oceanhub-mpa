@@ -1,0 +1,24 @@
+================================================================================
+RECORD 9 of 368
+================================================================================
+
+IDN        : 8
+ID_MJ      : 158
+MPA_NAME   : Bureni
+COUNTRY    : Kenya
+REGION     : Kenya
+DESGNATION : No Take Zone
+STATUS     : Working
+CATEGORY   : Local
+CATEGORY2  : LMMA
+YEAR       : 2013
+ZONE       : No-take area
+MANAGED_BY : Ministry of Blue Economy, Marine Resources, Fisheries and Shipping
+IUCN       : IV
+NOTES      : NULL
+AREAKM_DEC : 1
+AREAKM_ACT : 0.051416
+PERIKM_ACT : 0.939006
+POINT_X    : 39.824900
+POINT_Y    : -3.836750
+geometry   : Polygon (Area: 51645.322367, Bounds: (4433147.5044, -424734.1032998913, 4433442.480399999, -424396.99279995204))

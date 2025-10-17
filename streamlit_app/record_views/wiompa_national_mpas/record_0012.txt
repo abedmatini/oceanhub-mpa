@@ -1,0 +1,25 @@
+================================================================================
+RECORD 12 of 160
+================================================================================
+
+IDN        : 11
+ID_MJ      : 13
+MPA_NAME   : Parc National de Moheli (Moheli National Park)
+
+COUNTRY    : Comoros
+REGION     : Comoros
+DESGNATION : National Park
+STATUS     : Working
+CATEGORY   : National
+CATEGORY2  : National
+YEAR       : 2001
+ZONE       : Multiple
+MANAGED_BY : Ministry in charge of the Environment in the Union of the Comoros
+IUCN       : Undetermined
+NOTES      : NULL
+AREAKM_DEC : 449
+AREAKM_ACT : 593.659000
+PERIKM_ACT : 123.298000
+POINT_X    : 43.720700
+POINT_Y    : -12.379100
+geometry   : Polygon (Area: 622065535.383695, Bounds: (4844725.2842000015, -1391107.9563998792, 4890659.022599999, -1366457.7157999147))

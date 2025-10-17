@@ -1,0 +1,41 @@
+================================================================================
+RECORD 1 of 78
+================================================================================
+
+OBJECTID   : 1
+NAME       : Coelacanthe
+Country    : Comoros
+Designatio : Marine Protected Area
+Status     : Proposed
+Category   : National
+Geographic : 11?48?00?S  11?57?00?S   43?14?30?E 43?32?00?E
+Administra : 
+ Ministry in Charge of the Environment. But once it will be gazetted by its implementing 
+decree, the Comoros National Parks Agency will be mandated by the Ministry in Charge of the 
+Environment to manage the national parks on the basis of a participat
+Surface    : 84.15
+Management : NULL
+Targetted  : ?reefs and corals including the Vailleu Bank ?pelagic marine area ?coastal zone ?particular volcanic cliffs ?beaches
+Targette_1 : NULL
+Zonation   : NULL
+Institutio : NULL
+Community  : NULL
+Connection : NULL
+Risks_Thre : ?climate change
+ ?invasive species 
+ ?resource over-exploitation
+ ?water pollution
+Manageme_1 : NULL
+Manageme_2 : ?2018 Law on Protected Areas and its implementing decrees (in progress)
+ ?the decree establishing the park and any amendments thereto (in progress)
+ ?an approved development and management plan
+ ?the Environmental Management and Social Safeguard Plan (PG
+IUCN_Categ : NULL
+Year_estab : 2021
+Legally_in : NULL
+Planning_f : The strategic objectives of the National Park:  
+ ?the National Park is created by 2018 with the support of the communities and is managed by 
+the Comoros National Parks Agency
+ ?the park contributes to an improvement in the standard of living of the sur
+Risks_Th_1 : NULL
+geometry   : Polygon (Area: 96848999.845422, Bounds: (4814384.351399999, -1331959.3823000006, 4846648.248799998, -1314828.9129999988))

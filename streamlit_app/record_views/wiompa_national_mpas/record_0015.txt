@@ -1,0 +1,24 @@
+================================================================================
+RECORD 15 of 160
+================================================================================
+
+IDN        : 14
+ID_MJ      : 16
+MPA_NAME   : Ambodivahibe
+COUNTRY    : Madagascar
+REGION     : Madagascar
+DESGNATION : Marine Protected Area
+STATUS     : Working
+CATEGORY   : National
+CATEGORY2  : National
+YEAR       : 2015
+ZONE       : Not described
+MANAGED_BY : Community and Wildlife Conservation Society
+IUCN       : V
+NOTES      : NULL
+AREAKM_DEC : 466
+AREAKM_ACT : 466.010000
+PERIKM_ACT : 182.069000
+POINT_X    : 49.526500
+POINT_Y    : -12.299000
+geometry   : Polygon (Area: 487999094.305828, Bounds: (5498714.294, -1387839.8563998807, 5528367.422499998, -1354654.767799886))

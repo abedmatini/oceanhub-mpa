@@ -1,0 +1,24 @@
+================================================================================
+RECORD 4 of 160
+================================================================================
+
+IDN        : 3
+ID_MJ      : 5
+MPA_NAME   : Malindi  National Park
+COUNTRY    : Kenya
+REGION     : Kenya
+DESGNATION : Marine National Park
+STATUS     : Working
+CATEGORY   : National
+CATEGORY2  : National
+YEAR       : 1968
+ZONE       : Not described
+MANAGED_BY : Kenya Wildlife Service (KWS)
+IUCN       : II
+NOTES      : Updated area
+AREAKM_DEC : 6
+AREAKM_ACT : 6.308850
+PERIKM_ACT : 10.856100
+POINT_X    : 40.145100
+POINT_Y    : -3.260600
+geometry   : Polygon (Area: 6329186.070248, Bounds: (4467151.944200002, -361937.6036999243, 4470207.0992, -359088.670999921))

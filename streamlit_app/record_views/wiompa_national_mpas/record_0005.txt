@@ -1,0 +1,24 @@
+================================================================================
+RECORD 5 of 160
+================================================================================
+
+IDN        : 4
+ID_MJ      : 6
+MPA_NAME   : Kiunga Marine National Reserve
+COUNTRY    : Kenya
+REGION     : Kenya
+DESGNATION : Marine National Reserve
+STATUS     : Working
+CATEGORY   : National
+CATEGORY2  : National
+YEAR       : 1979
+ZONE       : Not described
+MANAGED_BY : Kenya Wildlife Service (KWS)
+IUCN       : VI
+NOTES      : Overlaps Fambuzi, Shaka la Manyoni, Shingi Iyuu
+AREAKM_DEC : 250
+AREAKM_ACT : 239.728000
+PERIKM_ACT : 168.849000
+POINT_X    : 41.342100
+POINT_Y    : -1.900900
+geometry   : Polygon (Area: 239966412.424737, Bounds: (4584046.69940001, -228246.25549999817, 4626007.991900002, -188305.4301999708))

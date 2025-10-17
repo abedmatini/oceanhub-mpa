@@ -1,0 +1,24 @@
+================================================================================
+RECORD 5 of 368
+================================================================================
+
+IDN        : 4
+ID_MJ      : 154
+MPA_NAME   : Vanga
+COUNTRY    : Kenya
+REGION     : Kenya
+DESGNATION : Gear Restricion
+STATUS     : Proposed
+CATEGORY   : Local
+CATEGORY2  : LMMA
+YEAR       : 2010
+ZONE       : Gear Restriction
+MANAGED_BY : Rodrigues Regional Assembly
+IUCN       : Undetermined
+NOTES      : NULL
+AREAKM_DEC : 0
+AREAKM_ACT : 0.340140
+PERIKM_ACT : 2.686660
+POINT_X    : 39.266200
+POINT_Y    : -4.667770
+geometry   : Polygon (Area: 342392.029557, Bounds: (4370707.040499999, -517176.5402999092, 4371474.935199998, -516282.00309991307))

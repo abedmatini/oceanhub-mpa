@@ -1,0 +1,24 @@
+================================================================================
+RECORD 4 of 208
+================================================================================
+
+IDN        : 3
+ID_MJ      : 153
+MPA_NAME   : Jimbo
+COUNTRY    : Kenya
+REGION     : Kenya
+DESGNATION : Gear Restricion
+STATUS     : Proposed
+CATEGORY   : Local
+CATEGORY2  : LMMA
+YEAR       : 2009
+ZONE       : Gear Restriction
+MANAGED_BY : Ministry of Blue Economy, Marine Resources, Fisheries and Shipping
+IUCN       : II
+NOTES      : NULL
+AREAKM_DEC : 0
+AREAKM_ACT : 0.085768
+PERIKM_ACT : 1.158270
+POINT_X    : 39.228500
+POINT_Y    : -4.672360
+geometry   : Polygon (Area: 86337.525341, Bounds: (4366658.972600001, -517372.01479990897, 4367131.011599999, -517094.5406999428))

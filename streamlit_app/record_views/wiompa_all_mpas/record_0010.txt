@@ -1,0 +1,24 @@
+================================================================================
+RECORD 10 of 368
+================================================================================
+
+IDN        : 9
+ID_MJ      : 159
+MPA_NAME   : Mji wa kale
+COUNTRY    : Kenya
+REGION     : Kenya
+DESGNATION : Gear Restricion
+STATUS     : Working
+CATEGORY   : Local
+CATEGORY2  : LMMA
+YEAR       : 2014
+ZONE       : Gear Restriction
+MANAGED_BY : Ministry of Blue Economy, Marine Resources, Fisheries and Shipping
+IUCN       : IV
+NOTES      : Overlaps TBCA
+AREAKM_DEC : 0
+AREAKM_ACT : 0.370351
+PERIKM_ACT : 2.704110
+POINT_X    : 39.392500
+POINT_Y    : -4.660140
+geometry   : Polygon (Area: 372795.605057, Bounds: (4384488.0975, -516072.20839989226, 4385692.413400001, -515598.41609983525))

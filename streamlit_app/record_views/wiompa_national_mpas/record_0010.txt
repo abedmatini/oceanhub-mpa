@@ -1,0 +1,24 @@
+================================================================================
+RECORD 10 of 160
+================================================================================
+
+IDN        : 9
+ID_MJ      : 11
+MPA_NAME   : Parc National Mitsamiouli-Ndroude
+COUNTRY    : Comoros
+REGION     : Comoros
+DESGNATION : Marine Protected Area
+STATUS     : Proposed
+CATEGORY   : National
+CATEGORY2  : National
+YEAR       : Not available
+ZONE       : No-take area
+MANAGED_BY : Ministry in charge of the Environment in the Union of the Comoros
+IUCN       : Undetermined
+NOTES      : NULL
+AREAKM_DEC : 23
+AREAKM_ACT : 23.142100
+PERIKM_ACT : 47.181100
+POINT_X    : 43.361800
+POINT_Y    : -11.388700
+geometry   : Polygon (Area: 24074748.638122, Bounds: (4817513.008299998, -1273260.7783998768, 4834383.2557, -1264698.0682999168))

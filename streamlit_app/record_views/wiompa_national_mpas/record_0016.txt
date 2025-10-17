@@ -1,0 +1,24 @@
+================================================================================
+RECORD 16 of 160
+================================================================================
+
+IDN        : 15
+ID_MJ      : 17
+MPA_NAME   : Velondriake
+COUNTRY    : Madagascar
+REGION     : Madagascar
+DESGNATION : Marine Protected Area
+STATUS     : Working
+CATEGORY   : National
+CATEGORY2  : National
+YEAR       : 2015
+ZONE       : Not described
+MANAGED_BY : Community and Blue Ventures
+IUCN       : V
+NOTES      : NULL
+AREAKM_DEC : 688
+AREAKM_ACT : 687.846000
+PERIKM_ACT : 196.272000
+POINT_X    : 43.209300
+POINT_Y    : -22.046300
+geometry   : Polygon (Area: 799885082.086189, Bounds: (4800418.4296, -2529115.906199919, 4821956.685499999, -2471647.6788999047))

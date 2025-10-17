@@ -1,0 +1,24 @@
+================================================================================
+RECORD 3 of 368
+================================================================================
+
+IDN        : 2
+ID_MJ      : 151
+MPA_NAME   : Nyari-Kikadini
+COUNTRY    : Kenya
+REGION     : Kenya
+DESGNATION : No Take Zone
+STATUS     : Working
+CATEGORY   : Local
+CATEGORY2  : LMMA
+YEAR       : 2006
+ZONE       : No-take area
+MANAGED_BY : Ministry of Blue Economy, Marine Resources, Fisheries and Shipping
+IUCN       : IV
+NOTES      : NULL
+AREAKM_DEC : 0
+AREAKM_ACT : 0.094982
+PERIKM_ACT : 1.575700
+POINT_X    : 39.610900
+POINT_Y    : -4.220670
+geometry   : Polygon (Area: 95496.038687, Bounds: (4409262.727699998, -467387.4073999174, 4409612.604899998, -466806.84519991215))

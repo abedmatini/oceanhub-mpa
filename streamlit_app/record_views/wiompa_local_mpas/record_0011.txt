@@ -1,0 +1,24 @@
+================================================================================
+RECORD 11 of 208
+================================================================================
+
+IDN        : 10
+ID_MJ      : 160
+MPA_NAME   : Mwaembe
+COUNTRY    : Kenya
+REGION     : Kenya
+DESGNATION : No Take Zone
+STATUS     : Working
+CATEGORY   : Local
+CATEGORY2  : LMMA
+YEAR       : 2014
+ZONE       : No-take area
+MANAGED_BY : Ministry of Blue Economy, Marine Resources, Fisheries and Shipping
+IUCN       : IV
+NOTES      : NULL
+AREAKM_DEC : 0
+AREAKM_ACT : 0.465188
+PERIKM_ACT : 2.893540
+POINT_X    : 39.481200
+POINT_Y    : -4.502300
+geometry   : Polygon (Area: 468053.156103, Bounds: (4394589.616599999, -498916.5188999219, 4395489.8796, -497849.9564999149))

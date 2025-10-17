@@ -1,0 +1,301 @@
+================================================================================
+WIOMPA National MPAs
+================================================================================
+
+File: /Users/mac/Downloads/MPA Data/WIOMPA_National_fin/WIOMPA_National_fin.shp
+Number of Features: 160
+Geometry Types: ['Polygon', 'MultiPolygon']
+CRS: PROJCS["World_Mercator",GEOGCS["WGS 84",DATUM["WGS_1984",SPHEROID["WGS 84",6378137,298.257223563,AUTHORITY["EPSG","7030"]],AUTHORITY["EPSG","6326"]],PRIMEM["Greenwich",0,AUTHORITY["EPSG","8901"]],UNIT["degree",0.0174532925199433,AUTHORITY["EPSG","9122"]],AUTHORITY["EPSG","4326"]],PROJECTION["Mercator_2SP"],PARAMETER["standard_parallel_1",0],PARAMETER["central_meridian",0],PARAMETER["false_easting",0],PARAMETER["false_northing",0],UNIT["metre",1,AUTHORITY["EPSG","9001"]],AXIS["Easting",EAST],AXIS["Northing",NORTH],AUTHORITY["ESRI","54004"]]
+Bounds: [ 1576485.7006     -6453920.36789981  8638756.66553281  -188305.43019997]
+
+================================================================================
+COLUMNS (20)
+================================================================================
+
+• IDN
+  Type: int64
+  Non-null: 160/160 (100.0%)
+  Null: 0
+  Unique values: 159
+  Min: 0
+  Max: 159
+  Mean: 79.47
+  Median: 78.50
+  Sample values: [0, 1, 2]
+--------------------------------------------------------------------------------
+• ID_MJ
+  Type: int64
+  Non-null: 160/160 (100.0%)
+  Null: 0
+  Unique values: 153
+  Min: 0
+  Max: 1279
+  Mean: 302.91
+  Median: 424.00
+  Sample values: [1, 2, 3]
+--------------------------------------------------------------------------------
+• MPA_NAME
+  Type: object
+  Non-null: 160/160 (100.0%)
+  Null: 0
+  Unique values: 158
+  Sample values: ['Mombasa Marine Park', 'Mombasa Marine Reserve', 'Watamu National Park']
+--------------------------------------------------------------------------------
+• COUNTRY
+  Type: object
+  Non-null: 160/160 (100.0%)
+  Null: 0
+  Unique values: 9
+  Top values:
+    - South Africa: 49 (30.6%)
+    - Tanzania: 28 (17.5%)
+    - Seychelles: 21 (13.1%)
+    - Mauritius: 15 (9.4%)
+    - Madagascar: 14 (8.8%)
+    - Kenya: 11 (6.9%)
+    - France: 11 (6.9%)
+    - Mozambique: 7 (4.4%)
+    - Comoros: 4 (2.5%)
+  Sample values: ['Kenya', 'Kenya', 'Kenya']
+--------------------------------------------------------------------------------
+• REGION
+  Type: object
+  Non-null: 160/160 (100.0%)
+  Null: 0
+  Unique values: 13
+  Top values:
+    - South Africa: 49 (30.6%)
+    - Seychelles: 21 (13.1%)
+    - Tanzania: 19 (11.9%)
+    - Mauritius: 15 (9.4%)
+    - Madagascar: 14 (8.8%)
+    - Kenya: 11 (6.9%)
+    - Zanzibar: 9 (5.6%)
+    - Mozambique: 7 (4.4%)
+    - Iles Esparses: 5 (3.1%)
+    - Comoros: 4 (2.5%)
+  Sample values: ['Kenya', 'Kenya', 'Kenya']
+--------------------------------------------------------------------------------
+• DESGNATION
+  Type: object
+  Non-null: 160/160 (100.0%)
+  Null: 0
+  Unique values: 29
+  Top values:
+    - Marine Protected Area: 65 (40.6%)
+    - Marine Reserve: 24 (15.0%)
+    - Marine National Park: 11 (6.9%)
+    - National Park: 10 (6.2%)
+    - Fishing reserve: 7 (4.4%)
+    - Marine Park: 4 (2.5%)
+    - Shell Reserve: 4 (2.5%)
+    - Conservation Area: 3 (1.9%)
+    - Special Reserve: 3 (1.9%)
+    - Maritime public domain (Conservatoire du littoral): 3 (1.9%)
+  Sample values: ['Marine Park', 'Marine Reserve', 'Marine National Park']
+--------------------------------------------------------------------------------
+• STATUS
+  Type: object
+  Non-null: 160/160 (100.0%)
+  Null: 0
+  Unique values: 3
+  Top values:
+    - Working: 145 (90.6%)
+    - Proposed: 14 (8.8%)
+    - Not Operational: 1 (0.6%)
+  Sample values: ['Working', 'Working', 'Working']
+--------------------------------------------------------------------------------
+• CATEGORY
+  Type: object
+  Non-null: 160/160 (100.0%)
+  Null: 0
+  Unique values: 1
+  Top values:
+    - National: 160 (100.0%)
+  Sample values: ['National', 'National', 'National']
+--------------------------------------------------------------------------------
+• CATEGORY2
+  Type: object
+  Non-null: 160/160 (100.0%)
+  Null: 0
+  Unique values: 2
+  Top values:
+    - National: 158 (98.8%)
+    - Transboundary: 2 (1.2%)
+  Sample values: ['National', 'National', 'National']
+--------------------------------------------------------------------------------
+• YEAR
+  Type: object
+  Non-null: 160/160 (100.0%)
+  Null: 0
+  Unique values: 38
+  Top values:
+    - 2019: 26 (16.2%)
+    - 2000: 22 (13.8%)
+    - Not available: 15 (9.4%)
+    - 2007: 10 (6.2%)
+    - 2015: 8 (5.0%)
+    - 2010: 6 (3.8%)
+    - 2009: 6 (3.8%)
+    - 1997: 5 (3.1%)
+    - 1979: 5 (3.1%)
+    - 2002: 4 (2.5%)
+  Sample values: ['1986', '1986', '1968']
+--------------------------------------------------------------------------------
+• ZONE
+  Type: object
+  Non-null: 160/160 (100.0%)
+  Null: 0
+  Unique values: 7
+  Top values:
+    - Not described: 73 (45.6%)
+    - Multiple: 31 (19.4%)
+    - No-take area: 19 (11.9%)
+    - Controlled Zone: 19 (11.9%)
+    - Multiple-use Zone: 9 (5.6%)
+    - Restricted Zone: 6 (3.8%)
+    - Sanctuary Zone: 3 (1.9%)
+  Sample values: ['Not described', 'Not described', 'Not described']
+--------------------------------------------------------------------------------
+• MANAGED_BY
+  Type: object
+  Non-null: 160/160 (100.0%)
+  Null: 0
+  Unique values: 31
+  Top values:
+    - Not described: 23 (14.4%)
+    - DEFF: 21 (13.1%)
+    - Marine Parks and Reserves Unit (MPRU): 17 (10.6%)
+    - SANParks: 10 (6.2%)
+    - Ministry of Blue Economy, Marine Resources, Fisheries and Shipping: 9 (5.6%)
+    - Kenya Wildlife Service (KWS): 8 (5.0%)
+    - Madagascar National Parks: 8 (5.0%)
+    - MITADER and ANAC: 7 (4.4%)
+    - Seychelles National Parks Authority (SNPA): 6 (3.8%)
+    - CapeNature: 6 (3.8%)
+  Sample values: ['Kenya Wildlife Service (KWS)', 'Not described', 'Kenya Wildlife Service (KWS)']
+--------------------------------------------------------------------------------
+• IUCN
+  Type: object
+  Non-null: 160/160 (100.0%)
+  Null: 0
+  Unique values: 7
+  Top values:
+    - Undetermined: 78 (48.8%)
+    - II: 40 (25.0%)
+    - IV: 18 (11.2%)
+    - VI: 10 (6.2%)
+    - V: 9 (5.6%)
+    - Ib: 3 (1.9%)
+    - 1a: 2 (1.2%)
+  Sample values: ['II', 'VI', 'II']
+--------------------------------------------------------------------------------
+• NOTES
+  Type: object
+  Non-null: 35/160 (21.9%)
+  Null: 125
+  Unique values: 24
+  Top values:
+    - Updated area: 6 (3.8%)
+    - Updated name and polygon: 3 (1.9%)
+    - Updated name, polygon, area: 2 (1.2%)
+    - Merged w/ Mayotte in 2010: 2 (1.2%)
+    - Separated from Malindi-Watamu: 2 (1.2%)
+    - Overlaps TBCA: 2 (1.2%)
+    - Orig duplicate of Diani Chale, updated to TBCA: 1 (0.6%)
+    - Added (Disputed w/ Mauritius): 1 (0.6%)
+    - Added: 1 (0.6%)
+    - Edited area and year: 1 (0.6%)
+  Sample values: ['Updated year', 'Updated area', 'Updated area']
+--------------------------------------------------------------------------------
+• AREAKM_DEC
+  Type: int64
+  Non-null: 160/160 (100.0%)
+  Null: 0
+  Unique values: 96
+  Min: 0
+  Max: 181247
+  Mean: 4586.86
+  Median: 34.50
+  Sample values: [26, 200, 10]
+--------------------------------------------------------------------------------
+• AREAKM_ACT
+  Type: float64
+  Non-null: 160/160 (100.0%)
+  Null: 0
+  Unique values: 156
+  Min: 0.00125027
+  Max: 181247.0
+  Mean: 3951.91
+  Median: 42.05
+  Sample values: [9.99036, 194.637, 11.0545]
+--------------------------------------------------------------------------------
+• PERIKM_ACT
+  Type: float64
+  Non-null: 160/160 (100.0%)
+  Null: 0
+  Unique values: 160
+  Min: 0.125849
+  Max: 3820.53
+  Mean: 169.22
+  Median: 46.06
+  Sample values: [13.9348, 70.9151, 17.2607]
+--------------------------------------------------------------------------------
+• POINT_X
+  Type: float64
+  Non-null: 160/160 (100.0%)
+  Null: 0
+  Unique values: 160
+  Min: 14.5616
+  Max: 68.7333
+  Mean: 39.31
+  Median: 39.60
+  Sample values: [39.7633, 39.7796, 39.9913]
+--------------------------------------------------------------------------------
+• POINT_Y
+  Type: float64
+  Non-null: 160/160 (100.0%)
+  Null: 0
+  Unique values: 160
+  Min: -49.0888
+  Max: -1.9009
+  Mean: -18.21
+  Median: -16.09
+  Sample values: [-3.99114, -4.06528, -3.3903]
+--------------------------------------------------------------------------------
+
+================================================================================
+DATA PREVIEW (First 10 rows)
+================================================================================
+
+   IDN  ID_MJ                                      MPA_NAME  COUNTRY   REGION                        DESGNATION           STATUS  CATEGORY CATEGORY2           YEAR           ZONE                                         MANAGED_BY          IUCN                                            NOTES  AREAKM_DEC  AREAKM_ACT  PERIKM_ACT  POINT_X   POINT_Y
+0    0      1                           Mombasa Marine Park    Kenya    Kenya                       Marine Park          Working  National  National           1986  Not described                       Kenya Wildlife Service (KWS)            II                                             None          26     9.99036     13.9348  39.7633  -3.99114
+1    1      2                        Mombasa Marine Reserve    Kenya    Kenya                    Marine Reserve          Working  National  National           1986  Not described                                      Not described            VI                                     Updated year         200   194.63700     70.9151  39.7796  -4.06528
+2    2      3                          Watamu National Park    Kenya    Kenya              Marine National Park          Working  National  National           1968  Not described                       Kenya Wildlife Service (KWS)            II                                     Updated area          10    11.05450     17.2607  39.9913  -3.39030
+3    3      5                        Malindi  National Park    Kenya    Kenya              Marine National Park          Working  National  National           1968  Not described                       Kenya Wildlife Service (KWS)            II                                     Updated area           6     6.30885     10.8561  40.1451  -3.26060
+4    4      6                Kiunga Marine National Reserve    Kenya    Kenya           Marine National Reserve          Working  National  National           1979  Not described                       Kenya Wildlife Service (KWS)            VI  Overlaps Fambuzi, Shaka la Manyoni, Shingi Iyuu         250   239.72800    168.8490  41.3421  -1.90090
+5    5      7                Kisite-Mpunguti Marine Reserve    Kenya    Kenya                    Marine Reserve          Working  National  National           1978  Not described                       Kenya Wildlife Service (KWS)            VI                                    Overlaps TBCA          11    12.86920     15.2154  39.4095  -4.69214
+6    6      8                   Kisite-Mpunguti Marine Park    Kenya    Kenya              Marine National Park          Working  National  National           1978  Not described                       Kenya Wildlife Service (KWS)            II                                    Overlaps TBCA          28    34.00210     25.1858  39.3625  -4.71400
+7    7      9  Diani-Chale Marine National Park and Reserve    Kenya    Kenya  Marine National Park and Reserve  Not Operational  National  National           1993  Not described                                      Not described            VI                                             None          75    76.73130     69.0712  39.5738  -4.35840
+8    8     10                     Parc National Coelacanthe  Comoros  Comoros             Marine Protected Area         Proposed  National  National  Not available       Multiple  Ministry in charge of the Environment in the U...  Undetermined                                             None          93    92.76060     89.5714  43.4165 -11.89520
+9    9     11             Parc National Mitsamiouli-Ndroude  Comoros  Comoros             Marine Protected Area         Proposed  National  National  Not available   No-take area  Ministry in charge of the Environment in the U...  Undetermined                                             None          23    23.14210     47.1811  43.3618 -11.38870
+
+================================================================================
+NUMERIC COLUMN STATISTICS
+================================================================================
+
+              IDN        ID_MJ     AREAKM_DEC     AREAKM_ACT   PERIKM_ACT     POINT_X     POINT_Y
+count  160.000000   160.000000     160.000000     160.000000   160.000000  160.000000  160.000000
+mean    79.468750   302.906250    4586.856250    3951.909340   169.223987   39.314004  -18.213295
+std     46.332802   223.630108   24505.511991   23849.378009   471.847079   13.518228   12.186675
+min      0.000000     0.000000       0.000000       0.001250     0.125849   14.561600  -49.088800
+25%     39.750000    73.750000       3.000000       4.510590    12.336900   28.824800  -31.079700
+50%     78.500000   424.000000      34.500000      42.047500    46.058750   39.602500  -16.092950
+75%    119.250000   487.250000     623.750000     626.664750   146.963250   49.586875   -6.145973
+max    159.000000  1279.000000  181247.000000  181247.000000  3820.530000   68.733300   -1.900900
+
+================================================================================
+MISSING DATA SUMMARY
+================================================================================
+
+NOTES: 125 (78.1%)

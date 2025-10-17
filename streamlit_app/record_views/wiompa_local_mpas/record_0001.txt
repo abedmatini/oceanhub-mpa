@@ -1,0 +1,24 @@
+================================================================================
+RECORD 1 of 208
+================================================================================
+
+IDN        : 0
+ID_MJ      : 149
+MPA_NAME   : Kuruwitu
+COUNTRY    : Kenya
+REGION     : Kenya
+DESGNATION : No Take Zone
+STATUS     : Working
+CATEGORY   : Local
+CATEGORY2  : LMMA
+YEAR       : 2006
+ZONE       : No-take area
+MANAGED_BY : Rodrigues Regional Assembly
+IUCN       : Undetermined
+NOTES      : NULL
+AREAKM_DEC : 0
+AREAKM_ACT : 0.291992
+PERIKM_ACT : 2.412620
+POINT_X    : 39.835800
+POINT_Y    : -3.804150
+geometry   : Polygon (Area: 293274.426692, Bounds: (4434177.276500002, -421392.1773999362, 4434748.412300001, -420502.4453999164))

@@ -1,0 +1,24 @@
+================================================================================
+RECORD 19 of 208
+================================================================================
+
+IDN        : 18
+ID_MJ      : 170
+MPA_NAME   : Msumarini
+COUNTRY    : Kenya
+REGION     : Kenya
+DESGNATION : No Take Zone
+STATUS     : Proposed
+CATEGORY   : Local
+CATEGORY2  : LMMA
+YEAR       : Proposed
+ZONE       : No-take area
+MANAGED_BY : French Biodiversity Agency
+IUCN       : Undetermined
+NOTES      : NULL
+AREAKM_DEC : 1
+AREAKM_ACT : 0.911545
+PERIKM_ACT : 5.083250
+POINT_X    : 39.811700
+POINT_Y    : -3.868030
+geometry   : Polygon (Area: 915683.692975, Bounds: (4431157.7131, -428952.1211999777, 4432443.453200001, -426993.3111999233))

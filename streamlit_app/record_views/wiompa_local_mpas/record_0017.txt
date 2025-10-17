@@ -1,0 +1,24 @@
+================================================================================
+RECORD 17 of 208
+================================================================================
+
+IDN        : 16
+ID_MJ      : 168
+MPA_NAME   : Adha
+COUNTRY    : Kenya
+REGION     : Kenya
+DESGNATION : Gear Restricion
+STATUS     : Proposed
+CATEGORY   : Local
+CATEGORY2  : LMMA
+YEAR       : Proposed
+ZONE       : Gear Restriction
+MANAGED_BY : French Ministry of Ecological and Inclusive Transition
+IUCN       : Undetermined
+NOTES      : NULL
+AREAKM_DEC : 1
+AREAKM_ACT : 1.130350
+PERIKM_ACT : 4.356410
+POINT_X    : 41.134100
+POINT_Y    : -2.150480
+geometry   : Polygon (Area: 1131938.114923, Bounds: (4578430.699200001, -238551.686599897, 4579619.617600001, -237140.74429997))

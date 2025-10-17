@@ -1,0 +1,40 @@
+================================================================================
+RECORD 3 of 78
+================================================================================
+
+OBJECTID   : 3
+NAME       : Shisiwani
+Country    : Comoros
+Designatio : Marine Protected Area
+Status     : Proposed
+Category   : National
+Geographic : 12?09?30?S  12?15?30?S  44?12?00?E
+44?20?00?E.
+Administra : NULL
+Surface    : 65
+Management : NULL
+Targetted  : ?outer reef slopes 
+ ?reef plains 
+ ?seagrass meadows
+ ?enclosed lagoons
+ ?mangroves
+Targette_1 : NULL
+Zonation   : NULL
+Institutio : NULL
+Community  : NULL
+Connection : NULL
+Risks_Thre : Habitat modification
+ ?the negative effects of climate change and human pressures, and over-exploitation of resources 
+are the main causes of habitat modification
+ Climate change
+ ?rising sea level and coral bleaching
+ Invasive species
+ ?invasion by int
+Manageme_1 : NULL
+Manageme_2 : NULL
+IUCN_Categ : NULL
+Year_estab : 2021
+Legally_in : See PNC, same authority for the five parks in the Comoros.
+Planning_f : See PNC, the same management opportunities.
+Risks_Th_1 : NULL
+geometry   : Polygon (Area: 68025501.468982, Bounds: (4918756.482000001, -1365847.046500001, 4935846.261500001, -1354195.3301))

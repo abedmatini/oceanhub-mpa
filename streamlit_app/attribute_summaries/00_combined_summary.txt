@@ -1,0 +1,52 @@
+================================================================================
+WESTERN INDIAN OCEAN MPA DATASETS - COMBINED SUMMARY
+================================================================================
+
+
+WIOMPA All MPAs
+--------------------------------------------------------------------------------
+Features: 368
+Columns: 19 (excluding geometry)
+Geometry Types: ['Polygon', 'MultiPolygon']
+CRS: PROJCS["World_Mercator",GEOGCS["WGS 84",DATUM["WGS_1984",SPHEROID["WGS 84",6378137,298.257223563,AUTHORITY["EPSG","7030"]],AUTHORITY["EPSG","6326"]],PRIMEM["Greenwich",0,AUTHORITY["EPSG","8901"]],UNIT["degree",0.0174532925199433,AUTHORITY["EPSG","9122"]],AUTHORITY["EPSG","4326"]],PROJECTION["Mercator_2SP"],PARAMETER["standard_parallel_1",0],PARAMETER["central_meridian",0],PARAMETER["false_easting",0],PARAMETER["false_northing",0],UNIT["metre",1,AUTHORITY["EPSG","9001"]],AXIS["Easting",EAST],AXIS["Northing",NORTH],AUTHORITY["ESRI","54004"]]
+Attributes: IDN, ID_MJ, MPA_NAME, COUNTRY, REGION, DESGNATION, STATUS, CATEGORY, CATEGORY2, YEAR, ZONE, MANAGED_BY, IUCN, NOTES, AREAKM_DEC, AREAKM_ACT, PERIKM_ACT, POINT_X, POINT_Y
+
+WIOMPA Local MPAs
+--------------------------------------------------------------------------------
+Features: 208
+Columns: 19 (excluding geometry)
+Geometry Types: ['Polygon']
+CRS: PROJCS["World_Mercator",GEOGCS["WGS 84",DATUM["WGS_1984",SPHEROID["WGS 84",6378137,298.257223563,AUTHORITY["EPSG","7030"]],AUTHORITY["EPSG","6326"]],PRIMEM["Greenwich",0,AUTHORITY["EPSG","8901"]],UNIT["degree",0.0174532925199433,AUTHORITY["EPSG","9122"]],AUTHORITY["EPSG","4326"]],PROJECTION["Mercator_2SP"],PARAMETER["standard_parallel_1",0],PARAMETER["central_meridian",0],PARAMETER["false_easting",0],PARAMETER["false_northing",0],UNIT["metre",1,AUTHORITY["EPSG","9001"]],AXIS["Easting",EAST],AXIS["Northing",NORTH],AUTHORITY["ESRI","54004"]]
+Attributes: IDN, ID_MJ, MPA_NAME, COUNTRY, REGION, DESGNATION, STATUS, CATEGORY, CATEGORY2, YEAR, ZONE, MANAGED_BY, IUCN, NOTES, AREAKM_DEC, AREAKM_ACT, PERIKM_ACT, POINT_X, POINT_Y
+
+WIOMPA National MPAs
+--------------------------------------------------------------------------------
+Features: 160
+Columns: 19 (excluding geometry)
+Geometry Types: ['Polygon', 'MultiPolygon']
+CRS: PROJCS["World_Mercator",GEOGCS["WGS 84",DATUM["WGS_1984",SPHEROID["WGS 84",6378137,298.257223563,AUTHORITY["EPSG","7030"]],AUTHORITY["EPSG","6326"]],PRIMEM["Greenwich",0,AUTHORITY["EPSG","8901"]],UNIT["degree",0.0174532925199433,AUTHORITY["EPSG","9122"]],AUTHORITY["EPSG","4326"]],PROJECTION["Mercator_2SP"],PARAMETER["standard_parallel_1",0],PARAMETER["central_meridian",0],PARAMETER["false_easting",0],PARAMETER["false_northing",0],UNIT["metre",1,AUTHORITY["EPSG","9001"]],AXIS["Easting",EAST],AXIS["Northing",NORTH],AUTHORITY["ESRI","54004"]]
+Attributes: IDN, ID_MJ, MPA_NAME, COUNTRY, REGION, DESGNATION, STATUS, CATEGORY, CATEGORY2, YEAR, ZONE, MANAGED_BY, IUCN, NOTES, AREAKM_DEC, AREAKM_ACT, PERIKM_ACT, POINT_X, POINT_Y
+
+WIO LMMA (Locally Managed Marine Areas)
+--------------------------------------------------------------------------------
+Features: 421
+Columns: 24 (excluding geometry)
+Geometry Types: ['Polygon', 'MultiPolygon', None]
+CRS: EPSG:4326
+Attributes: Name of LM, ID2, Year Start, Lead commu, Developmen, Level of p, Number of, Number o_1, Number o_2, Mapping of, GPS coordi, Areas, Siz, Management, Is there a, Manageme_1, Is the are, Conservati, Main Resou, Primary Ob, Income act, Sources of, Organizati, Challenges, Country
+
+WIO MPA IOC
+--------------------------------------------------------------------------------
+Features: 78
+Columns: 24 (excluding geometry)
+Geometry Types: ['Polygon', 'MultiPolygon', None]
+CRS: PROJCS["World_Mercator",GEOGCS["WGS 84",DATUM["WGS_1984",SPHEROID["WGS 84",6378137,298.257223563,AUTHORITY["EPSG","7030"]],AUTHORITY["EPSG","6326"]],PRIMEM["Greenwich",0,AUTHORITY["EPSG","8901"]],UNIT["degree",0.0174532925199433,AUTHORITY["EPSG","9122"]],AUTHORITY["EPSG","4326"]],PROJECTION["Mercator_2SP"],PARAMETER["standard_parallel_1",0],PARAMETER["central_meridian",0],PARAMETER["false_easting",0],PARAMETER["false_northing",0],UNIT["metre",1,AUTHORITY["EPSG","9001"]],AXIS["Easting",EAST],AXIS["Northing",NORTH],AUTHORITY["ESRI","54004"]]
+Attributes: OBJECTID, NAME, Country, Designatio, Status, Category, Geographic, Administra, Surface, Management, Targetted, Targette_1, Zonation, Institutio, Community, Connection, Risks_Thre, Manageme_1, Manageme_2, IUCN_Categ, Year_estab, Legally_in, Planning_f, Risks_Th_1
+
+WIO Mangroves (GMW 2020)
+--------------------------------------------------------------------------------
+Features: 57161
+Columns: 3 (excluding geometry)
+Geometry Types: ['Polygon']
+CRS: PROJCS["World_Mercator",GEOGCS["WGS 84",DATUM["WGS_1984",SPHEROID["WGS 84",6378137,298.257223563,AUTHORITY["EPSG","7030"]],AUTHORITY["EPSG","6326"]],PRIMEM["Greenwich",0,AUTHORITY["EPSG","8901"]],UNIT["degree",0.0174532925199433,AUTHORITY["EPSG","9122"]],AUTHORITY["EPSG","4326"]],PROJECTION["Mercator_2SP"],PARAMETER["standard_parallel_1",0],PARAMETER["central_meridian",0],PARAMETER["false_easting",0],PARAMETER["false_northing",0],UNIT["metre",1,AUTHORITY["EPSG","9001"]],AXIS["Easting",EAST],AXIS["Northing",NORTH],AUTHORITY["ESRI","54004"]]
+Attributes: PXLVAL, Shape_Leng, Shape_Area

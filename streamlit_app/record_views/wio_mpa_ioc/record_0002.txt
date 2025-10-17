@@ -1,0 +1,40 @@
+================================================================================
+RECORD 2 of 78
+================================================================================
+
+OBJECTID   : 2
+NAME       : Mitsamiouli Ndroudé
+Country    : Comoros
+Designatio : Marine Protected Area
+Status     : Proposed
+Category   : National
+Geographic : 11?21?30?S 11?26?30?S 
+43?16?00?E 43?26?00?E
+Administra : NULL
+Surface    : 18.57
+Management : NULL
+Targetted  : ?outer reef slopes
+ ?reef plains
+ ?seagrass meadows
+ ?basins in the reef plains
+ ?basalt slopes
+Targette_1 : NULL
+Zonation   : NULL
+Institutio : NULL
+Community  : NULL
+Connection : the same objectives for the period 2017?2021
+Risks_Thre : NULL
+Manageme_1 : Habitat modification
+ ?the negative effects of climate change and human pressures, and overexploitation of resources 
+are the main causes of habitat modification
+ Climate change
+ ?rising sea level and coral bleaching
+ Invasive species
+ ?invasion by intr
+Manageme_2 : NULL
+IUCN_Categ : NULL
+Year_estab : 2021
+Legally_in : See PNC, same authority
+Planning_f : See PNC
+Risks_Th_1 : NULL
+geometry   : Polygon (Area: 24074748.638233, Bounds: (4817513.008299999, -1273260.7784000002, 4834383.2557, -1264698.0683000013))

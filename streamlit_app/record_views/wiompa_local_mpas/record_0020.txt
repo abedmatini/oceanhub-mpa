@@ -1,0 +1,24 @@
+================================================================================
+RECORD 20 of 208
+================================================================================
+
+IDN        : 19
+ID_MJ      : 171
+MPA_NAME   : Kitwani
+COUNTRY    : Kenya
+REGION     : Kenya
+DESGNATION : Seasonal closure
+STATUS     : Proposed
+CATEGORY   : Local
+CATEGORY2  : LMMA
+YEAR       : Proposed
+ZONE       : Seasonal closure
+MANAGED_BY : NULL
+IUCN       : Undetermined
+NOTES      : NULL
+AREAKM_DEC : 1
+AREAKM_ACT : 1.342000
+PERIKM_ACT : 4.898980
+POINT_X    : 41.181200
+POINT_Y    : -2.097220
+geometry   : Polygon (Area: 1343785.198271, Bounds: (4583530.711499999, -232829.8292999774, 4585002.5938, -231072.51879995))

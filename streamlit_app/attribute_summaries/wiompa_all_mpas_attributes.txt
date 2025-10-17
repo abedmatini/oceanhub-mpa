@@ -1,0 +1,301 @@
+================================================================================
+WIOMPA All MPAs
+================================================================================
+
+File: /Users/mac/Downloads/MPA Data/WIOMPAS_All_fin/WIOMPAS_All_fin.shp
+Number of Features: 368
+Geometry Types: ['Polygon', 'MultiPolygon']
+CRS: PROJCS["World_Mercator",GEOGCS["WGS 84",DATUM["WGS_1984",SPHEROID["WGS 84",6378137,298.257223563,AUTHORITY["EPSG","7030"]],AUTHORITY["EPSG","6326"]],PRIMEM["Greenwich",0,AUTHORITY["EPSG","8901"]],UNIT["degree",0.0174532925199433,AUTHORITY["EPSG","9122"]],AUTHORITY["EPSG","4326"]],PROJECTION["Mercator_2SP"],PARAMETER["standard_parallel_1",0],PARAMETER["central_meridian",0],PARAMETER["false_easting",0],PARAMETER["false_northing",0],UNIT["metre",1,AUTHORITY["EPSG","9001"]],AXIS["Easting",EAST],AXIS["Northing",NORTH],AUTHORITY["ESRI","54004"]]
+Bounds: [ 1576485.7006     -6453920.36789981  8638756.66553281  -188305.43019997]
+
+================================================================================
+COLUMNS (20)
+================================================================================
+
+• IDN
+  Type: int64
+  Non-null: 368/368 (100.0%)
+  Null: 0
+  Unique values: 208
+  Min: 0
+  Max: 207
+  Mean: 93.05
+  Median: 91.50
+  Sample values: [0, 1, 2]
+--------------------------------------------------------------------------------
+• ID_MJ
+  Type: int64
+  Non-null: 368/368 (100.0%)
+  Null: 0
+  Unique values: 351
+  Min: 0
+  Max: 1279
+  Mean: 293.37
+  Median: 308.50
+  Sample values: [149, 150, 151]
+--------------------------------------------------------------------------------
+• MPA_NAME
+  Type: object
+  Non-null: 368/368 (100.0%)
+  Null: 0
+  Unique values: 360
+  Sample values: ['Kuruwitu', 'Wasini', 'Nyari-Kikadini']
+--------------------------------------------------------------------------------
+• COUNTRY
+  Type: object
+  Non-null: 368/368 (100.0%)
+  Null: 0
+  Unique values: 9
+  Top values:
+    - Madagascar: 144 (39.1%)
+    - Tanzania: 54 (14.7%)
+    - South Africa: 49 (13.3%)
+    - Kenya: 46 (12.5%)
+    - Mozambique: 22 (6.0%)
+    - Seychelles: 21 (5.7%)
+    - Mauritius: 17 (4.6%)
+    - France: 11 (3.0%)
+    - Comoros: 4 (1.1%)
+  Sample values: ['Kenya', 'Kenya', 'Kenya']
+--------------------------------------------------------------------------------
+• REGION
+  Type: object
+  Non-null: 368/368 (100.0%)
+  Null: 0
+  Unique values: 13
+  Top values:
+    - Madagascar: 144 (39.1%)
+    - South Africa: 49 (13.3%)
+    - Kenya: 46 (12.5%)
+    - Tanzania: 45 (12.2%)
+    - Mozambique: 22 (6.0%)
+    - Seychelles: 21 (5.7%)
+    - Mauritius: 17 (4.6%)
+    - Zanzibar: 9 (2.4%)
+    - Iles Esparses: 5 (1.4%)
+    - Comoros: 4 (1.1%)
+  Sample values: ['Kenya', 'Kenya', 'Kenya']
+--------------------------------------------------------------------------------
+• DESGNATION
+  Type: object
+  Non-null: 368/368 (100.0%)
+  Null: 0
+  Unique values: 41
+  Top values:
+    - Marine Protected Area: 159 (43.2%)
+    - Marine Reserve: 25 (6.8%)
+    - No take zone, temporary reserve: 20 (5.4%)
+    - Fisheries Management Area: 20 (5.4%)
+    - Gear Restricion: 16 (4.3%)
+    - No Take Zone: 15 (4.1%)
+    - Zones being identified: 14 (3.8%)
+    - Marine National Park: 11 (3.0%)
+    - National Park: 10 (2.7%)
+    - No take zone: 8 (2.2%)
+  Sample values: ['No Take Zone', 'No Take Zone', 'No Take Zone']
+--------------------------------------------------------------------------------
+• STATUS
+  Type: object
+  Non-null: 368/368 (100.0%)
+  Null: 0
+  Unique values: 4
+  Top values:
+    - Working: 322 (87.5%)
+    - Proposed: 39 (10.6%)
+    - Not functional: 6 (1.6%)
+    - Not Operational: 1 (0.3%)
+  Sample values: ['Working', 'Working', 'Working']
+--------------------------------------------------------------------------------
+• CATEGORY
+  Type: object
+  Non-null: 368/368 (100.0%)
+  Null: 0
+  Unique values: 2
+  Top values:
+    - Local: 208 (56.5%)
+    - National: 160 (43.5%)
+  Sample values: ['Local', 'Local', 'Local']
+--------------------------------------------------------------------------------
+• CATEGORY2
+  Type: object
+  Non-null: 368/368 (100.0%)
+  Null: 0
+  Unique values: 7
+  Top values:
+    - LMMA: 180 (48.9%)
+    - National: 158 (42.9%)
+    - CFMA: 20 (5.4%)
+    - CMA: 6 (1.6%)
+    - Transboundary: 2 (0.5%)
+    - VMA: 1 (0.3%)
+    - VCMA: 1 (0.3%)
+  Sample values: ['LMMA', 'LMMA', 'LMMA']
+--------------------------------------------------------------------------------
+• YEAR
+  Type: object
+  Non-null: 368/368 (100.0%)
+  Null: 0
+  Unique values: 42
+  Top values:
+    - Not available: 118 (32.1%)
+    - 2000: 26 (7.1%)
+    - 2019: 26 (7.1%)
+    - 2005: 22 (6.0%)
+    - Proposed: 19 (5.2%)
+    - 2017: 15 (4.1%)
+    - 2011: 12 (3.3%)
+    - 2015: 12 (3.3%)
+    - 2012: 10 (2.7%)
+    - 2007: 10 (2.7%)
+  Sample values: ['2006', '2008', '2006']
+--------------------------------------------------------------------------------
+• ZONE
+  Type: object
+  Non-null: 368/368 (100.0%)
+  Null: 0
+  Unique values: 10
+  Top values:
+    - Not described: 209 (56.8%)
+    - No-take area: 43 (11.7%)
+    - Multiple: 31 (8.4%)
+    - Mulitple: 24 (6.5%)
+    - Controlled Zone: 19 (5.2%)
+    - Gear Restriction: 16 (4.3%)
+    - Multiple-use Zone: 9 (2.4%)
+    - Seasonal closure: 8 (2.2%)
+    - Restricted Zone: 6 (1.6%)
+    - Sanctuary Zone: 3 (0.8%)
+  Sample values: ['No-take area', 'No-take area', 'No-take area']
+--------------------------------------------------------------------------------
+• MANAGED_BY
+  Type: object
+  Non-null: 200/368 (54.3%)
+  Null: 168
+  Unique values: 35
+  Top values:
+    - Marine Parks and Reserves Unit (MPRU): 24 (6.5%)
+    - Not described: 23 (6.2%)
+    - DEFF: 21 (5.7%)
+    - Ministry of Blue Economy, Marine Resources, Fisheries and Shipping: 18 (4.9%)
+    - SANParks: 10 (2.7%)
+    - Rodrigues Regional Assembly: 9 (2.4%)
+    - CapeNature: 9 (2.4%)
+    - Co-mgt among community council for fisheries, with support from Bitonga Divers, Ocean Revolution: 8 (2.2%)
+    - Kenya Wildlife Service (KWS): 8 (2.2%)
+    - Madagascar National Parks: 8 (2.2%)
+  Sample values: ['Rodrigues Regional Assembly', 'Ministry of Blue Economy, Marine Resources, Fisheries and Shipping', 'Ministry of Blue Economy, Marine Resources, Fisheries and Shipping']
+--------------------------------------------------------------------------------
+• IUCN
+  Type: object
+  Non-null: 368/368 (100.0%)
+  Null: 0
+  Unique values: 7
+  Top values:
+    - Undetermined: 263 (71.5%)
+    - II: 49 (13.3%)
+    - IV: 29 (7.9%)
+    - VI: 10 (2.7%)
+    - V: 9 (2.4%)
+    - Ib: 6 (1.6%)
+    - 1a: 2 (0.5%)
+  Sample values: ['Undetermined', 'II', 'IV']
+--------------------------------------------------------------------------------
+• NOTES
+  Type: object
+  Non-null: 140/368 (38.0%)
+  Null: 228
+  Unique values: 117
+  Sample values: ['Overlaps TBCA', 'Overlaps TBCA', 'Is this Kanamai-Mradi?']
+--------------------------------------------------------------------------------
+• AREAKM_DEC
+  Type: int64
+  Non-null: 368/368 (100.0%)
+  Null: 0
+  Unique values: 106
+  Min: 0
+  Max: 181247
+  Mean: 2000.36
+  Median: 1.00
+  Sample values: [0, 0, 0]
+--------------------------------------------------------------------------------
+• AREAKM_ACT
+  Type: float64
+  Non-null: 368/368 (100.0%)
+  Null: 0
+  Unique values: 329
+  Min: 0.00125027
+  Max: 181247.0
+  Mean: 1744.38
+  Median: 2.01
+  Sample values: [0.291992, 0.420587, 0.0949823]
+--------------------------------------------------------------------------------
+• PERIKM_ACT
+  Type: float64
+  Non-null: 368/368 (100.0%)
+  Null: 0
+  Unique values: 338
+  Min: 0.125849
+  Max: 3820.53
+  Mean: 82.29
+  Median: 5.86
+  Sample values: [2.41262, 5.22033, 1.5757]
+--------------------------------------------------------------------------------
+• POINT_X
+  Type: float64
+  Non-null: 368/368 (100.0%)
+  Null: 0
+  Unique values: 365
+  Min: 14.5616
+  Max: 68.7333
+  Mean: 42.67
+  Median: 43.64
+  Sample values: [39.8358, 39.3588, 39.6109]
+--------------------------------------------------------------------------------
+• POINT_Y
+  Type: float64
+  Non-null: 368/368 (100.0%)
+  Null: 0
+  Unique values: 368
+  Min: -49.0888
+  Max: -1.9009
+  Mean: -15.70
+  Median: -15.72
+  Sample values: [-3.80415, -4.65595, -4.22067]
+--------------------------------------------------------------------------------
+
+================================================================================
+DATA PREVIEW (First 10 rows)
+================================================================================
+
+   IDN  ID_MJ        MPA_NAME COUNTRY REGION       DESGNATION    STATUS CATEGORY CATEGORY2           YEAR              ZONE                                         MANAGED_BY          IUCN                   NOTES  AREAKM_DEC  AREAKM_ACT  PERIKM_ACT  POINT_X  POINT_Y
+0    0    149        Kuruwitu   Kenya  Kenya     No Take Zone   Working    Local      LMMA           2006      No-take area                        Rodrigues Regional Assembly  Undetermined                    None           0    0.291992    2.412620  39.8358 -3.80415
+1    1    150          Wasini   Kenya  Kenya     No Take Zone   Working    Local      LMMA           2008      No-take area  Ministry of Blue Economy, Marine Resources, Fi...            II           Overlaps TBCA           0    0.420587    5.220330  39.3588 -4.65595
+2    2    151  Nyari-Kikadini   Kenya  Kenya     No Take Zone   Working    Local      LMMA           2006      No-take area  Ministry of Blue Economy, Marine Resources, Fi...            IV                    None           0    0.094982    1.575700  39.6109 -4.22067
+3    3    153           Jimbo   Kenya  Kenya  Gear Restricion  Proposed    Local      LMMA           2009  Gear Restriction  Ministry of Blue Economy, Marine Resources, Fi...            II                    None           0    0.085768    1.158270  39.2285 -4.67236
+4    4    154           Vanga   Kenya  Kenya  Gear Restricion  Proposed    Local      LMMA           2010  Gear Restriction                        Rodrigues Regional Assembly  Undetermined                    None           0    0.340140    2.686660  39.2662 -4.66777
+5    5    155        Kibuyuni   Kenya  Kenya  Gear Restricion  Proposed    Local      LMMA           2010  Gear Restriction  Ministry of Blue Economy, Marine Resources, Fi...            IV           Overlaps TBCA           0    0.289899    3.484800  39.3310 -4.64427
+6    6    156           Mradi   Kenya  Kenya     No Take Zone   Working    Local      LMMA  Not available      No-take area                                               None  Undetermined  Is this Kanamai-Mradi?           0    0.224285    1.977510  39.7789 -3.94173
+7    7    157         Shimoni   Kenya  Kenya     No Take Zone   Working    Local      LMMA           2010      No-take area                        Rodrigues Regional Assembly  Undetermined           Overlaps TBCA           0    0.054805    1.430760  39.3635 -4.64492
+8    8    158          Bureni   Kenya  Kenya     No Take Zone   Working    Local      LMMA           2013      No-take area  Ministry of Blue Economy, Marine Resources, Fi...            IV                    None           1    0.051416    0.939006  39.8249 -3.83675
+9    9    159     Mji wa kale   Kenya  Kenya  Gear Restricion   Working    Local      LMMA           2014  Gear Restriction  Ministry of Blue Economy, Marine Resources, Fi...            IV           Overlaps TBCA           0    0.370351    2.704110  39.3925 -4.66014
+
+================================================================================
+NUMERIC COLUMN STATISTICS
+================================================================================
+
+              IDN        ID_MJ     AREAKM_DEC     AREAKM_ACT   PERIKM_ACT     POINT_X     POINT_Y
+count  368.000000   368.000000     368.000000     368.000000   368.000000  368.000000  368.000000
+mean    93.051630   293.369565    2000.361413    1744.375116    82.294184   42.667711  -15.704107
+std     55.818117   162.108466   16289.045696   15817.721491   320.647556   10.078674    9.691417
+min      0.000000     0.000000       0.000000       0.001250     0.125849   14.561600  -49.088800
+25%     45.750000   170.750000       0.000000       2.005525     5.020885   39.362275  -20.789350
+50%     91.500000   308.500000       1.000000       2.007165     5.864925   43.644250  -15.718050
+75%    137.250000   412.250000      30.500000      91.443800    61.942800   49.770275   -6.822145
+max    207.000000  1279.000000  181247.000000  181247.000000  3820.530000   68.733300   -1.900900
+
+================================================================================
+MISSING DATA SUMMARY
+================================================================================
+
+MANAGED_BY: 168 (45.7%)
+NOTES: 228 (62.0%)

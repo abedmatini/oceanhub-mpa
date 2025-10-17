@@ -1,0 +1,24 @@
+================================================================================
+RECORD 7 of 208
+================================================================================
+
+IDN        : 6
+ID_MJ      : 156
+MPA_NAME   : Mradi
+COUNTRY    : Kenya
+REGION     : Kenya
+DESGNATION : No Take Zone
+STATUS     : Working
+CATEGORY   : Local
+CATEGORY2  : LMMA
+YEAR       : Not available
+ZONE       : No-take area
+MANAGED_BY : NULL
+IUCN       : Undetermined
+NOTES      : Is this Kanamai-Mradi?
+AREAKM_DEC : 0
+AREAKM_ACT : 0.224285
+PERIKM_ACT : 1.977510
+POINT_X    : 39.778900
+POINT_Y    : -3.941730
+geometry   : Polygon (Area: 225343.188804, Bounds: (4427794.7957999995, -436466.88379993045, 4428545.846099998, -435907.7626999097))

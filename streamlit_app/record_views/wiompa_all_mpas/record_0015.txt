@@ -1,0 +1,24 @@
+================================================================================
+RECORD 15 of 368
+================================================================================
+
+IDN        : 14
+ID_MJ      : 166
+MPA_NAME   : Chipopo
+COUNTRY    : Kenya
+REGION     : Kenya
+DESGNATION : No Take Zone
+STATUS     : Working
+CATEGORY   : Local
+CATEGORY2  : LMMA
+YEAR       : 2015
+ZONE       : No-take area
+MANAGED_BY : NULL
+IUCN       : Undetermined
+NOTES      : NULL
+AREAKM_DEC : 17
+AREAKM_ACT : 0.179234
+PERIKM_ACT : 1.751830
+POINT_X    : 41.038400
+POINT_Y    : -2.164720
+geometry   : Polygon (Area: 179488.821305, Bounds: (4568060.7513, -239724.86439993142, 4568686.114399999, -239115.38689991808))

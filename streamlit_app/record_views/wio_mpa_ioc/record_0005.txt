@@ -1,0 +1,29 @@
+================================================================================
+RECORD 5 of 78
+================================================================================
+
+OBJECTID   : 0
+NAME       : Baie de Boueni
+Country    : France
+Designatio : Maritime public domain (Conservatoire du littoral)
+Status     : Working
+Category   : National
+Geographic : NULL
+Administra : NULL
+Surface    : NULL
+Management : NULL
+Targetted  : NULL
+Targette_1 : NULL
+Zonation   : NULL
+Institutio : NULL
+Community  : NULL
+Connection : NULL
+Risks_Thre : NULL
+Manageme_1 : NULL
+Manageme_2 : NULL
+IUCN_Categ : NULL
+Year_estab : NULL
+Legally_in : NULL
+Planning_f : NULL
+Risks_Th_1 : NULL
+geometry   : MultiPolygon (Area: 2724085.254476, Bounds: (5023173.800700001, -1443063.4470999986, 5026709.6417, -1437753.0676000006))

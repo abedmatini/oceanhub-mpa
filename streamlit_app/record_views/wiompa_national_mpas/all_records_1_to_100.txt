@@ -1,0 +1,2705 @@
+================================================================================
+WIOMPA National MPAs - ALL RECORDS
+Total: 160
+================================================================================
+
+================================================================================
+RECORD 1 of 160
+================================================================================
+
+IDN        : 0
+ID_MJ      : 1
+MPA_NAME   : Mombasa Marine Park
+COUNTRY    : Kenya
+REGION     : Kenya
+DESGNATION : Marine Park
+STATUS     : Working
+CATEGORY   : National
+CATEGORY2  : National
+YEAR       : 1986
+ZONE       : Not described
+MANAGED_BY : Kenya Wildlife Service (KWS)
+IUCN       : II
+NOTES      : NULL
+AREAKM_DEC : 26
+AREAKM_ACT : 9.990360
+PERIKM_ACT : 13.934800
+POINT_X    : 39.763300
+POINT_Y    : -3.991140
+geometry   : Polygon (Area: 10038690.400278, Bounds: (4424113.4443, -444174.79689991206, 4428798.636799998, -439160.55699994654))
+
+
+
+================================================================================
+RECORD 2 of 160
+================================================================================
+
+IDN        : 1
+ID_MJ      : 2
+MPA_NAME   : Mombasa Marine Reserve
+COUNTRY    : Kenya
+REGION     : Kenya
+DESGNATION : Marine Reserve
+STATUS     : Working
+CATEGORY   : National
+CATEGORY2  : National
+YEAR       : 1986
+ZONE       : Not described
+MANAGED_BY : Not described
+IUCN       : VI
+NOTES      : Updated year
+AREAKM_DEC : 200
+AREAKM_ACT : 194.637000
+PERIKM_ACT : 70.915100
+POINT_X    : 39.779600
+POINT_Y    : -4.065280
+geometry   : Polygon (Area: 195614129.249707, Bounds: (4418648.307899999, -460414.4485999398, 4437394.225200001, -438352.34019994567))
+
+
+
+================================================================================
+RECORD 3 of 160
+================================================================================
+
+IDN        : 2
+ID_MJ      : 3
+MPA_NAME   : Watamu National Park
+COUNTRY    : Kenya
+REGION     : Kenya
+DESGNATION : Marine National Park
+STATUS     : Working
+CATEGORY   : National
+CATEGORY2  : National
+YEAR       : 1968
+ZONE       : Not described
+MANAGED_BY : Kenya Wildlife Service (KWS)
+IUCN       : II
+NOTES      : Updated area
+AREAKM_DEC : 10
+AREAKM_ACT : 11.054500
+PERIKM_ACT : 17.260700
+POINT_X    : 39.991300
+POINT_Y    : -3.390300
+geometry   : Polygon (Area: 11093021.775851, Bounds: (4449135.543699998, -377169.59639989905, 4455167.909000002, -372349.28269994573))
+
+
+
+================================================================================
+RECORD 4 of 160
+================================================================================
+
+IDN        : 3
+ID_MJ      : 5
+MPA_NAME   : Malindi  National Park
+COUNTRY    : Kenya
+REGION     : Kenya
+DESGNATION : Marine National Park
+STATUS     : Working
+CATEGORY   : National
+CATEGORY2  : National
+YEAR       : 1968
+ZONE       : Not described
+MANAGED_BY : Kenya Wildlife Service (KWS)
+IUCN       : II
+NOTES      : Updated area
+AREAKM_DEC : 6
+AREAKM_ACT : 6.308850
+PERIKM_ACT : 10.856100
+POINT_X    : 40.145100
+POINT_Y    : -3.260600
+geometry   : Polygon (Area: 6329186.070248, Bounds: (4467151.944200002, -361937.6036999243, 4470207.0992, -359088.670999921))
+
+
+
+================================================================================
+RECORD 5 of 160
+================================================================================
+
+IDN        : 4
+ID_MJ      : 6
+MPA_NAME   : Kiunga Marine National Reserve
+COUNTRY    : Kenya
+REGION     : Kenya
+DESGNATION : Marine National Reserve
+STATUS     : Working
+CATEGORY   : National
+CATEGORY2  : National
+YEAR       : 1979
+ZONE       : Not described
+MANAGED_BY : Kenya Wildlife Service (KWS)
+IUCN       : VI
+NOTES      : Overlaps Fambuzi, Shaka la Manyoni, Shingi Iyuu
+AREAKM_DEC : 250
+AREAKM_ACT : 239.728000
+PERIKM_ACT : 168.849000
+POINT_X    : 41.342100
+POINT_Y    : -1.900900
+geometry   : Polygon (Area: 239966412.424737, Bounds: (4584046.69940001, -228246.25549999817, 4626007.991900002, -188305.4301999708))
+
+
+
+================================================================================
+RECORD 6 of 160
+================================================================================
+
+IDN        : 5
+ID_MJ      : 7
+MPA_NAME   : Kisite-Mpunguti Marine Reserve
+COUNTRY    : Kenya
+REGION     : Kenya
+DESGNATION : Marine Reserve
+STATUS     : Working
+CATEGORY   : National
+CATEGORY2  : National
+YEAR       : 1978
+ZONE       : Not described
+MANAGED_BY : Kenya Wildlife Service (KWS)
+IUCN       : VI
+NOTES      : Overlaps TBCA
+AREAKM_DEC : 11
+AREAKM_ACT : 12.869200
+PERIKM_ACT : 15.215400
+POINT_X    : 39.409500
+POINT_Y    : -4.692140
+geometry   : Polygon (Area: 12955323.363938, Bounds: (4384993.8542000055, -522070.42649986607, 4389282.994200004, -516394.1833998852))
+
+
+
+================================================================================
+RECORD 7 of 160
+================================================================================
+
+IDN        : 6
+ID_MJ      : 8
+MPA_NAME   : Kisite-Mpunguti Marine Park
+COUNTRY    : Kenya
+REGION     : Kenya
+DESGNATION : Marine National Park
+STATUS     : Working
+CATEGORY   : National
+CATEGORY2  : National
+YEAR       : 1978
+ZONE       : Not described
+MANAGED_BY : Kenya Wildlife Service (KWS)
+IUCN       : II
+NOTES      : Overlaps TBCA
+AREAKM_DEC : 28
+AREAKM_ACT : 34.002100
+PERIKM_ACT : 25.185800
+POINT_X    : 39.362500
+POINT_Y    : -4.714000
+geometry   : Polygon (Area: 34231681.181277, Bounds: (4377505.392099999, -525423.558499917, 4386566.7986, -518242.57749988895))
+
+
+
+================================================================================
+RECORD 8 of 160
+================================================================================
+
+IDN        : 7
+ID_MJ      : 9
+MPA_NAME   : Diani-Chale Marine National Park and Reserve
+COUNTRY    : Kenya
+REGION     : Kenya
+DESGNATION : Marine National Park and Reserve
+STATUS     : Not Operational
+CATEGORY   : National
+CATEGORY2  : National
+YEAR       : 1993
+ZONE       : Not described
+MANAGED_BY : Not described
+IUCN       : VI
+NOTES      : NULL
+AREAKM_DEC : 75
+AREAKM_ACT : 76.731300
+PERIKM_ACT : 69.071200
+POINT_X    : 39.573800
+POINT_Y    : -4.358400
+geometry   : Polygon (Area: 77178200.802106, Bounds: (4399658.752099997, -493697.2418999544, 4411670.363000001, -470596.29229989136))
+
+
+
+================================================================================
+RECORD 9 of 160
+================================================================================
+
+IDN        : 8
+ID_MJ      : 10
+MPA_NAME   : Parc National Coelacanthe
+COUNTRY    : Comoros
+REGION     : Comoros
+DESGNATION : Marine Protected Area
+STATUS     : Proposed
+CATEGORY   : National
+CATEGORY2  : National
+YEAR       : Not available
+ZONE       : Multiple
+MANAGED_BY : Ministry in charge of the Environment in the Union of the Comoros
+IUCN       : Undetermined
+NOTES      : NULL
+AREAKM_DEC : 93
+AREAKM_ACT : 92.760600
+PERIKM_ACT : 89.571400
+POINT_X    : 43.416500
+POINT_Y    : -11.895200
+geometry   : Polygon (Area: 96848999.845688, Bounds: (4814384.351399998, -1331959.3822999124, 4846648.248799997, -1314828.912999879))
+
+
+
+================================================================================
+RECORD 10 of 160
+================================================================================
+
+IDN        : 9
+ID_MJ      : 11
+MPA_NAME   : Parc National Mitsamiouli-Ndroude
+COUNTRY    : Comoros
+REGION     : Comoros
+DESGNATION : Marine Protected Area
+STATUS     : Proposed
+CATEGORY   : National
+CATEGORY2  : National
+YEAR       : Not available
+ZONE       : No-take area
+MANAGED_BY : Ministry in charge of the Environment in the Union of the Comoros
+IUCN       : Undetermined
+NOTES      : NULL
+AREAKM_DEC : 23
+AREAKM_ACT : 23.142100
+PERIKM_ACT : 47.181100
+POINT_X    : 43.361800
+POINT_Y    : -11.388700
+geometry   : Polygon (Area: 24074748.638122, Bounds: (4817513.008299998, -1273260.7783998768, 4834383.2557, -1264698.0682999168))
+
+
+
+================================================================================
+RECORD 11 of 160
+================================================================================
+
+IDN        : 10
+ID_MJ      : 12
+MPA_NAME   : Parc National Shisiwani
+COUNTRY    : Comoros
+REGION     : Comoros
+DESGNATION : Marine Protected Area
+STATUS     : Proposed
+CATEGORY   : National
+CATEGORY2  : National
+YEAR       : Not available
+ZONE       : Multiple
+MANAGED_BY : Ministry in charge of the Environment in the Union of the Comoros
+IUCN       : Undetermined
+NOTES      : NULL
+AREAKM_DEC : 65
+AREAKM_ACT : 65.007300
+PERIKM_ACT : 69.777800
+POINT_X    : 44.257400
+POINT_Y    : -12.199500
+geometry   : Polygon (Area: 68025501.468983, Bounds: (4918756.482000001, -1365847.0464998959, 4935846.2615, -1354195.3300999026))
+
+
+
+================================================================================
+RECORD 12 of 160
+================================================================================
+
+IDN        : 11
+ID_MJ      : 13
+MPA_NAME   : Parc National de Moheli (Moheli National Park)
+
+COUNTRY    : Comoros
+REGION     : Comoros
+DESGNATION : National Park
+STATUS     : Working
+CATEGORY   : National
+CATEGORY2  : National
+YEAR       : 2001
+ZONE       : Multiple
+MANAGED_BY : Ministry in charge of the Environment in the Union of the Comoros
+IUCN       : Undetermined
+NOTES      : NULL
+AREAKM_DEC : 449
+AREAKM_ACT : 593.659000
+PERIKM_ACT : 123.298000
+POINT_X    : 43.720700
+POINT_Y    : -12.379100
+geometry   : Polygon (Area: 622065535.383695, Bounds: (4844725.2842000015, -1391107.9563998792, 4890659.022599999, -1366457.7157999147))
+
+
+
+================================================================================
+RECORD 13 of 160
+================================================================================
+
+IDN        : 12
+ID_MJ      : 14
+MPA_NAME   : Soariake
+COUNTRY    : Madagascar
+REGION     : Madagascar
+DESGNATION : Marine Protected Area
+STATUS     : Working
+CATEGORY   : National
+CATEGORY2  : National
+YEAR       : 2015
+ZONE       : Not described
+MANAGED_BY : Community and Wildlife Conservation Society
+IUCN       : VI
+NOTES      : NULL
+AREAKM_DEC : 383
+AREAKM_ACT : 382.932000
+PERIKM_ACT : 99.816600
+POINT_X    : 43.253800
+POINT_Y    : -22.598800
+geometry   : Polygon (Area: 448871117.744757, Bounds: (4805776.191199998, -2587124.1535998625, 4825770.971999998, -2547262.0964998635))
+
+
+
+================================================================================
+RECORD 14 of 160
+================================================================================
+
+IDN        : 13
+ID_MJ      : 15
+MPA_NAME   : Ankarea
+COUNTRY    : Madagascar
+REGION     : Madagascar
+DESGNATION : Marine Protected Area
+STATUS     : Working
+CATEGORY   : National
+CATEGORY2  : National
+YEAR       : 2015
+ZONE       : Not described
+MANAGED_BY : Community and Wildlife Conservation Society
+IUCN       : V
+NOTES      : NULL
+AREAKM_DEC : 1355
+AREAKM_ACT : 1356.840000
+PERIKM_ACT : 147.603000
+POINT_X    : 48.574700
+POINT_Y    : -12.878300
+geometry   : Polygon (Area: 1427290485.898949, Bounds: (5388556.256399999, -1455345.0377999053, 5426061.633999999, -1417284.4341999195))
+
+
+
+================================================================================
+RECORD 15 of 160
+================================================================================
+
+IDN        : 14
+ID_MJ      : 16
+MPA_NAME   : Ambodivahibe
+COUNTRY    : Madagascar
+REGION     : Madagascar
+DESGNATION : Marine Protected Area
+STATUS     : Working
+CATEGORY   : National
+CATEGORY2  : National
+YEAR       : 2015
+ZONE       : Not described
+MANAGED_BY : Community and Wildlife Conservation Society
+IUCN       : V
+NOTES      : NULL
+AREAKM_DEC : 466
+AREAKM_ACT : 466.010000
+PERIKM_ACT : 182.069000
+POINT_X    : 49.526500
+POINT_Y    : -12.299000
+geometry   : Polygon (Area: 487999094.305828, Bounds: (5498714.294, -1387839.8563998807, 5528367.422499998, -1354654.767799886))
+
+
+
+================================================================================
+RECORD 16 of 160
+================================================================================
+
+IDN        : 15
+ID_MJ      : 17
+MPA_NAME   : Velondriake
+COUNTRY    : Madagascar
+REGION     : Madagascar
+DESGNATION : Marine Protected Area
+STATUS     : Working
+CATEGORY   : National
+CATEGORY2  : National
+YEAR       : 2015
+ZONE       : Not described
+MANAGED_BY : Community and Blue Ventures
+IUCN       : V
+NOTES      : NULL
+AREAKM_DEC : 688
+AREAKM_ACT : 687.846000
+PERIKM_ACT : 196.272000
+POINT_X    : 43.209300
+POINT_Y    : -22.046300
+geometry   : Polygon (Area: 799885082.086189, Bounds: (4800418.4296, -2529115.906199919, 4821956.685499999, -2471647.6788999047))
+
+
+
+================================================================================
+RECORD 17 of 160
+================================================================================
+
+IDN        : 16
+ID_MJ      : 18
+MPA_NAME   : Kirindy Mite
+COUNTRY    : Madagascar
+REGION     : Madagascar
+DESGNATION : Terrestrial, coastal and pelagic protected area
+STATUS     : Working
+CATEGORY   : National
+CATEGORY2  : National
+YEAR       : 2015
+ZONE       : Not described
+MANAGED_BY : Madagascar National Parks
+IUCN       : II
+NOTES      : NULL
+AREAKM_DEC : 1562
+AREAKM_ACT : 277.523000
+PERIKM_ACT : 135.679000
+POINT_X    : 43.796200
+POINT_Y    : -20.862100
+geometry   : MultiPolygon (Area: 317570943.904950, Bounds: (4860079.8871, -2390861.0028997962, 4888412.850299999, -2333477.854599839))
+
+
+
+================================================================================
+RECORD 18 of 160
+================================================================================
+
+IDN        : 17
+ID_MJ      : 19
+MPA_NAME   : Lokobe
+COUNTRY    : Madagascar
+REGION     : Madagascar
+DESGNATION : Terrestrial and coastal protected area
+STATUS     : Working
+CATEGORY   : National
+CATEGORY2  : National
+YEAR       : 2011
+ZONE       : Not described
+MANAGED_BY : Madagascar National Parks
+IUCN       : II
+NOTES      : NULL
+AREAKM_DEC : 1
+AREAKM_ACT : 1.215350
+PERIKM_ACT : 9.515510
+POINT_X    : 48.320100
+POINT_Y    : -13.421500
+geometry   : Polygon (Area: 1284093.806139, Bounds: (5377218.6537000025, -1498582.9900997782, 5380774.563499998, -1497051.9333998412))
+
+
+
+================================================================================
+RECORD 19 of 160
+================================================================================
+
+IDN        : 18
+ID_MJ      : 20
+MPA_NAME   : Mananara Nord
+COUNTRY    : Madagascar
+REGION     : Madagascar
+DESGNATION : Terrestrial, coastal and pelagic protected area
+STATUS     : Working
+CATEGORY   : National
+CATEGORY2  : National
+YEAR       : 1989
+ZONE       : Not described
+MANAGED_BY : Madagascar National Parks
+IUCN       : II
+NOTES      : Updated area
+AREAKM_DEC : 242
+AREAKM_ACT : 12.557600
+PERIKM_ACT : 12.576000
+POINT_X    : 49.847800
+POINT_Y    : -16.325400
+geometry   : Polygon (Area: 13627778.408361, Bounds: (5546949.6662, -1832519.9595998907, 5551115.220699999, -1828354.2956998819))
+
+
+
+================================================================================
+RECORD 20 of 160
+================================================================================
+
+IDN        : 19
+ID_MJ      : 21
+MPA_NAME   : Masoala
+COUNTRY    : Madagascar
+REGION     : Madagascar
+DESGNATION : National Park
+STATUS     : Working
+CATEGORY   : National
+CATEGORY2  : National
+YEAR       : 1997
+ZONE       : Not described
+MANAGED_BY : Madagascar National Parks
+IUCN       : II
+NOTES      : Updated area
+AREAKM_DEC : 2405
+AREAKM_ACT : 107.494000
+PERIKM_ACT : 94.829700
+POINT_X    : 50.171700
+POINT_Y    : -15.852800
+geometry   : MultiPolygon (Area: 116105964.104389, Bounds: (5558161.976199998, -1795632.9403998617, 5607880.559399998, -1760918.0668998943))
+
+
+
+================================================================================
+RECORD 21 of 160
+================================================================================
+
+IDN        : 20
+ID_MJ      : 22
+MPA_NAME   : Nosy Hara
+COUNTRY    : Madagascar
+REGION     : Madagascar
+DESGNATION : National Park
+STATUS     : Working
+CATEGORY   : National
+CATEGORY2  : National
+YEAR       : 2011
+ZONE       : Not described
+MANAGED_BY : Madagascar National Parks
+IUCN       : II
+NOTES      : NULL
+AREAKM_DEC : 1257
+AREAKM_ACT : 1258.310000
+PERIKM_ACT : 271.027000
+POINT_X    : 49.001800
+POINT_Y    : -12.209800
+geometry   : MultiPolygon (Area: 1316839883.346428, Bounds: (5412881.454999997, -1395006.0563998385, 5481341.165499999, -1334909.2041998291))
+
+
+
+================================================================================
+RECORD 22 of 160
+================================================================================
+
+IDN        : 21
+ID_MJ      : 23
+MPA_NAME   : Nosy Mangabe
+COUNTRY    : Madagascar
+REGION     : Madagascar
+DESGNATION : National Park
+STATUS     : Working
+CATEGORY   : National
+CATEGORY2  : National
+YEAR       : 2015
+ZONE       : Not described
+MANAGED_BY : Madagascar National Parks
+IUCN       : II
+NOTES      : NULL
+AREAKM_DEC : 6
+AREAKM_ACT : 5.957680
+PERIKM_ACT : 15.515100
+POINT_X    : 49.768000
+POINT_Y    : -15.496900
+geometry   : MultiPolygon (Area: 6412616.376393, Bounds: (5538822.975299999, -1744796.4782998732, 5541436.701499999, -1732781.939099898))
+
+
+
+================================================================================
+RECORD 23 of 160
+================================================================================
+
+IDN        : 22
+ID_MJ      : 24
+MPA_NAME   : Nosy Tanihely
+COUNTRY    : Madagascar
+REGION     : Madagascar
+DESGNATION : National Park
+STATUS     : Working
+CATEGORY   : National
+CATEGORY2  : National
+YEAR       : 2012
+ZONE       : Not described
+MANAGED_BY : Madagascar National Parks, Nosy Be Commune and Nosy Be Tourism Office
+IUCN       : II
+NOTES      : NULL
+AREAKM_DEC : 2
+AREAKM_ACT : 1.790040
+PERIKM_ACT : 4.751800
+POINT_X    : 48.236200
+POINT_Y    : -13.482500
+geometry   : Polygon (Area: 1892250.498904, Bounds: (5368854.576799999, -1505729.4643998747, 5370406.725799999, -1504177.2734998795))
+
+
+
+================================================================================
+RECORD 24 of 160
+================================================================================
+
+IDN        : 23
+ID_MJ      : 25
+MPA_NAME   : Nosy Ve Androka
+COUNTRY    : Madagascar
+REGION     : Madagascar
+DESGNATION : Marine National Park
+STATUS     : Working
+CATEGORY   : National
+CATEGORY2  : National
+YEAR       : 2015
+ZONE       : Not described
+MANAGED_BY : Madagascar National Parks
+IUCN       : II
+NOTES      : NULL
+AREAKM_DEC : 912
+AREAKM_ACT : 912.708000
+PERIKM_ACT : 332.014000
+POINT_X    : 44.090800
+POINT_Y    : -24.983900
+geometry   : MultiPolygon (Area: 1109771457.526765, Bounds: (4855867.784000002, -2913617.1729999413, 4954046.069699999, -2721049.196499901))
+
+
+
+================================================================================
+RECORD 25 of 160
+================================================================================
+
+IDN        : 24
+ID_MJ      : 26
+MPA_NAME   : Sahamalaza Iles Radama
+COUNTRY    : Madagascar
+REGION     : Madagascar
+DESGNATION : National Park
+STATUS     : Working
+CATEGORY   : National
+CATEGORY2  : National
+YEAR       : 2007
+ZONE       : Not described
+MANAGED_BY : Madagascar National Parks
+IUCN       : II
+NOTES      : NULL
+AREAKM_DEC : 240
+AREAKM_ACT : 127.541000
+PERIKM_ACT : 132.098000
+POINT_X    : 47.736700
+POINT_Y    : -14.074100
+geometry   : MultiPolygon (Area: 135503562.004392, Bounds: (5305913.321299999, -1588696.168899887, 5331434.465799998, -1548765.4143998674))
+
+
+
+================================================================================
+RECORD 26 of 160
+================================================================================
+
+IDN        : 25
+ID_MJ      : 27
+MPA_NAME   : Ankivonjy
+COUNTRY    : Madagascar
+REGION     : Madagascar
+DESGNATION : Marine Protected Area
+STATUS     : Working
+CATEGORY   : National
+CATEGORY2  : National
+YEAR       : 2015
+ZONE       : Not described
+MANAGED_BY : Community and Wildlife Conservation Society
+IUCN       : V
+NOTES      : NULL
+AREAKM_DEC : 1394
+AREAKM_ACT : 1379.540000
+PERIKM_ACT : 322.177000
+POINT_X    : 47.862400
+POINT_Y    : -13.520400
+geometry   : MultiPolygon (Area: 1458809290.981111, Bounds: (5306978.611900001, -1531472.2598998712, 5356140.681000002, -1493184.491499857))
+
+
+
+================================================================================
+RECORD 27 of 160
+================================================================================
+
+IDN        : 26
+ID_MJ      : 41
+MPA_NAME   : Marromeu
+COUNTRY    : Mozambique
+REGION     : Mozambique
+DESGNATION : National Reserve
+STATUS     : Working
+CATEGORY   : National
+CATEGORY2  : National
+YEAR       : 1959
+ZONE       : Multiple
+MANAGED_BY : MITADER and ANAC
+IUCN       : II
+NOTES      : NULL
+AREAKM_DEC : 170
+AREAKM_ACT : 1556.390000
+PERIKM_ACT : 222.657000
+POINT_X    : 35.930700
+POINT_Y    : -18.754600
+geometry   : Polygon (Area: 1734631334.838342, Bounds: (3975448.2899999986, -2136417.6648998857, 4028624.4809000003, -2091149.1356998768))
+
+
+
+================================================================================
+RECORD 28 of 160
+================================================================================
+
+IDN        : 27
+ID_MJ      : 42
+MPA_NAME   : Bazaruto Archipelago
+COUNTRY    : Mozambique
+REGION     : Mozambique
+DESGNATION : National Park
+STATUS     : Working
+CATEGORY   : National
+CATEGORY2  : National
+YEAR       : 1971
+ZONE       : Multiple
+MANAGED_BY : MITADER and ANAC
+IUCN       : V
+NOTES      : NULL
+AREAKM_DEC : 1430
+AREAKM_ACT : 1359.340000
+PERIKM_ACT : 170.334000
+POINT_X    : 35.439300
+POINT_Y    : -21.731900
+geometry   : Polygon (Area: 1574006870.936141, Bounds: (3931463.8374, -2501328.930899875, 3956480.5654999986, -2430989.735299843))
+
+
+
+================================================================================
+RECORD 29 of 160
+================================================================================
+
+IDN        : 28
+ID_MJ      : 43
+MPA_NAME   : Cabo Sao Sebastiao
+COUNTRY    : Mozambique
+REGION     : Mozambique
+DESGNATION : Total Protection Zone (TPZ)
+STATUS     : Working
+CATEGORY   : National
+CATEGORY2  : National
+YEAR       : 2003
+ZONE       : No-take area
+MANAGED_BY : MITADER and ANAC
+IUCN       : VI
+NOTES      : NULL
+AREAKM_DEC : 176
+AREAKM_ACT : 492.446000
+PERIKM_ACT : 99.818400
+POINT_X    : 35.481100
+POINT_Y    : -22.200200
+geometry   : Polygon (Area: 573911678.243651, Bounds: (3939891.8658000007, -2536340.751399846, 3958451.4083999987, -2501344.148199845))
+
+
+
+================================================================================
+RECORD 30 of 160
+================================================================================
+
+IDN        : 29
+ID_MJ      : 44
+MPA_NAME   : Ponta do Ouro
+COUNTRY    : Mozambique
+REGION     : Mozambique
+DESGNATION : Partial Marine Reserve (PMR)
+STATUS     : Working
+CATEGORY   : National
+CATEGORY2  : National
+YEAR       : 2009
+ZONE       : Multiple
+MANAGED_BY : MITADER and ANAC
+IUCN       : V
+NOTES      : Part of the Ponta do Ouro-Kosi Bay TFCA?
+AREAKM_DEC : 678
+AREAKM_ACT : 703.644000
+PERIKM_ACT : 378.298000
+POINT_X    : 32.935900
+POINT_Y    : -26.326000
+geometry   : Polygon (Area: 874781144.997946, Bounds: (3639145.9188, -3086336.2293999447, 3678719.552499998, -2971507.472299865))
+
+
+
+================================================================================
+RECORD 31 of 160
+================================================================================
+
+IDN        : 30
+ID_MJ      : 45
+MPA_NAME   : Primeiras and Segundas
+COUNTRY    : Mozambique
+REGION     : Mozambique
+DESGNATION : Environmental Protection Area
+STATUS     : Working
+CATEGORY   : National
+CATEGORY2  : National
+YEAR       : 2012
+ZONE       : Multiple
+MANAGED_BY : MITADER and ANAC
+IUCN       : V
+NOTES      : NULL
+AREAKM_DEC : 8357
+AREAKM_ACT : 8098.850000
+PERIKM_ACT : 624.831000
+POINT_X    : 39.280100
+POINT_Y    : -16.824700
+geometry   : Polygon (Area: 8834563520.800718, Bounds: (4243000.6943, -1943531.7704998758, 4480479.388500001, -1807612.5618999011))
+
+
+
+================================================================================
+RECORD 32 of 160
+================================================================================
+
+IDN        : 31
+ID_MJ      : 70
+MPA_NAME   : Prince Edward Island
+COUNTRY    : South Africa
+REGION     : South Africa
+DESGNATION : Marine Protected Area
+STATUS     : Working
+CATEGORY   : National
+CATEGORY2  : National
+YEAR       : 2013
+ZONE       : Multiple
+MANAGED_BY : DEFF
+IUCN       : Undetermined
+NOTES      : NULL
+AREAKM_DEC : 181247
+AREAKM_ACT : 181247.000000
+PERIKM_ACT : 2843.580000
+POINT_X    : 37.739800
+POINT_Y    : -46.760700
+geometry   : Polygon (Area: 385415744507.146851, Bounds: (3755177.4893999994, -6453920.367899813, 4791157.699099999, -5369167.51339991))
+
+
+
+================================================================================
+RECORD 33 of 160
+================================================================================
+
+IDN        : 32
+ID_MJ      : 71
+MPA_NAME   : Kirui Island
+COUNTRY    : Tanzania
+REGION     : Tanzania
+DESGNATION : Marine Reserve
+STATUS     : Working
+CATEGORY   : National
+CATEGORY2  : National
+YEAR       : 2010
+ZONE       : No-take area
+MANAGED_BY : Marine Parks and Reserves Unit (MPRU)
+IUCN       : II
+NOTES      : NULL
+AREAKM_DEC : 36
+AREAKM_ACT : 33.711200
+PERIKM_ACT : 26.460900
+POINT_X    : 39.206900
+POINT_Y    : -4.724740
+geometry   : Polygon (Area: 33939925.229727, Bounds: (4361934.741599999, -528430.7792999126, 4367005.927700001, -517968.980299955))
+
+
+
+================================================================================
+RECORD 34 of 160
+================================================================================
+
+IDN        : 33
+ID_MJ      : 72
+MPA_NAME   : Mafia Island
+COUNTRY    : Tanzania
+REGION     : Tanzania
+DESGNATION : Marine Park
+STATUS     : Working
+CATEGORY   : National
+CATEGORY2  : National
+YEAR       : 1995
+ZONE       : Multiple-use Zone
+MANAGED_BY : Marine Parks and Reserves Unit (MPRU)
+IUCN       : IV
+NOTES      : Overlap w/ Jujima & Hibama Mashariki LMMAs
+AREAKM_DEC : 822
+AREAKM_ACT : 711.781000
+PERIKM_ACT : 167.388000
+POINT_X    : 39.662400
+POINT_Y    : -8.004550
+geometry   : Polygon (Area: 725765555.970309, Bounds: (4396931.327599998, -905001.1118999003, 4441558.0892, -865224.8715998894))
+
+
+
+================================================================================
+RECORD 35 of 160
+================================================================================
+
+IDN        : 34
+ID_MJ      : 73
+MPA_NAME   : Nyororo Island
+COUNTRY    : Tanzania
+REGION     : Tanzania
+DESGNATION : Marine Reserve
+STATUS     : Working
+CATEGORY   : National
+CATEGORY2  : National
+YEAR       : 2007
+ZONE       : No-take area
+MANAGED_BY : Marine Parks and Reserves Unit (MPRU)
+IUCN       : II
+NOTES      : NULL
+AREAKM_DEC : 21
+AREAKM_ACT : 27.746700
+PERIKM_ACT : 24.359300
+POINT_X    : 39.702300
+POINT_Y    : -7.627120
+geometry   : Polygon (Area: 28240998.396361, Bounds: (4416484.767099998, -848961.095999908, 4423311.150499999, -841715.1379998652))
+
+
+
+================================================================================
+RECORD 36 of 160
+================================================================================
+
+IDN        : 35
+ID_MJ      : 74
+MPA_NAME   : Mbarakuni Island
+COUNTRY    : Tanzania
+REGION     : Tanzania
+DESGNATION : Marine Reserve
+STATUS     : Working
+CATEGORY   : National
+CATEGORY2  : National
+YEAR       : 2007
+ZONE       : No-take area
+MANAGED_BY : Marine Parks and Reserves Unit (MPRU)
+IUCN       : II
+NOTES      : NULL
+AREAKM_DEC : 4
+AREAKM_ACT : 4.860440
+PERIKM_ACT : 8.914290
+POINT_X    : 39.749200
+POINT_Y    : -7.716190
+geometry   : Polygon (Area: 4949070.510689, Bounds: (4423487.002099998, -856743.7413999496, 4426250.840799998, -854935.8999998086))
+
+
+
+================================================================================
+RECORD 37 of 160
+================================================================================
+
+IDN        : 36
+ID_MJ      : 75
+MPA_NAME   : Mnazi Bay-Ruvuma Estuary
+COUNTRY    : Tanzania
+REGION     : Tanzania
+DESGNATION : Marine Park
+STATUS     : Working
+CATEGORY   : National
+CATEGORY2  : National
+YEAR       : 2000
+ZONE       : Multiple-use Zone
+MANAGED_BY : Marine Parks and Reserves Unit (MPRU)
+IUCN       : IV
+NOTES      : NULL
+AREAKM_DEC : 650
+AREAKM_ACT : 550.452000
+PERIKM_ACT : 123.855000
+POINT_X    : 40.349100
+POINT_Y    : -10.361200
+geometry   : Polygon (Area: 568725954.311531, Bounds: (4478630.243900001, -1176420.997299855, 4505037.453499998, -1129198.6096999191))
+
+
+
+================================================================================
+RECORD 38 of 160
+================================================================================
+
+IDN        : 37
+ID_MJ      : 76
+MPA_NAME   : Tanga Coelacanth Marine Park (TACMP)
+COUNTRY    : Tanzania
+REGION     : Tanzania
+DESGNATION : Marine Park
+STATUS     : Working
+CATEGORY   : National
+CATEGORY2  : National
+YEAR       : 2009
+ZONE       : Multiple-use Zone
+MANAGED_BY : Marine Parks and Reserves Unit (MPRU)
+IUCN       : IV
+NOTES      : NULL
+AREAKM_DEC : 522
+AREAKM_ACT : 554.959000
+PERIKM_ACT : 119.941000
+POINT_X    : 39.129500
+POINT_Y    : -5.206390
+geometry   : Polygon (Area: 559541116.259583, Bounds: (4344429.2947999975, -598340.559499866, 4368719.283799998, -558224.9014998903))
+
+
+
+================================================================================
+RECORD 39 of 160
+================================================================================
+
+IDN        : 38
+ID_MJ      : 77
+MPA_NAME   : Ulenge Island
+COUNTRY    : Tanzania
+REGION     : Tanzania
+DESGNATION : Marine Reserve
+STATUS     : Working
+CATEGORY   : National
+CATEGORY2  : National
+YEAR       : 2010
+ZONE       : No-take area
+MANAGED_BY : Marine Parks and Reserves Unit (MPRU)
+IUCN       : II
+NOTES      : NULL
+AREAKM_DEC : 3
+AREAKM_ACT : 3.132020
+PERIKM_ACT : 7.219460
+POINT_X    : 39.162800
+POINT_Y    : -5.007770
+geometry   : Polygon (Area: 3155911.919270, Bounds: (4358619.298400001, -555772.531099925, 4360572.092700001, -553432.833499926))
+
+
+
+================================================================================
+RECORD 40 of 160
+================================================================================
+
+IDN        : 39
+ID_MJ      : 78
+MPA_NAME   : Kwale Island
+COUNTRY    : Tanzania
+REGION     : Tanzania
+DESGNATION : Marine Reserve
+STATUS     : Working
+CATEGORY   : National
+CATEGORY2  : National
+YEAR       : 2010
+ZONE       : No-take area
+MANAGED_BY : Marine Parks and Reserves Unit (MPRU)
+IUCN       : II
+NOTES      : NULL
+AREAKM_DEC : 12
+AREAKM_ACT : 12.055200
+PERIKM_ACT : 14.258900
+POINT_X    : 39.164000
+POINT_Y    : -4.969740
+geometry   : Polygon (Area: 12145744.018315, Bounds: (4357328.241399999, -552774.8541999201, 4361836.9752, -548406.6110999587))
+
+
+
+================================================================================
+RECORD 41 of 160
+================================================================================
+
+IDN        : 40
+ID_MJ      : 79
+MPA_NAME   : Mwewe Island
+COUNTRY    : Tanzania
+REGION     : Tanzania
+DESGNATION : Marine Reserve
+STATUS     : Working
+CATEGORY   : National
+CATEGORY2  : National
+YEAR       : 2002
+ZONE       : No-take area
+MANAGED_BY : Marine Conservation Unit (MCU)
+IUCN       : II
+NOTES      : Updated area and category
+AREAKM_DEC : 0
+AREAKM_ACT : 0.478065
+PERIKM_ACT : 3.484150
+POINT_X    : 39.179500
+POINT_Y    : -4.778300
+geometry   : Polygon (Area: 481383.591778, Bounds: (4360783.7804000005, -529352.8522999281, 4362086.970499999, -528390.8572999444))
+
+
+
+================================================================================
+RECORD 42 of 160
+================================================================================
+
+IDN        : 41
+ID_MJ      : 80
+MPA_NAME   : Bongoyo Island
+COUNTRY    : Tanzania
+REGION     : Tanzania
+DESGNATION : Marine Reserve
+STATUS     : Working
+CATEGORY   : National
+CATEGORY2  : National
+YEAR       : 1975
+ZONE       : No-take area
+MANAGED_BY : Marine Parks and Reserves Unit (MPRU)
+IUCN       : II
+NOTES      : NULL
+AREAKM_DEC : 9
+AREAKM_ACT : 9.060560
+PERIKM_ACT : 13.832400
+POINT_X    : 39.270900
+POINT_Y    : -6.701440
+geometry   : Polygon (Area: 9184816.074807, Bounds: (4369045.740800001, -744615.5689999578, 4373791.290699999, -740571.5585999379))
+
+
+
+================================================================================
+RECORD 43 of 160
+================================================================================
+
+IDN        : 42
+ID_MJ      : 81
+MPA_NAME   : Pangavini Island
+COUNTRY    : Tanzania
+REGION     : Tanzania
+DESGNATION : Marine Reserve
+STATUS     : Working
+CATEGORY   : National
+CATEGORY2  : National
+YEAR       : 1975
+ZONE       : No-take area
+MANAGED_BY : Marine Parks and Reserves Unit (MPRU)
+IUCN       : II
+NOTES      : NULL
+AREAKM_DEC : 2
+AREAKM_ACT : 2.349710
+PERIKM_ACT : 8.363470
+POINT_X    : 39.236500
+POINT_Y    : -6.671540
+geometry   : Polygon (Area: 2381638.712337, Bounds: (4367129.0951999985, -740825.5171000024, 4368595.172899999, -737659.094299924))
+
+
+
+================================================================================
+RECORD 44 of 160
+================================================================================
+
+IDN        : 43
+ID_MJ      : 82
+MPA_NAME   : Mbudya Island
+COUNTRY    : Tanzania
+REGION     : Tanzania
+DESGNATION : Marine Reserve
+STATUS     : Working
+CATEGORY   : National
+CATEGORY2  : National
+YEAR       : 1975
+ZONE       : No-take area
+MANAGED_BY : Marine Parks and Reserves Unit (MPRU)
+IUCN       : II
+NOTES      : NULL
+AREAKM_DEC : 14
+AREAKM_ACT : 11.503100
+PERIKM_ACT : 18.664000
+POINT_X    : 39.259800
+POINT_Y    : -6.660700
+geometry   : Polygon (Area: 11658872.115660, Bounds: (4367974.717300001, -740682.0893999503, 4372939.566599999, -735668.686299946))
+
+
+
+================================================================================
+RECORD 45 of 160
+================================================================================
+
+IDN        : 44
+ID_MJ      : 83
+MPA_NAME   : Fungu-Yasin
+COUNTRY    : Tanzania
+REGION     : Tanzania
+DESGNATION : Marine Reserve
+STATUS     : Working
+CATEGORY   : National
+CATEGORY2  : National
+YEAR       : 1975
+ZONE       : No-take area
+MANAGED_BY : Marine Parks and Reserves Unit (MPRU)
+IUCN       : II
+NOTES      : NULL
+AREAKM_DEC : 23
+AREAKM_ACT : 9.074570
+PERIKM_ACT : 13.011800
+POINT_X    : 39.240300
+POINT_Y    : -6.592190
+geometry   : Polygon (Area: 9194951.577880, Bounds: (4366267.6895, -732598.9595999373, 4370423.2461, -728576.9647999144))
+
+
+
+================================================================================
+RECORD 46 of 160
+================================================================================
+
+IDN        : 45
+ID_MJ      : 84
+MPA_NAME   : Kendwa Island
+COUNTRY    : Tanzania
+REGION     : Tanzania
+DESGNATION : Marine Reserve
+STATUS     : Working
+CATEGORY   : National
+CATEGORY2  : National
+YEAR       : 2007
+ZONE       : No-take area
+MANAGED_BY : Marine Parks and Reserves Unit (MPRU)
+IUCN       : II
+NOTES      : NULL
+AREAKM_DEC : 0
+AREAKM_ACT : 0.950634
+PERIKM_ACT : 4.351450
+POINT_X    : 39.353600
+POINT_Y    : -6.821230
+geometry   : Polygon (Area: 964142.939112, Bounds: (4380134.5097, -756814.364399897, 4381490.8037, -755289.0813998928))
+
+
+
+================================================================================
+RECORD 47 of 160
+================================================================================
+
+IDN        : 46
+ID_MJ      : 85
+MPA_NAME   : Makatube Island
+COUNTRY    : Tanzania
+REGION     : Tanzania
+DESGNATION : Marine Reserve
+STATUS     : Working
+CATEGORY   : National
+CATEGORY2  : National
+YEAR       : 2007
+ZONE       : No-take area
+MANAGED_BY : Marine Parks and Reserves Unit (MPRU)
+IUCN       : II
+NOTES      : NULL
+AREAKM_DEC : 0
+AREAKM_ACT : 3.588850
+PERIKM_ACT : 7.889960
+POINT_X    : 39.336300
+POINT_Y    : -6.795190
+geometry   : Polygon (Area: 3639472.643338, Bounds: (4377832.6609, -754377.6430999018, 4380064.369899998, -752066.7188998566))
+
+
+
+================================================================================
+RECORD 48 of 160
+================================================================================
+
+IDN        : 47
+ID_MJ      : 86
+MPA_NAME   : Shungumbili
+COUNTRY    : Tanzania
+REGION     : Tanzania
+DESGNATION : Marine Reserve
+STATUS     : Working
+CATEGORY   : National
+CATEGORY2  : National
+YEAR       : 2007
+ZONE       : No-take area
+MANAGED_BY : Marine Parks and Reserves Unit (MPRU)
+IUCN       : II
+NOTES      : NULL
+AREAKM_DEC : 4
+AREAKM_ACT : 4.251600
+PERIKM_ACT : 8.963750
+POINT_X    : 39.689700
+POINT_Y    : -7.697150
+geometry   : Polygon (Area: 4328755.006581, Bounds: (4416212.0496000005, -854737.3503999041, 4420189.1543000005, -852792.3635998429))
+
+
+
+================================================================================
+RECORD 49 of 160
+================================================================================
+
+IDN        : 48
+ID_MJ      : 87
+MPA_NAME   : Sinda Island
+COUNTRY    : Tanzania
+REGION     : Tanzania
+DESGNATION : Marine Reserve
+STATUS     : Working
+CATEGORY   : National
+CATEGORY2  : National
+YEAR       : 2007
+ZONE       : No-take area
+MANAGED_BY : Marine Parks and Reserves Unit (MPRU)
+IUCN       : II
+NOTES      : NULL
+AREAKM_DEC : 0
+AREAKM_ACT : 2.525070
+PERIKM_ACT : 6.330800
+POINT_X    : 39.397100
+POINT_Y    : -6.822450
+geometry   : Polygon (Area: 2560962.308189, Bounds: (4384683.4821999995, -757115.1584998558, 4386599.344400001, -754988.8335998747))
+
+
+
+================================================================================
+RECORD 50 of 160
+================================================================================
+
+IDN        : 49
+ID_MJ      : 88
+MPA_NAME   : Maziwe Island
+COUNTRY    : Tanzania
+REGION     : Tanzania
+DESGNATION : Marine Reserve
+STATUS     : Working
+CATEGORY   : National
+CATEGORY2  : National
+YEAR       : 1981
+ZONE       : No-take area
+MANAGED_BY : Marine Parks and Reserves Unit (MPRU)
+IUCN       : II
+NOTES      : NULL
+AREAKM_DEC : 4
+AREAKM_ACT : 2.595220
+PERIKM_ACT : 6.183550
+POINT_X    : 39.070800
+POINT_Y    : -5.506900
+geometry   : Polygon (Area: 2619176.822228, Bounds: (4348609.863200001, -610987.2711998809, 4350138.279800001, -608738.7522999162))
+
+
+
+================================================================================
+RECORD 51 of 160
+================================================================================
+
+IDN        : 50
+ID_MJ      : 89
+MPA_NAME   : Quirimbas
+COUNTRY    : Mozambique
+REGION     : Mozambique
+DESGNATION : National Park
+STATUS     : Working
+CATEGORY   : National
+CATEGORY2  : National
+YEAR       : 2002
+ZONE       : Multiple
+MANAGED_BY : MITADER and ANAC
+IUCN       : V
+NOTES      : NULL
+AREAKM_DEC : 1185
+AREAKM_ACT : 8890.890000
+PERIKM_ACT : 562.233000
+POINT_X    : 40.044300
+POINT_Y    : -12.523000
+geometry   : Polygon (Area: 9326719889.489231, Bounds: (4360446.052499997, -1441017.3462998322, 4526272.824099998, -1336629.817099889))
+
+
+
+================================================================================
+RECORD 52 of 160
+================================================================================
+
+IDN        : 51
+ID_MJ      : 90
+MPA_NAME   : Pemba Channel
+COUNTRY    : Tanzania
+REGION     : Zanzibar
+DESGNATION : Conservation Area
+STATUS     : Working
+CATEGORY   : National
+CATEGORY2  : National
+YEAR       : 2005
+ZONE       : Multiple
+MANAGED_BY : Marine Conservation Unit (MCU)
+IUCN       : Undetermined
+NOTES      : NULL
+AREAKM_DEC : 826
+AREAKM_ACT : 761.960000
+PERIKM_ACT : 410.128000
+POINT_X    : 39.631200
+POINT_Y    : -5.203840
+geometry   : Polygon (Area: 768175059.575508, Bounds: (4399902.875100002, -612810.3831999026, 4423384.6418, -534158.7210999493))
+
+
+
+================================================================================
+RECORD 53 of 160
+================================================================================
+
+IDN        : 52
+ID_MJ      : 535
+MPA_NAME   : Mnemba Island Marine Conservation Area (MIMCA)
+COUNTRY    : Tanzania
+REGION     : Zanzibar
+DESGNATION : No-take area
+STATUS     : Working
+CATEGORY   : National
+CATEGORY2  : National
+YEAR       : 2002
+ZONE       : Multiple-use Zone
+MANAGED_BY : Department of Forestry and Non-renewable Natural Resources (DFNR)
+IUCN       : VI
+NOTES      : Orig, Kiwengwa, but edited
+AREAKM_DEC : 337
+AREAKM_ACT : 241.845000
+PERIKM_ACT : 144.158000
+POINT_X    : 39.400200
+POINT_Y    : -5.922990
+geometry   : MultiPolygon (Area: 244426782.036064, Bounds: (4370323.865000001, -678557.9946998883, 4399915.862900002, -630938.4409999637))
+
+
+
+================================================================================
+RECORD 54 of 160
+================================================================================
+
+IDN        : 53
+ID_MJ      : 96
+MPA_NAME   : Menai Bay Conservation Area
+COUNTRY    : Tanzania
+REGION     : Zanzibar
+DESGNATION : Conservation area
+STATUS     : Working
+CATEGORY   : National
+CATEGORY2  : National
+YEAR       : 1997
+ZONE       : No-take area
+MANAGED_BY : Privately managed
+IUCN       : VI
+NOTES      : Orig Chumbe Coral, CHICOP now part of this
+AREAKM_DEC : 718
+AREAKM_ACT : 655.608000
+PERIKM_ACT : 287.969000
+POINT_X    : 39.361600
+POINT_Y    : -6.378490
+geometry   : Polygon (Area: 663775278.296298, Bounds: (4358230.420099999, -724153.0754999086, 4407409.517499998, -683457.3402998801))
+
+
+
+================================================================================
+RECORD 55 of 160
+================================================================================
+
+IDN        : 54
+ID_MJ      : 93
+MPA_NAME   : Changuu-Bawe
+COUNTRY    : Tanzania
+REGION     : Zanzibar
+DESGNATION : Conservation Area
+STATUS     : Working
+CATEGORY   : National
+CATEGORY2  : National
+YEAR       : 2014
+ZONE       : Multiple-use Zone
+MANAGED_BY : Marine Conservation Unit (MCU)
+IUCN       : Undetermined
+NOTES      : NULL
+AREAKM_DEC : 118
+AREAKM_ACT : 111.883000
+PERIKM_ACT : 55.140900
+POINT_X    : 39.154100
+POINT_Y    : -6.163420
+geometry   : Polygon (Area: 113178497.808678, Bounds: (4353695.385400001, -688874.3665999231, 4365213.926399997, -676742.7091998643))
+
+
+
+================================================================================
+RECORD 56 of 160
+================================================================================
+
+IDN        : 55
+ID_MJ      : 94
+MPA_NAME   : Tumbatu
+COUNTRY    : Tanzania
+REGION     : Zanzibar
+DESGNATION : Conservation Area
+STATUS     : Working
+CATEGORY   : National
+CATEGORY2  : National
+YEAR       : 2014
+ZONE       : Multiple-use Zone
+MANAGED_BY : Marine Conservation Unit (MCU)
+IUCN       : Undetermined
+NOTES      : NULL
+AREAKM_DEC : 163
+AREAKM_ACT : 126.679000
+PERIKM_ACT : 144.557000
+POINT_X    : 39.242800
+POINT_Y    : -5.824960
+geometry   : Polygon (Area: 127988220.965199, Bounds: (4361279.1740999995, -668419.2757999204, 4374397.0949, -635613.1191998738))
+
+
+
+================================================================================
+RECORD 57 of 160
+================================================================================
+
+IDN        : 56
+ID_MJ      : 95
+MPA_NAME   : Ngezi-Vumawimbi
+COUNTRY    : Tanzania
+REGION     : Zanzibar
+DESGNATION : Forest Reserve
+STATUS     : Working
+CATEGORY   : National
+CATEGORY2  : National
+YEAR       : 1959
+ZONE       : Multiple-use Zone
+MANAGED_BY : Department of Forestry and Non-renewable Natural Resources (DFNR)
+IUCN       : Undetermined
+NOTES      : NULL
+AREAKM_DEC : 30
+AREAKM_ACT : 19.192500
+PERIKM_ACT : 37.179100
+POINT_X    : 39.698600
+POINT_Y    : -4.935740
+geometry   : Polygon (Area: 19334629.149731, Bounds: (4416259.2978, -549618.8252999104, 4421804.679799999, -542632.3159998823))
+
+
+
+================================================================================
+RECORD 58 of 160
+================================================================================
+
+IDN        : 57
+ID_MJ      : 96
+MPA_NAME   : Chumbe Island Coral Park/ Sanctuary
+COUNTRY    : Tanzania
+REGION     : Zanzibar
+DESGNATION : Marine Reserve
+STATUS     : Working
+CATEGORY   : National
+CATEGORY2  : National
+YEAR       : 1994
+ZONE       : No-take area
+MANAGED_BY : Privately managed
+IUCN       : II
+NOTES      : NULL
+AREAKM_DEC : 1
+AREAKM_ACT : 0.628349
+PERIKM_ACT : 4.958880
+POINT_X    : 39.174900
+POINT_Y    : -6.277740
+geometry   : Polygon (Area: 635902.576172, Bounds: (4360623.791299998, -696470.4916999007, 4361470.932599998, -694564.77679993))
+
+
+
+================================================================================
+RECORD 59 of 160
+================================================================================
+
+IDN        : 58
+ID_MJ      : 148
+MPA_NAME   : Pomene
+COUNTRY    : Mozambique
+REGION     : Mozambique
+DESGNATION : National Reserve
+STATUS     : Working
+CATEGORY   : National
+CATEGORY2  : National
+YEAR       : 1972
+ZONE       : Multiple
+MANAGED_BY : MITADER and ANAC
+IUCN       : V
+NOTES      : NULL
+AREAKM_DEC : 2
+AREAKM_ACT : 66.256400
+PERIKM_ACT : 45.897500
+POINT_X    : 35.542100
+POINT_Y    : -22.987000
+geometry   : Polygon (Area: 78099532.844578, Bounds: (3950747.0256999987, -2624712.898099835, 3962131.4514, -2606516.951199848))
+
+
+
+================================================================================
+RECORD 60 of 160
+================================================================================
+
+IDN        : 59
+ID_MJ      : 191
+MPA_NAME   : TBCA
+COUNTRY    : Tanzania
+REGION     : Tanzania
+DESGNATION : Marine Protected Area
+STATUS     : Proposed
+CATEGORY   : National
+CATEGORY2  : Transboundary
+YEAR       : Not available
+ZONE       : Not described
+MANAGED_BY : Not described
+IUCN       : Undetermined
+NOTES      : NULL
+AREAKM_DEC : 0
+AREAKM_ACT : 739.160000
+PERIKM_ACT : 216.065000
+POINT_X    : 39.264100
+POINT_Y    : -4.910880
+geometry   : Polygon (Area: 744581595.405855, Bounds: (4352837.345699999, -561389.7300999719, 4386893.7837, -517885.05349994625))
+
+
+
+================================================================================
+RECORD 61 of 160
+================================================================================
+
+IDN        : 60
+ID_MJ      : 192
+MPA_NAME   : Black river
+COUNTRY    : Mauritius
+REGION     : Mauritius
+DESGNATION : Marine Protected Area
+STATUS     : Proposed
+CATEGORY   : National
+CATEGORY2  : National
+YEAR       : 2000
+ZONE       : Not described
+MANAGED_BY : Ministry of Blue Economy, Marine Resources, Fisheries and Shipping
+IUCN       : II
+NOTES      : NULL
+AREAKM_DEC : 0
+AREAKM_ACT : 103.687000
+PERIKM_ACT : 87.647900
+POINT_X    : 57.332200
+POINT_Y    : -20.413700
+geometry   : Polygon (Area: 117952882.034466, Bounds: (6375119.9351, -2318121.8055999, 6387290.1446, -2289385.6689998736))
+
+
+
+================================================================================
+RECORD 62 of 160
+================================================================================
+
+IDN        : 61
+ID_MJ      : 403
+MPA_NAME   : Grand Port Zone A
+COUNTRY    : Mauritius
+REGION     : Mauritius
+DESGNATION : Fishing reserve
+STATUS     : Working
+CATEGORY   : National
+CATEGORY2  : National
+YEAR       : 2000
+ZONE       : Not described
+MANAGED_BY : Ministry of Blue Economy, Marine Resources, Fisheries and Shipping
+IUCN       : IV
+NOTES      : Updated area
+AREAKM_DEC : 17
+AREAKM_ACT : 17.578100
+PERIKM_ACT : 37.081200
+POINT_X    : 57.719900
+POINT_Y    : -20.405700
+geometry   : Polygon (Area: 19994170.132242, Bounds: (6422322.0978000015, -2311467.366799898, 6427743.023099999, -2301884.983099819))
+
+
+
+================================================================================
+RECORD 63 of 160
+================================================================================
+
+IDN        : 62
+ID_MJ      : 404
+MPA_NAME   : Blue Bay
+COUNTRY    : Mauritius
+REGION     : Mauritius
+DESGNATION : Marine park
+STATUS     : Working
+CATEGORY   : National
+CATEGORY2  : National
+YEAR       : 1997
+ZONE       : Not described
+MANAGED_BY : Ministry of Blue Economy, Marine Resources, Fisheries and Shipping
+IUCN       : II
+NOTES      : NULL
+AREAKM_DEC : 4
+AREAKM_ACT : 3.597780
+PERIKM_ACT : 11.484500
+POINT_X    : 57.710700
+POINT_Y    : -20.452200
+geometry   : Polygon (Area: 4094798.946527, Bounds: (6423008.8277, -2313074.2982998653, 6425709.104600001, -2310216.528399835))
+
+
+
+================================================================================
+RECORD 64 of 160
+================================================================================
+
+IDN        : 63
+ID_MJ      : 405
+MPA_NAME   : Grand Port Zone B
+COUNTRY    : Mauritius
+REGION     : Mauritius
+DESGNATION : Fishing reserve
+STATUS     : Working
+CATEGORY   : National
+CATEGORY2  : National
+YEAR       : 2000
+ZONE       : Not described
+MANAGED_BY : Ministry of Blue Economy, Marine Resources, Fisheries and Shipping
+IUCN       : IV
+NOTES      : Updated area
+AREAKM_DEC : 1
+AREAKM_ACT : 1.034110
+PERIKM_ACT : 7.375060
+POINT_X    : 57.689000
+POINT_Y    : -20.465700
+geometry   : Polygon (Area: 1177245.558135, Bounds: (6420627.835299998, -2314449.487799855, 6423277.998300001, -2312287.055199869))
+
+
+
+================================================================================
+RECORD 65 of 160
+================================================================================
+
+IDN        : 64
+ID_MJ      : 406
+MPA_NAME   : Trou d' Eau Douce
+COUNTRY    : Mauritius
+REGION     : Mauritius
+DESGNATION : Fishing reserve
+STATUS     : Working
+CATEGORY   : National
+CATEGORY2  : National
+YEAR       : 2000
+ZONE       : Not described
+MANAGED_BY : Ministry of Blue Economy, Marine Resources, Fisheries and Shipping
+IUCN       : IV
+NOTES      : NULL
+AREAKM_DEC : 6
+AREAKM_ACT : 5.421280
+PERIKM_ACT : 32.493300
+POINT_X    : 57.791600
+POINT_Y    : -20.276000
+geometry   : MultiPolygon (Area: 6156259.473821, Bounds: (6431242.7924999995, -2294246.728799908, 6434879.3816, -2286624.674899921))
+
+
+
+================================================================================
+RECORD 66 of 160
+================================================================================
+
+IDN        : 65
+ID_MJ      : 407
+MPA_NAME   : Poste La Fayette
+COUNTRY    : Mauritius
+REGION     : Mauritius
+DESGNATION : Fishing reserve
+STATUS     : Working
+CATEGORY   : National
+CATEGORY2  : National
+YEAR       : 2000
+ZONE       : Not described
+MANAGED_BY : Ministry of Blue Economy, Marine Resources, Fisheries and Shipping
+IUCN       : IV
+NOTES      : NULL
+AREAKM_DEC : 3
+AREAKM_ACT : 2.871850
+PERIKM_ACT : 22.413000
+POINT_X    : 57.747700
+POINT_Y    : -20.153900
+geometry   : Polygon (Area: 3256096.651496, Bounds: (6426648.529800001, -2278601.4485998494, 6429727.849599998, -2275014.4158998854))
+
+
+
+================================================================================
+RECORD 67 of 160
+================================================================================
+
+IDN        : 66
+ID_MJ      : 260
+MPA_NAME   : Poudre d' Or
+COUNTRY    : Mauritius
+REGION     : Mauritius
+DESGNATION : Fishing reserve
+STATUS     : Working
+CATEGORY   : National
+CATEGORY2  : National
+YEAR       : 2000
+ZONE       : Not described
+MANAGED_BY : Not described
+IUCN       : IV
+NOTES      : Renamed originally Roches Noires
+AREAKM_DEC : 25
+AREAKM_ACT : 26.680700
+PERIKM_ACT : 35.519600
+POINT_X    : 57.713900
+POINT_Y    : -20.072100
+geometry   : Polygon (Area: 30218436.285732, Bounds: (6420960.883099998, -2271173.807099873, 6428382.776199999, -2263104.3806998827))
+
+
+
+================================================================================
+RECORD 68 of 160
+================================================================================
+
+IDN        : 67
+ID_MJ      : 409
+MPA_NAME   : Balaclava
+COUNTRY    : Mauritius
+REGION     : Mauritius
+DESGNATION : Marine park
+STATUS     : Working
+CATEGORY   : National
+CATEGORY2  : National
+YEAR       : 1997
+ZONE       : Not described
+MANAGED_BY : Ministry of Blue Economy, Marine Resources, Fisheries and Shipping
+IUCN       : II
+NOTES      : Updated IUCN
+AREAKM_DEC : 5
+AREAKM_ACT : 4.722890
+PERIKM_ACT : 11.619600
+POINT_X    : 57.508800
+POINT_Y    : -20.075200
+geometry   : Polygon (Area: 5349450.904108, Bounds: (6400633.7214, -2269117.997399887, 6403241.603100001, -2265270.722799887))
+
+
+
+================================================================================
+RECORD 69 of 160
+================================================================================
+
+IDN        : 68
+ID_MJ      : 410
+MPA_NAME   : Black River
+COUNTRY    : Mauritius
+REGION     : Mauritius
+DESGNATION : Fishing reserve
+STATUS     : Working
+CATEGORY   : National
+CATEGORY2  : National
+YEAR       : 2000
+ZONE       : Not described
+MANAGED_BY : Ministry of Blue Economy, Marine Resources, Fisheries and Shipping
+IUCN       : II
+NOTES      : NULL
+AREAKM_DEC : 8
+AREAKM_ACT : 7.868030
+PERIKM_ACT : 21.519600
+POINT_X    : 57.360000
+POINT_Y    : -20.370800
+geometry   : Polygon (Area: 8945676.599487, Bounds: (6383588.0357, -2305172.368599861, 6387305.7316000005, -2298481.714299871))
+
+
+
+================================================================================
+RECORD 70 of 160
+================================================================================
+
+IDN        : 69
+ID_MJ      : 411
+MPA_NAME   : Port Louis
+COUNTRY    : Mauritius
+REGION     : Mauritius
+DESGNATION : Fishing reserve
+STATUS     : Working
+CATEGORY   : National
+CATEGORY2  : National
+YEAR       : 2000
+ZONE       : Not described
+MANAGED_BY : Ministry of Blue Economy, Marine Resources, Fisheries and Shipping
+IUCN       : IV
+NOTES      : NULL
+AREAKM_DEC : 3
+AREAKM_ACT : 2.956200
+PERIKM_ACT : 16.605600
+POINT_X    : 57.481400
+POINT_Y    : -20.158200
+geometry   : Polygon (Area: 3351925.029918, Bounds: (6397166.898499999, -2279065.128499943, 6401404.052299998, -2275900.362299832))
+
+
+
+================================================================================
+RECORD 71 of 160
+================================================================================
+
+IDN        : 70
+ID_MJ      : 412
+MPA_NAME   : Passe Demie
+COUNTRY    : Mauritius
+REGION     : Mauritius
+DESGNATION : Marine Reserve
+STATUS     : Working
+CATEGORY   : National
+CATEGORY2  : National
+YEAR       : 2007
+ZONE       : Not described
+MANAGED_BY : Rodrigues Regional Assembly
+IUCN       : Undetermined
+NOTES      : Updated year est
+AREAKM_DEC : 7
+AREAKM_ACT : 7.199610
+PERIKM_ACT : 11.453000
+POINT_X    : 63.296600
+POINT_Y    : -19.713900
+geometry   : Polygon (Area: 8117924.106903, Bounds: (7044150.806400001, -2227037.17929982, 7047490.391100001, -2222764.2696998757))
+
+
+
+================================================================================
+RECORD 72 of 160
+================================================================================
+
+IDN        : 71
+ID_MJ      : 413
+MPA_NAME   : Grand Bassin
+COUNTRY    : Mauritius
+REGION     : Mauritius
+DESGNATION : Marine Reserve
+STATUS     : Working
+CATEGORY   : National
+CATEGORY2  : National
+YEAR       : 2009
+ZONE       : Not described
+MANAGED_BY : Rodrigues Regional Assembly
+IUCN       : Undetermined
+NOTES      : NULL
+AREAKM_DEC : 14
+AREAKM_ACT : 14.046900
+PERIKM_ACT : 15.264800
+POINT_X    : 63.347400
+POINT_Y    : -19.659500
+geometry   : Polygon (Area: 15827469.685474, Bounds: (7049775.148999999, -2220364.739399912, 7054575.876699998, -2216079.655499863))
+
+
+
+================================================================================
+RECORD 73 of 160
+================================================================================
+
+IDN        : 72
+ID_MJ      : 414
+MPA_NAME   : Anse aux Anglais
+COUNTRY    : Mauritius
+REGION     : Mauritius
+DESGNATION : Marine Reserve
+STATUS     : Working
+CATEGORY   : National
+CATEGORY2  : National
+YEAR       : 2009
+ZONE       : Not described
+MANAGED_BY : Rodrigues Regional Assembly
+IUCN       : Undetermined
+NOTES      : NULL
+AREAKM_DEC : 2
+AREAKM_ACT : 1.426530
+PERIKM_ACT : 4.925930
+POINT_X    : 63.442200
+POINT_Y    : -19.658800
+geometry   : Polygon (Area: 1607370.674171, Bounds: (7061440.579, -2219077.9352998887, 7062958.234299999, -2217519.0049998136))
+
+
+
+================================================================================
+RECORD 74 of 160
+================================================================================
+
+IDN        : 73
+ID_MJ      : 415
+MPA_NAME   : Riviere Banane
+COUNTRY    : Mauritius
+REGION     : Mauritius
+DESGNATION : Marine Reserve
+STATUS     : Working
+CATEGORY   : National
+CATEGORY2  : National
+YEAR       : 2009
+ZONE       : Not described
+MANAGED_BY : Rodrigues Regional Assembly
+IUCN       : Undetermined
+NOTES      : NULL
+AREAKM_DEC : 2
+AREAKM_ACT : 1.522830
+PERIKM_ACT : 5.311810
+POINT_X    : 63.475000
+POINT_Y    : -19.666300
+geometry   : Polygon (Area: 1716009.215985, Bounds: (7065234.7179000005, -2220137.535099923, 7066698.569200001, -2217895.0165998973))
+
+
+
+================================================================================
+RECORD 75 of 160
+================================================================================
+
+IDN        : 74
+ID_MJ      : 416
+MPA_NAME   : South East Marine Protected Area (SEMPA)
+COUNTRY    : Mauritius
+REGION     : Mauritius
+DESGNATION : Multiple-use MPA
+STATUS     : Working
+CATEGORY   : National
+CATEGORY2  : National
+YEAR       : 2009
+ZONE       : Not described
+MANAGED_BY : Rodrigues Regional Assembly
+IUCN       : IV
+NOTES      : Updated area, year est
+AREAKM_DEC : 43
+AREAKM_ACT : 43.233100
+PERIKM_ACT : 38.062500
+POINT_X    : 63.444500
+POINT_Y    : -19.757200
+geometry   : Polygon (Area: 48773387.733340, Bounds: (7055159.4358, -2234061.7910999306, 7069296.187699999, -2225086.70219984))
+
+
+
+================================================================================
+RECORD 76 of 160
+================================================================================
+
+IDN        : 75
+ID_MJ      : 424
+MPA_NAME   : Baie de Boueni
+COUNTRY    : France
+REGION     : Mayotte
+DESGNATION : Maritime public domain (Conservatoire du littoral)
+STATUS     : Working
+CATEGORY   : National
+CATEGORY2  : National
+YEAR       : 2010
+ZONE       : Not described
+MANAGED_BY : Not described
+IUCN       : Undetermined
+NOTES      : Merged w/ Mayotte in 2010
+AREAKM_DEC : 0
+AREAKM_ACT : 2.588840
+PERIKM_ACT : 26.441800
+POINT_X    : 45.303700
+POINT_Y    : -12.853900
+geometry   : MultiPolygon (Area: 2722734.984249, Bounds: (5040690.893267171, -1435971.9545819813, 5044226.455962928, -1430664.0399957874))
+
+
+
+================================================================================
+RECORD 77 of 160
+================================================================================
+
+IDN        : 77
+ID_MJ      : 427
+MPA_NAME   : Natural Reserve of Mbouzi
+COUNTRY    : France
+REGION     : Mayotte
+DESGNATION : National nature reserve
+STATUS     : Working
+CATEGORY   : National
+CATEGORY2  : National
+YEAR       : 2007
+ZONE       : Not described
+MANAGED_BY : Not described
+IUCN       : Undetermined
+NOTES      : Updated name
+AREAKM_DEC : 1
+AREAKM_ACT : 2.236950
+PERIKM_ACT : 6.184460
+POINT_X    : 45.235700
+POINT_Y    : -12.811900
+geometry   : Polygon (Area: 2351856.812095, Bounds: (5034893.962000001, -1429728.2949998172, 5036359.7058, -1427680.1211998344))
+
+
+
+================================================================================
+RECORD 78 of 160
+================================================================================
+
+IDN        : 78
+ID_MJ      : 428
+MPA_NAME   : Natural Marine Reserve of Reunion Island
+COUNTRY    : France
+REGION     : Reunion
+DESGNATION : National nature reserve
+STATUS     : Working
+CATEGORY   : National
+CATEGORY2  : National
+YEAR       : 2007
+ZONE       : Not described
+MANAGED_BY : Not described
+IUCN       : Undetermined
+NOTES      : Retained, no edits made
+AREAKM_DEC : 35
+AREAKM_ACT : 35.150800
+PERIKM_ACT : 84.620300
+POINT_X    : 55.258600
+POINT_Y    : -21.136500
+geometry   : Polygon (Area: 40372598.489540, Bounds: (6145572.826799999, -2410724.1682998557, 6160708.2701, -2377749.657599882))
+
+
+
+================================================================================
+RECORD 79 of 160
+================================================================================
+
+IDN        : 79
+ID_MJ      : 424
+MPA_NAME   : Mayotte
+COUNTRY    : France
+REGION     : Mayotte
+DESGNATION : Maritime public domain (Conservatoire du littoral)
+STATUS     : Working
+CATEGORY   : National
+CATEGORY2  : National
+YEAR       : 2010
+ZONE       : Not described
+MANAGED_BY : Not described
+IUCN       : Undetermined
+NOTES      : Updated name and polygon
+AREAKM_DEC : 0
+AREAKM_ACT : 2052.240000
+PERIKM_ACT : 484.248000
+POINT_X    : 45.145300
+POINT_Y    : -12.802700
+geometry   : Polygon (Area: 2157524517.259484, Bounds: (4997132.7330444865, -1456512.9000681266, 5054049.026374796, -1399596.5539752122))
+
+
+
+================================================================================
+RECORD 80 of 160
+================================================================================
+
+IDN        : 80
+ID_MJ      : 430
+MPA_NAME   : vasière des Badamiers
+COUNTRY    : France
+REGION     : Mayotte
+DESGNATION : Maritime public domain (Conservatoire du littoral)
+STATUS     : Working
+CATEGORY   : National
+CATEGORY2  : National
+YEAR       : 2010
+ZONE       : Not described
+MANAGED_BY : Not described
+IUCN       : Undetermined
+NOTES      : Merged w/ Mayotte in 2010
+AREAKM_DEC : 0
+AREAKM_ACT : 1.049170
+PERIKM_ACT : 4.709750
+POINT_X    : 45.424800
+POINT_Y    : -12.719800
+geometry   : Polygon (Area: 1102272.746484, Bounds: (5055771.9827362085, -1418940.4222635627, 5057392.592353783, -1417572.146713797))
+
+
+
+================================================================================
+RECORD 81 of 160
+================================================================================
+
+IDN        : 82
+ID_MJ      : 432
+MPA_NAME   : Alphonse
+COUNTRY    : Seychelles
+REGION     : Seychelles
+DESGNATION : Marine Protected Area
+STATUS     : Proposed
+CATEGORY   : National
+CATEGORY2  : National
+YEAR       : Not available
+ZONE       : Not described
+MANAGED_BY : Not described
+IUCN       : Undetermined
+NOTES      : NULL
+AREAKM_DEC : 0
+AREAKM_ACT : 0.001250
+PERIKM_ACT : 0.125930
+POINT_X    : 52.737700
+POINT_Y    : -7.015100
+geometry   : Polygon (Area: 1269.071166, Bounds: (5870711.0881, -777681.505299915, 5870751.387800001, -777641.2055998802))
+
+
+
+================================================================================
+RECORD 82 of 160
+================================================================================
+
+IDN        : 83
+ID_MJ      : 433
+MPA_NAME   : Desroches 
+COUNTRY    : Seychelles
+REGION     : Seychelles
+DESGNATION : Marine Protected Area
+STATUS     : Proposed
+CATEGORY   : National
+CATEGORY2  : National
+YEAR       : Not available
+ZONE       : Not described
+MANAGED_BY : Not described
+IUCN       : Undetermined
+NOTES      : NULL
+AREAKM_DEC : 0
+AREAKM_ACT : 0.001250
+PERIKM_ACT : 0.125954
+POINT_X    : 53.663800
+POINT_Y    : -5.693100
+geometry   : Polygon (Area: 1262.610221, Bounds: (5973803.563299998, -630582.4891999561, 5973843.760299998, -630542.2922999565))
+
+
+
+================================================================================
+RECORD 83 of 160
+================================================================================
+
+IDN        : 84
+ID_MJ      : 434
+MPA_NAME   : Poivre
+COUNTRY    : Seychelles
+REGION     : Seychelles
+DESGNATION : Marine Protected Area
+STATUS     : Proposed
+CATEGORY   : National
+CATEGORY2  : National
+YEAR       : Not available
+ZONE       : Not described
+MANAGED_BY : Not described
+IUCN       : Undetermined
+NOTES      : NULL
+AREAKM_DEC : 0
+AREAKM_ACT : 0.001250
+PERIKM_ACT : 0.125953
+POINT_X    : 53.308800
+POINT_Y    : -5.756270
+geometry   : Polygon (Area: 1262.886797, Bounds: (5934283.026799998, -637603.6140999506, 5934323.2281, -637563.4127999166))
+
+
+
+================================================================================
+RECORD 84 of 160
+================================================================================
+
+IDN        : 85
+ID_MJ      : 435
+MPA_NAME   : Farquhar
+COUNTRY    : Seychelles
+REGION     : Seychelles
+DESGNATION : Marine Protected Area
+STATUS     : Proposed
+CATEGORY   : National
+CATEGORY2  : National
+YEAR       : Not available
+ZONE       : Not described
+MANAGED_BY : Not described
+IUCN       : Undetermined
+NOTES      : NULL
+AREAKM_DEC : 0
+AREAKM_ACT : 0.001250
+PERIKM_ACT : 0.125849
+POINT_X    : 51.103300
+POINT_Y    : -10.182800
+geometry   : Polygon (Area: 1290.333893, Bounds: (5688774.574399999, -1132030.134699874, 5688815.2102, -1131989.498799869))
+
+
+
+================================================================================
+RECORD 85 of 160
+================================================================================
+
+IDN        : 86
+ID_MJ      : 436
+MPA_NAME   : D'Aross And St. Joseph
+COUNTRY    : Seychelles
+REGION     : Seychelles
+DESGNATION : Marine Protected Area
+STATUS     : Proposed
+CATEGORY   : National
+CATEGORY2  : National
+YEAR       : Not available
+ZONE       : Not described
+MANAGED_BY : Not described
+IUCN       : Undetermined
+NOTES      : NULL
+AREAKM_DEC : 0
+AREAKM_ACT : 0.001250
+PERIKM_ACT : 0.125958
+POINT_X    : 53.318200
+POINT_Y    : -5.426890
+geometry   : Polygon (Area: 1261.474570, Bounds: (5935334.561999999, -601006.0293999054, 5935374.7408, -600965.8504998873))
+
+
+
+================================================================================
+RECORD 86 of 160
+================================================================================
+
+IDN        : 87
+ID_MJ      : 437
+MPA_NAME   : Malgas Island
+COUNTRY    : South Africa
+REGION     : South Africa
+DESGNATION : Marine Protected Area
+STATUS     : Working
+CATEGORY   : National
+CATEGORY2  : National
+YEAR       : 2000
+ZONE       : Controlled Zone
+MANAGED_BY : SANParks
+IUCN       : IV
+NOTES      : NULL
+AREAKM_DEC : 1
+AREAKM_ACT : 0.864555
+PERIKM_ACT : 3.735990
+POINT_X    : 17.926000
+POINT_Y    : -33.050900
+geometry   : Polygon (Area: 1228135.358882, Bounds: (1994958.4869000018, -3879315.1273998814, 1996073.4629999995, -3878213.6370998593))
+
+
+
+================================================================================
+RECORD 87 of 160
+================================================================================
+
+IDN        : 88
+ID_MJ      : 438
+MPA_NAME   : Jutten Island
+COUNTRY    : South Africa
+REGION     : South Africa
+DESGNATION : Marine Protected Area
+STATUS     : Working
+CATEGORY   : National
+CATEGORY2  : National
+YEAR       : 2000
+ZONE       : Controlled Zone
+MANAGED_BY : SANParks
+IUCN       : IV
+NOTES      : NULL
+AREAKM_DEC : 2
+AREAKM_ACT : 1.553210
+PERIKM_ACT : 5.091010
+POINT_X    : 17.956900
+POINT_Y    : -33.083400
+geometry   : Polygon (Area: 2208023.131241, Bounds: (1998112.502099998, -3883722.2735998896, 1999782.2943999993, -3882399.939599843))
+
+
+
+================================================================================
+RECORD 88 of 160
+================================================================================
+
+IDN        : 89
+ID_MJ      : 439
+MPA_NAME   : Langebaan Lagoon
+COUNTRY    : South Africa
+REGION     : South Africa
+DESGNATION : Marine Protected Area
+STATUS     : Working
+CATEGORY   : National
+CATEGORY2  : National
+YEAR       : 2000
+ZONE       : Multiple
+MANAGED_BY : SANParks
+IUCN       : IV
+NOTES      : NULL
+AREAKM_DEC : 47
+AREAKM_ACT : 47.135500
+PERIKM_ACT : 63.988300
+POINT_X    : 18.056100
+POINT_Y    : -33.137800
+geometry   : Polygon (Area: 67089663.280799, Bounds: (2003370.4556000007, -3899161.9311999055, 2017733.292199999, -3880219.711499903))
+
+
+
+================================================================================
+RECORD 89 of 160
+================================================================================
+
+IDN        : 90
+ID_MJ      : 440
+MPA_NAME   : Sixteen Mile Beach
+COUNTRY    : South Africa
+REGION     : South Africa
+DESGNATION : Marine Protected Area
+STATUS     : Working
+CATEGORY   : National
+CATEGORY2  : National
+YEAR       : 2000
+ZONE       : Controlled Zone
+MANAGED_BY : SANParks
+IUCN       : IV
+NOTES      : NULL
+AREAKM_DEC : 107
+AREAKM_ACT : 106.785000
+PERIKM_ACT : 68.885100
+POINT_X    : 18.058600
+POINT_Y    : -33.225400
+geometry   : Polygon (Area: 152535869.800113, Bounds: (1996250.5016000012, -3916167.0641999706, 2021564.3986999986, -3887691.004599853))
+
+
+
+================================================================================
+RECORD 90 of 160
+================================================================================
+
+IDN        : 91
+ID_MJ      : 441
+MPA_NAME   : Table Mountain National Park
+COUNTRY    : South Africa
+REGION     : South Africa
+DESGNATION : Marine Protected Area
+STATUS     : Working
+CATEGORY   : National
+CATEGORY2  : National
+YEAR       : 2004
+ZONE       : Multiple
+MANAGED_BY : SANParks
+IUCN       : IV
+NOTES      : NULL
+AREAKM_DEC : 954
+AREAKM_ACT : 955.766000
+PERIKM_ACT : 322.653000
+POINT_X    : 18.378500
+POINT_Y    : -34.206900
+geometry   : Polygon (Area: 1394461041.208158, Bounds: (2031580.7069999983, -4059493.4205999966, 2065742.7663, -3991718.2639998333))
+
+
+
+================================================================================
+RECORD 91 of 160
+================================================================================
+
+IDN        : 92
+ID_MJ      : 442
+MPA_NAME   : Helderberg
+COUNTRY    : South Africa
+REGION     : South Africa
+DESGNATION : Marine Protected Area
+STATUS     : Working
+CATEGORY   : National
+CATEGORY2  : National
+YEAR       : 2000
+ZONE       : Restricted Zone
+MANAGED_BY : City of Cape Town
+IUCN       : 1a
+NOTES      : NULL
+AREAKM_DEC : 2
+AREAKM_ACT : 2.397610
+PERIKM_ACT : 11.216500
+POINT_X    : 18.787300
+POINT_Y    : -34.092000
+geometry   : Polygon (Area: 3488658.667815, Bounds: (2088747.7481000011, -4018844.0152999405, 2093947.3057999986, -4015772.3132999027))
+
+
+
+================================================================================
+RECORD 92 of 160
+================================================================================
+
+IDN        : 93
+ID_MJ      : 443
+MPA_NAME   : Betty's Bay
+COUNTRY    : South Africa
+REGION     : South Africa
+DESGNATION : Marine Protected Area
+STATUS     : Working
+CATEGORY   : National
+CATEGORY2  : National
+YEAR       : 2017
+ZONE       : Controlled Zone
+MANAGED_BY : CapeNature
+IUCN       : Undetermined
+NOTES      : NULL
+AREAKM_DEC : 20
+AREAKM_ACT : 20.138000
+PERIKM_ACT : 18.925600
+POINT_X    : 18.917400
+POINT_Y    : -34.383500
+geometry   : Polygon (Area: 29504539.460349, Bounds: (2103273.7582000005, -4059506.850499927, 2108094.881099999, -4052569.875199894))
+
+
+
+================================================================================
+RECORD 93 of 160
+================================================================================
+
+IDN        : 94
+ID_MJ      : 444
+MPA_NAME   : De Hoop
+COUNTRY    : South Africa
+REGION     : South Africa
+DESGNATION : Marine Protected Area
+STATUS     : Working
+CATEGORY   : National
+CATEGORY2  : National
+YEAR       : 2000
+ZONE       : Restricted Zone
+MANAGED_BY : CapeNature
+IUCN       : Undetermined
+NOTES      : NULL
+AREAKM_DEC : 289
+AREAKM_ACT : 288.825000
+PERIKM_ACT : 157.754000
+POINT_X    : 20.634400
+POINT_Y    : -34.503600
+geometry   : Polygon (Area: 424401060.192730, Bounds: (2267067.8454000014, -4088982.0892998907, 2329642.921, -4065148.9323999085))
+
+
+
+================================================================================
+RECORD 94 of 160
+================================================================================
+
+IDN        : 95
+ID_MJ      : 445
+MPA_NAME   : Goukamma
+COUNTRY    : South Africa
+REGION     : South Africa
+DESGNATION : Marine Protected Area
+STATUS     : Working
+CATEGORY   : National
+CATEGORY2  : National
+YEAR       : 2000
+ZONE       : Controlled Zone
+MANAGED_BY : CapeNature
+IUCN       : Undetermined
+NOTES      : NULL
+AREAKM_DEC : 34
+AREAKM_ACT : 33.965800
+PERIKM_ACT : 45.977200
+POINT_X    : 22.924700
+POINT_Y    : -34.079000
+geometry   : Polygon (Area: 49406933.581619, Bounds: (2542029.8088000007, -4019744.827599876, 2560404.857900001, -4011114.2495998833))
+
+
+
+================================================================================
+RECORD 95 of 160
+================================================================================
+
+IDN        : 96
+ID_MJ      : 446
+MPA_NAME   : Robberg
+COUNTRY    : South Africa
+REGION     : South Africa
+DESGNATION : Marine Protected Area
+STATUS     : Working
+CATEGORY   : National
+CATEGORY2  : National
+YEAR       : 2000
+ZONE       : Controlled Zone
+MANAGED_BY : CapeNature
+IUCN       : Undetermined
+NOTES      : NULL
+AREAKM_DEC : 26
+AREAKM_ACT : 26.184000
+PERIKM_ACT : 31.236000
+POINT_X    : 23.403100
+POINT_Y    : -34.104700
+geometry   : Polygon (Area: 38110573.284539, Bounds: (2601722.0694000013, -4021925.3602999374, 2608525.4713999997, -4015865.3214999437))
+
+
+
+================================================================================
+RECORD 96 of 160
+================================================================================
+
+IDN        : 97
+ID_MJ      : 447
+MPA_NAME   : Tsitsikamma
+COUNTRY    : South Africa
+REGION     : South Africa
+DESGNATION : Marine Protected Area
+STATUS     : Working
+CATEGORY   : National
+CATEGORY2  : National
+YEAR       : 1964
+ZONE       : Multiple
+MANAGED_BY : SANParks
+IUCN       : Undetermined
+NOTES      : NULL
+AREAKM_DEC : 293
+AREAKM_ACT : 263.188000
+PERIKM_ACT : 146.750000
+POINT_X    : 23.913900
+POINT_Y    : -34.045700
+geometry   : Polygon (Area: 382544940.807458, Bounds: (2624470.2074000016, -4019620.944699883, 2693310.1805000002, -4002108.803799853))
+
+
+
+================================================================================
+RECORD 97 of 160
+================================================================================
+
+IDN        : 98
+ID_MJ      : 448
+MPA_NAME   : Sardinia Bay
+COUNTRY    : South Africa
+REGION     : South Africa
+DESGNATION : Marine Protected Area
+STATUS     : Working
+CATEGORY   : National
+CATEGORY2  : National
+YEAR       : 2000
+ZONE       : Restricted Zone
+MANAGED_BY : Nelson Mandela Bay Municipality
+IUCN       : Undetermined
+NOTES      : NULL
+AREAKM_DEC : 13
+AREAKM_ACT : 12.909100
+PERIKM_ACT : 18.915700
+POINT_X    : 25.490000
+POINT_Y    : -34.042100
+geometry   : Polygon (Area: 18761477.712565, Bounds: (2833481.7905, -4012225.457699827, 2841561.693599999, -4008810.717699849))
+
+
+
+================================================================================
+RECORD 98 of 160
+================================================================================
+
+IDN        : 99
+ID_MJ      : 449
+MPA_NAME   : Dwesa-Cwebe
+COUNTRY    : South Africa
+REGION     : South Africa
+DESGNATION : Marine Protected Area
+STATUS     : Working
+CATEGORY   : National
+CATEGORY2  : National
+YEAR       : 2000
+ZONE       : Multiple
+MANAGED_BY : ECPTA
+IUCN       : Undetermined
+NOTES      : NULL
+AREAKM_DEC : 265
+AREAKM_ACT : 191.476000
+PERIKM_ACT : 62.592700
+POINT_X    : 28.929900
+POINT_Y    : -32.303600
+geometry   : Polygon (Area: 267504932.431934, Bounds: (3208874.8586999993, -3791830.649799936, 3231543.292199999, -3767571.5827999185))
+
+
+
+================================================================================
+RECORD 99 of 160
+================================================================================
+
+IDN        : 100
+ID_MJ      : 450
+MPA_NAME   : Hluleka
+COUNTRY    : South Africa
+REGION     : South Africa
+DESGNATION : Marine Protected Area
+STATUS     : Working
+CATEGORY   : National
+CATEGORY2  : National
+YEAR       : 2000
+ZONE       : Restricted Zone
+MANAGED_BY : ECPTA
+IUCN       : 1a
+NOTES      : NULL
+AREAKM_DEC : 41
+AREAKM_ACT : 40.861900
+PERIKM_ACT : 30.222000
+POINT_X    : 29.347600
+POINT_Y    : -31.861300
+geometry   : Polygon (Area: 56540397.933369, Bounds: (3261150.1525, -3728996.3021998554, 3272708.7971, -3715955.394099896))
+
+
+
+================================================================================
+RECORD 100 of 160
+================================================================================
+
+IDN        : 101
+ID_MJ      : 451
+MPA_NAME   : Trafalgar
+COUNTRY    : South Africa
+REGION     : South Africa
+DESGNATION : Marine Protected Area
+STATUS     : Working
+CATEGORY   : National
+CATEGORY2  : National
+YEAR       : 2000
+ZONE       : Controlled Zone
+MANAGED_BY : EKZNW
+IUCN       : Undetermined
+NOTES      : NULL
+AREAKM_DEC : 8
+AREAKM_ACT : 8.291410
+PERIKM_ACT : 14.614500
+POINT_X    : 30.306700
+POINT_Y    : -30.962100
+geometry   : Polygon (Area: 11255943.079833, Bounds: (3370941.305399999, -3607885.292199904, 3375924.683299999, -3603551.4396998296))
+
+

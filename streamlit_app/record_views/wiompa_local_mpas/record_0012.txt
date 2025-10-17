@@ -1,0 +1,24 @@
+================================================================================
+RECORD 12 of 208
+================================================================================
+
+IDN        : 11
+ID_MJ      : 161
+MPA_NAME   : Munje
+COUNTRY    : Kenya
+REGION     : Kenya
+DESGNATION : Unknown
+STATUS     : Proposed
+CATEGORY   : Local
+CATEGORY2  : LMMA
+YEAR       : 2015
+ZONE       : Not described
+MANAGED_BY : Rodrigues Regional Assembly
+IUCN       : Undetermined
+NOTES      : NULL
+AREAKM_DEC : 1
+AREAKM_ACT : 0.638927
+PERIKM_ACT : 3.273210
+POINT_X    : 39.465200
+POINT_Y    : -4.542900
+geometry   : Polygon (Area: 642933.885737, Bounds: (4392863.789099999, -503433.1009999321, 4393765.753400001, -502362.9994998814))

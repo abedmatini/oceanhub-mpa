@@ -1,0 +1,2705 @@
+================================================================================
+WIOMPA Local MPAs - ALL RECORDS
+Total: 208
+================================================================================
+
+================================================================================
+RECORD 1 of 208
+================================================================================
+
+IDN        : 0
+ID_MJ      : 149
+MPA_NAME   : Kuruwitu
+COUNTRY    : Kenya
+REGION     : Kenya
+DESGNATION : No Take Zone
+STATUS     : Working
+CATEGORY   : Local
+CATEGORY2  : LMMA
+YEAR       : 2006
+ZONE       : No-take area
+MANAGED_BY : Rodrigues Regional Assembly
+IUCN       : Undetermined
+NOTES      : NULL
+AREAKM_DEC : 0
+AREAKM_ACT : 0.291992
+PERIKM_ACT : 2.412620
+POINT_X    : 39.835800
+POINT_Y    : -3.804150
+geometry   : Polygon (Area: 293274.426692, Bounds: (4434177.276500002, -421392.1773999362, 4434748.412300001, -420502.4453999164))
+
+
+
+================================================================================
+RECORD 2 of 208
+================================================================================
+
+IDN        : 1
+ID_MJ      : 150
+MPA_NAME   : Wasini
+COUNTRY    : Kenya
+REGION     : Kenya
+DESGNATION : No Take Zone
+STATUS     : Working
+CATEGORY   : Local
+CATEGORY2  : LMMA
+YEAR       : 2008
+ZONE       : No-take area
+MANAGED_BY : Ministry of Blue Economy, Marine Resources, Fisheries and Shipping
+IUCN       : II
+NOTES      : Overlaps TBCA
+AREAKM_DEC : 0
+AREAKM_ACT : 0.420587
+PERIKM_ACT : 5.220330
+POINT_X    : 39.358800
+POINT_Y    : -4.655950
+geometry   : Polygon (Area: 423357.804755, Bounds: (4380756.372900002, -515804.9612999178, 4382240.852299999, -515065.2164999107))
+
+
+
+================================================================================
+RECORD 3 of 208
+================================================================================
+
+IDN        : 2
+ID_MJ      : 151
+MPA_NAME   : Nyari-Kikadini
+COUNTRY    : Kenya
+REGION     : Kenya
+DESGNATION : No Take Zone
+STATUS     : Working
+CATEGORY   : Local
+CATEGORY2  : LMMA
+YEAR       : 2006
+ZONE       : No-take area
+MANAGED_BY : Ministry of Blue Economy, Marine Resources, Fisheries and Shipping
+IUCN       : IV
+NOTES      : NULL
+AREAKM_DEC : 0
+AREAKM_ACT : 0.094982
+PERIKM_ACT : 1.575700
+POINT_X    : 39.610900
+POINT_Y    : -4.220670
+geometry   : Polygon (Area: 95496.038687, Bounds: (4409262.727699998, -467387.4073999174, 4409612.604899998, -466806.84519991215))
+
+
+
+================================================================================
+RECORD 4 of 208
+================================================================================
+
+IDN        : 3
+ID_MJ      : 153
+MPA_NAME   : Jimbo
+COUNTRY    : Kenya
+REGION     : Kenya
+DESGNATION : Gear Restricion
+STATUS     : Proposed
+CATEGORY   : Local
+CATEGORY2  : LMMA
+YEAR       : 2009
+ZONE       : Gear Restriction
+MANAGED_BY : Ministry of Blue Economy, Marine Resources, Fisheries and Shipping
+IUCN       : II
+NOTES      : NULL
+AREAKM_DEC : 0
+AREAKM_ACT : 0.085768
+PERIKM_ACT : 1.158270
+POINT_X    : 39.228500
+POINT_Y    : -4.672360
+geometry   : Polygon (Area: 86337.525341, Bounds: (4366658.972600001, -517372.01479990897, 4367131.011599999, -517094.5406999428))
+
+
+
+================================================================================
+RECORD 5 of 208
+================================================================================
+
+IDN        : 4
+ID_MJ      : 154
+MPA_NAME   : Vanga
+COUNTRY    : Kenya
+REGION     : Kenya
+DESGNATION : Gear Restricion
+STATUS     : Proposed
+CATEGORY   : Local
+CATEGORY2  : LMMA
+YEAR       : 2010
+ZONE       : Gear Restriction
+MANAGED_BY : Rodrigues Regional Assembly
+IUCN       : Undetermined
+NOTES      : NULL
+AREAKM_DEC : 0
+AREAKM_ACT : 0.340140
+PERIKM_ACT : 2.686660
+POINT_X    : 39.266200
+POINT_Y    : -4.667770
+geometry   : Polygon (Area: 342392.029557, Bounds: (4370707.040499999, -517176.5402999092, 4371474.935199998, -516282.00309991307))
+
+
+
+================================================================================
+RECORD 6 of 208
+================================================================================
+
+IDN        : 5
+ID_MJ      : 155
+MPA_NAME   : Kibuyuni
+COUNTRY    : Kenya
+REGION     : Kenya
+DESGNATION : Gear Restricion
+STATUS     : Proposed
+CATEGORY   : Local
+CATEGORY2  : LMMA
+YEAR       : 2010
+ZONE       : Gear Restriction
+MANAGED_BY : Ministry of Blue Economy, Marine Resources, Fisheries and Shipping
+IUCN       : IV
+NOTES      : Overlaps TBCA
+AREAKM_DEC : 0
+AREAKM_ACT : 0.289899
+PERIKM_ACT : 3.484800
+POINT_X    : 39.331000
+POINT_Y    : -4.644270
+geometry   : Polygon (Area: 291799.963362, Bounds: (4377694.969099998, -514479.60019994323, 4379169.618399999, -513794.3024999649))
+
+
+
+================================================================================
+RECORD 7 of 208
+================================================================================
+
+IDN        : 6
+ID_MJ      : 156
+MPA_NAME   : Mradi
+COUNTRY    : Kenya
+REGION     : Kenya
+DESGNATION : No Take Zone
+STATUS     : Working
+CATEGORY   : Local
+CATEGORY2  : LMMA
+YEAR       : Not available
+ZONE       : No-take area
+MANAGED_BY : NULL
+IUCN       : Undetermined
+NOTES      : Is this Kanamai-Mradi?
+AREAKM_DEC : 0
+AREAKM_ACT : 0.224285
+PERIKM_ACT : 1.977510
+POINT_X    : 39.778900
+POINT_Y    : -3.941730
+geometry   : Polygon (Area: 225343.188804, Bounds: (4427794.7957999995, -436466.88379993045, 4428545.846099998, -435907.7626999097))
+
+
+
+================================================================================
+RECORD 8 of 208
+================================================================================
+
+IDN        : 7
+ID_MJ      : 157
+MPA_NAME   : Shimoni
+COUNTRY    : Kenya
+REGION     : Kenya
+DESGNATION : No Take Zone
+STATUS     : Working
+CATEGORY   : Local
+CATEGORY2  : LMMA
+YEAR       : 2010
+ZONE       : No-take area
+MANAGED_BY : Rodrigues Regional Assembly
+IUCN       : Undetermined
+NOTES      : Overlaps TBCA
+AREAKM_DEC : 0
+AREAKM_ACT : 0.054805
+PERIKM_ACT : 1.430760
+POINT_X    : 39.363500
+POINT_Y    : -4.644920
+geometry   : Polygon (Area: 55164.494868, Bounds: (4381623.990600001, -514354.7883998834, 4382227.676199997, -514007.4241999432))
+
+
+
+================================================================================
+RECORD 9 of 208
+================================================================================
+
+IDN        : 8
+ID_MJ      : 158
+MPA_NAME   : Bureni
+COUNTRY    : Kenya
+REGION     : Kenya
+DESGNATION : No Take Zone
+STATUS     : Working
+CATEGORY   : Local
+CATEGORY2  : LMMA
+YEAR       : 2013
+ZONE       : No-take area
+MANAGED_BY : Ministry of Blue Economy, Marine Resources, Fisheries and Shipping
+IUCN       : IV
+NOTES      : NULL
+AREAKM_DEC : 1
+AREAKM_ACT : 0.051416
+PERIKM_ACT : 0.939006
+POINT_X    : 39.824900
+POINT_Y    : -3.836750
+geometry   : Polygon (Area: 51645.322367, Bounds: (4433147.5044, -424734.1032998913, 4433442.480399999, -424396.99279995204))
+
+
+
+================================================================================
+RECORD 10 of 208
+================================================================================
+
+IDN        : 9
+ID_MJ      : 159
+MPA_NAME   : Mji wa kale
+COUNTRY    : Kenya
+REGION     : Kenya
+DESGNATION : Gear Restricion
+STATUS     : Working
+CATEGORY   : Local
+CATEGORY2  : LMMA
+YEAR       : 2014
+ZONE       : Gear Restriction
+MANAGED_BY : Ministry of Blue Economy, Marine Resources, Fisheries and Shipping
+IUCN       : IV
+NOTES      : Overlaps TBCA
+AREAKM_DEC : 0
+AREAKM_ACT : 0.370351
+PERIKM_ACT : 2.704110
+POINT_X    : 39.392500
+POINT_Y    : -4.660140
+geometry   : Polygon (Area: 372795.605057, Bounds: (4384488.0975, -516072.20839989226, 4385692.413400001, -515598.41609983525))
+
+
+
+================================================================================
+RECORD 11 of 208
+================================================================================
+
+IDN        : 10
+ID_MJ      : 160
+MPA_NAME   : Mwaembe
+COUNTRY    : Kenya
+REGION     : Kenya
+DESGNATION : No Take Zone
+STATUS     : Working
+CATEGORY   : Local
+CATEGORY2  : LMMA
+YEAR       : 2014
+ZONE       : No-take area
+MANAGED_BY : Ministry of Blue Economy, Marine Resources, Fisheries and Shipping
+IUCN       : IV
+NOTES      : NULL
+AREAKM_DEC : 0
+AREAKM_ACT : 0.465188
+PERIKM_ACT : 2.893540
+POINT_X    : 39.481200
+POINT_Y    : -4.502300
+geometry   : Polygon (Area: 468053.156103, Bounds: (4394589.616599999, -498916.5188999219, 4395489.8796, -497849.9564999149))
+
+
+
+================================================================================
+RECORD 12 of 208
+================================================================================
+
+IDN        : 11
+ID_MJ      : 161
+MPA_NAME   : Munje
+COUNTRY    : Kenya
+REGION     : Kenya
+DESGNATION : Unknown
+STATUS     : Proposed
+CATEGORY   : Local
+CATEGORY2  : LMMA
+YEAR       : 2015
+ZONE       : Not described
+MANAGED_BY : Rodrigues Regional Assembly
+IUCN       : Undetermined
+NOTES      : NULL
+AREAKM_DEC : 1
+AREAKM_ACT : 0.638927
+PERIKM_ACT : 3.273210
+POINT_X    : 39.465200
+POINT_Y    : -4.542900
+geometry   : Polygon (Area: 642933.885737, Bounds: (4392863.789099999, -503433.1009999321, 4393765.753400001, -502362.9994998814))
+
+
+
+================================================================================
+RECORD 13 of 208
+================================================================================
+
+IDN        : 12
+ID_MJ      : 162
+MPA_NAME   : Waa
+COUNTRY    : Kenya
+REGION     : Kenya
+DESGNATION : No Take Zone
+STATUS     : Proposed
+CATEGORY   : Local
+CATEGORY2  : LMMA
+YEAR       : Proposed
+ZONE       : No-take area
+MANAGED_BY : Ministry of Blue Economy, Marine Resources, Fisheries and Shipping
+IUCN       : IV
+NOTES      : NULL
+AREAKM_DEC : 0
+AREAKM_ACT : 0.064745
+PERIKM_ACT : 1.076110
+POINT_X    : 39.614300
+POINT_Y    : -4.208270
+geometry   : Polygon (Area: 65092.817993, Bounds: (4409700.102000002, -465942.7728999738, 4410001.7778, -465575.7692999657))
+
+
+
+================================================================================
+RECORD 14 of 208
+================================================================================
+
+IDN        : 13
+ID_MJ      : 165
+MPA_NAME   : Rewa & Kivonga
+COUNTRY    : Kenya
+REGION     : Kenya
+DESGNATION : Gear Restricion
+STATUS     : Proposed
+CATEGORY   : Local
+CATEGORY2  : LMMA
+YEAR       : 2015
+ZONE       : Gear Restriction
+MANAGED_BY : NULL
+IUCN       : Undetermined
+NOTES      : NULL
+AREAKM_DEC : 2
+AREAKM_ACT : 2.372240
+PERIKM_ACT : 9.876850
+POINT_X    : 41.121100
+POINT_Y    : -2.122800
+geometry   : Polygon (Area: 2375473.939984, Bounds: (4576465.072099999, -236027.2475999833, 4578934.619600001, -233467.54069990973))
+
+
+
+================================================================================
+RECORD 15 of 208
+================================================================================
+
+IDN        : 14
+ID_MJ      : 166
+MPA_NAME   : Chipopo
+COUNTRY    : Kenya
+REGION     : Kenya
+DESGNATION : No Take Zone
+STATUS     : Working
+CATEGORY   : Local
+CATEGORY2  : LMMA
+YEAR       : 2015
+ZONE       : No-take area
+MANAGED_BY : NULL
+IUCN       : Undetermined
+NOTES      : NULL
+AREAKM_DEC : 17
+AREAKM_ACT : 0.179234
+PERIKM_ACT : 1.751830
+POINT_X    : 41.038400
+POINT_Y    : -2.164720
+geometry   : Polygon (Area: 179488.821305, Bounds: (4568060.7513, -239724.86439993142, 4568686.114399999, -239115.38689991808))
+
+
+
+================================================================================
+RECORD 16 of 208
+================================================================================
+
+IDN        : 15
+ID_MJ      : 167
+MPA_NAME   : Kivuko-Chambani
+COUNTRY    : Kenya
+REGION     : Kenya
+DESGNATION : Lobster no take
+STATUS     : Proposed
+CATEGORY   : Local
+CATEGORY2  : LMMA
+YEAR       : Proposed
+ZONE       : No-take area
+MANAGED_BY : NULL
+IUCN       : Undetermined
+NOTES      : NULL
+AREAKM_DEC : 2
+AREAKM_ACT : 4.503350
+PERIKM_ACT : 9.063600
+POINT_X    : 41.189000
+POINT_Y    : -2.118910
+geometry   : Polygon (Area: 4509472.473856, Bounds: (4583602.772500001, -235976.3439999267, 4586678.449599999, -232722.7409999178))
+
+
+
+================================================================================
+RECORD 17 of 208
+================================================================================
+
+IDN        : 16
+ID_MJ      : 168
+MPA_NAME   : Adha
+COUNTRY    : Kenya
+REGION     : Kenya
+DESGNATION : Gear Restricion
+STATUS     : Proposed
+CATEGORY   : Local
+CATEGORY2  : LMMA
+YEAR       : Proposed
+ZONE       : Gear Restriction
+MANAGED_BY : French Ministry of Ecological and Inclusive Transition
+IUCN       : Undetermined
+NOTES      : NULL
+AREAKM_DEC : 1
+AREAKM_ACT : 1.130350
+PERIKM_ACT : 4.356410
+POINT_X    : 41.134100
+POINT_Y    : -2.150480
+geometry   : Polygon (Area: 1131938.114923, Bounds: (4578430.699200001, -238551.686599897, 4579619.617600001, -237140.74429997))
+
+
+
+================================================================================
+RECORD 18 of 208
+================================================================================
+
+IDN        : 17
+ID_MJ      : 169
+MPA_NAME   : Kadhikia-Fawachu
+COUNTRY    : Kenya
+REGION     : Kenya
+DESGNATION : Gear Restricion
+STATUS     : Proposed
+CATEGORY   : Local
+CATEGORY2  : LMMA
+YEAR       : Proposed
+ZONE       : Gear Restriction
+MANAGED_BY : NULL
+IUCN       : Undetermined
+NOTES      : NULL
+AREAKM_DEC : 2
+AREAKM_ACT : 1.999440
+PERIKM_ACT : 6.237040
+POINT_X    : 41.157300
+POINT_Y    : -2.150500
+geometry   : Polygon (Area: 2002244.150282, Bounds: (4580450.7842000015, -238893.58129996294, 4582760.617199998, -236804.3768999383))
+
+
+
+================================================================================
+RECORD 19 of 208
+================================================================================
+
+IDN        : 18
+ID_MJ      : 170
+MPA_NAME   : Msumarini
+COUNTRY    : Kenya
+REGION     : Kenya
+DESGNATION : No Take Zone
+STATUS     : Proposed
+CATEGORY   : Local
+CATEGORY2  : LMMA
+YEAR       : Proposed
+ZONE       : No-take area
+MANAGED_BY : French Biodiversity Agency
+IUCN       : Undetermined
+NOTES      : NULL
+AREAKM_DEC : 1
+AREAKM_ACT : 0.911545
+PERIKM_ACT : 5.083250
+POINT_X    : 39.811700
+POINT_Y    : -3.868030
+geometry   : Polygon (Area: 915683.692975, Bounds: (4431157.7131, -428952.1211999777, 4432443.453200001, -426993.3111999233))
+
+
+
+================================================================================
+RECORD 20 of 208
+================================================================================
+
+IDN        : 19
+ID_MJ      : 171
+MPA_NAME   : Kitwani
+COUNTRY    : Kenya
+REGION     : Kenya
+DESGNATION : Seasonal closure
+STATUS     : Proposed
+CATEGORY   : Local
+CATEGORY2  : LMMA
+YEAR       : Proposed
+ZONE       : Seasonal closure
+MANAGED_BY : NULL
+IUCN       : Undetermined
+NOTES      : NULL
+AREAKM_DEC : 1
+AREAKM_ACT : 1.342000
+PERIKM_ACT : 4.898980
+POINT_X    : 41.181200
+POINT_Y    : -2.097220
+geometry   : Polygon (Area: 1343785.198271, Bounds: (4583530.711499999, -232829.8292999774, 4585002.5938, -231072.51879995))
+
+
+
+================================================================================
+RECORD 21 of 208
+================================================================================
+
+IDN        : 20
+ID_MJ      : 172
+MPA_NAME   : Kijiwe cha Nyuni
+COUNTRY    : Kenya
+REGION     : Kenya
+DESGNATION : Gear Restricion
+STATUS     : Proposed
+CATEGORY   : Local
+CATEGORY2  : LMMA
+YEAR       : Proposed
+ZONE       : Gear Restriction
+MANAGED_BY : French Ministry of Ecological and Inclusive Transition
+IUCN       : Undetermined
+NOTES      : NULL
+AREAKM_DEC : 2
+AREAKM_ACT : 2.053520
+PERIKM_ACT : 5.714300
+POINT_X    : 41.091000
+POINT_Y    : -2.146130
+geometry   : Polygon (Area: 2056384.101685, Bounds: (4573218.656800001, -238006.06649998232, 4575328.027299999, -236674.8032999249))
+
+
+
+================================================================================
+RECORD 22 of 208
+================================================================================
+
+IDN        : 21
+ID_MJ      : 173
+MPA_NAME   : Iweni
+COUNTRY    : Kenya
+REGION     : Kenya
+DESGNATION : No Take Zone
+STATUS     : Working
+CATEGORY   : Local
+CATEGORY2  : LMMA
+YEAR       : 2017
+ZONE       : No-take area
+MANAGED_BY : Ministry of Environment, Energy and Climate Change
+IUCN       : Undetermined
+NOTES      : NULL
+AREAKM_DEC : 4
+AREAKM_ACT : 3.643080
+PERIKM_ACT : 7.769560
+POINT_X    : 41.011000
+POINT_Y    : -2.212560
+geometry   : Polygon (Area: 3648475.961733, Bounds: (4563930.849199998, -246008.21909988738, 4566636.669399998, -243480.95799990697))
+
+
+
+================================================================================
+RECORD 23 of 208
+================================================================================
+
+IDN        : 22
+ID_MJ      : 174
+MPA_NAME   : Koyo
+COUNTRY    : Kenya
+REGION     : Kenya
+DESGNATION : Gear Restricion
+STATUS     : Proposed
+CATEGORY   : Local
+CATEGORY2  : LMMA
+YEAR       : Proposed
+ZONE       : Gear Restriction
+MANAGED_BY : Seychelles Island Foundation
+IUCN       : Ib
+NOTES      : Overlaps Upulu wa Punda
+AREAKM_DEC : 8
+AREAKM_ACT : 8.479220
+PERIKM_ACT : 13.633200
+POINT_X    : 41.027800
+POINT_Y    : -2.086790
+geometry   : Polygon (Area: 8490431.371598, Bounds: (4564896.214299998, -232419.90509993676, 4569517.910799998, -229045.76749988637))
+
+
+
+================================================================================
+RECORD 24 of 208
+================================================================================
+
+IDN        : 23
+ID_MJ      : 175
+MPA_NAME   : Upulu wa Punda
+COUNTRY    : Kenya
+REGION     : Kenya
+DESGNATION : Gear Restricion
+STATUS     : Proposed
+CATEGORY   : Local
+CATEGORY2  : LMMA
+YEAR       : Proposed
+ZONE       : Gear Restriction
+MANAGED_BY : Seychelles MSP Initiative
+IUCN       : Undetermined
+NOTES      : Overlaps Koyo
+AREAKM_DEC : 0
+AREAKM_ACT : 3.718330
+PERIKM_ACT : 9.729380
+POINT_X    : 41.056100
+POINT_Y    : -2.063540
+geometry   : Polygon (Area: 3723127.548333, Bounds: (4568439.744900001, -229512.80816255507, 4571616.596800009, -226569.40189997677))
+
+
+
+================================================================================
+RECORD 25 of 208
+================================================================================
+
+IDN        : 24
+ID_MJ      : 176
+MPA_NAME   : Shindambe
+COUNTRY    : Kenya
+REGION     : Kenya
+DESGNATION : No Take Zone
+STATUS     : Proposed
+CATEGORY   : Local
+CATEGORY2  : LMMA
+YEAR       : Proposed
+ZONE       : No-take area
+MANAGED_BY : NULL
+IUCN       : Undetermined
+NOTES      : NULL
+AREAKM_DEC : 4
+AREAKM_ACT : 3.620340
+PERIKM_ACT : 7.348480
+POINT_X    : 41.137400
+POINT_Y    : -2.048550
+geometry   : Polygon (Area: 3624935.424598, Bounds: (4578134.089699998, -227773.62249991362, 4580804.083999998, -225541.02649993848))
+
+
+
+================================================================================
+RECORD 26 of 208
+================================================================================
+
+IDN        : 25
+ID_MJ      : 177
+MPA_NAME   : Mfunda Wamba
+COUNTRY    : Kenya
+REGION     : Kenya
+DESGNATION : No Take Zone
+STATUS     : Proposed
+CATEGORY   : Local
+CATEGORY2  : LMMA
+YEAR       : Proposed
+ZONE       : No-take area
+MANAGED_BY : Seychelles MSP Initiative
+IUCN       : Undetermined
+NOTES      : NULL
+AREAKM_DEC : 0
+AREAKM_ACT : 0.454134
+PERIKM_ACT : 2.753610
+POINT_X    : 41.108600
+POINT_Y    : -2.031410
+geometry   : Polygon (Area: 454701.435070, Bounds: (4575749.1187, -225016.12749999866, 4576685.093299999, -224304.38679997282))
+
+
+
+================================================================================
+RECORD 27 of 208
+================================================================================
+
+IDN        : 26
+ID_MJ      : 178
+MPA_NAME   : Kiweni
+COUNTRY    : Kenya
+REGION     : Kenya
+DESGNATION : Gear Restricion
+STATUS     : Proposed
+CATEGORY   : Local
+CATEGORY2  : LMMA
+YEAR       : Proposed
+ZONE       : Gear Restriction
+MANAGED_BY : NULL
+IUCN       : Undetermined
+NOTES      : NULL
+AREAKM_DEC : 3
+AREAKM_ACT : 3.113260
+PERIKM_ACT : 8.413780
+POINT_X    : 41.027500
+POINT_Y    : -2.053060
+geometry   : Polygon (Area: 3117230.290342, Bounds: (4565890.6107, -228044.9636000135, 4568867.947799998, -226045.550399911))
+
+
+
+================================================================================
+RECORD 28 of 208
+================================================================================
+
+IDN        : 27
+ID_MJ      : 179
+MPA_NAME   : Saadani
+COUNTRY    : Kenya
+REGION     : Kenya
+DESGNATION : Gear Restricion
+STATUS     : Proposed
+CATEGORY   : Local
+CATEGORY2  : LMMA
+YEAR       : Proposed
+ZONE       : Gear Restriction
+MANAGED_BY : NULL
+IUCN       : Undetermined
+NOTES      : NULL
+AREAKM_DEC : 4
+AREAKM_ACT : 3.769570
+PERIKM_ACT : 8.245880
+POINT_X    : 41.088500
+POINT_Y    : -2.014330
+geometry   : Polygon (Area: 3774193.840297, Bounds: (4572733.195599999, -224181.93319991956, 4575263.547400001, -221487.97559995472))
+
+
+
+================================================================================
+RECORD 29 of 208
+================================================================================
+
+IDN        : 28
+ID_MJ      : 180
+MPA_NAME   : Mbui
+COUNTRY    : Kenya
+REGION     : Kenya
+DESGNATION : Gear Restricion
+STATUS     : Proposed
+CATEGORY   : Local
+CATEGORY2  : LMMA
+YEAR       : Proposed
+ZONE       : Gear Restriction
+MANAGED_BY : NULL
+IUCN       : Undetermined
+NOTES      : NULL
+AREAKM_DEC : 0
+AREAKM_ACT : 0.395152
+PERIKM_ACT : 4.666680
+POINT_X    : 40.968600
+POINT_Y    : -2.125000
+geometry   : Polygon (Area: 395692.186562, Bounds: (4560288.206700001, -235431.44719996006, 4561445.941799997, -234614.56749991773))
+
+
+
+================================================================================
+RECORD 30 of 208
+================================================================================
+
+IDN        : 29
+ID_MJ      : 181
+MPA_NAME   : Shaka la Manyoni
+COUNTRY    : Kenya
+REGION     : Kenya
+DESGNATION : Gear Restricion
+STATUS     : Proposed
+CATEGORY   : Local
+CATEGORY2  : LMMA
+YEAR       : Proposed
+ZONE       : Gear Restriction
+MANAGED_BY : NULL
+IUCN       : Undetermined
+NOTES      : Overlaps with Kiunga
+AREAKM_DEC : 2
+AREAKM_ACT : 2.229260
+PERIKM_ACT : 6.015550
+POINT_X    : 41.213600
+POINT_Y    : -1.966340
+geometry   : Polygon (Area: 2231868.459741, Bounds: (4587034.281099999, -218421.25939998182, 4588688.828899998, -216397.35129996616))
+
+
+
+================================================================================
+RECORD 31 of 208
+================================================================================
+
+IDN        : 30
+ID_MJ      : 182
+MPA_NAME   : Fambuzi
+COUNTRY    : Kenya
+REGION     : Kenya
+DESGNATION : Gear Restricion
+STATUS     : Proposed
+CATEGORY   : Local
+CATEGORY2  : LMMA
+YEAR       : Proposed
+ZONE       : Gear Restriction
+MANAGED_BY : NULL
+IUCN       : Undetermined
+NOTES      : Overlaps with Kiunga
+AREAKM_DEC : 1
+AREAKM_ACT : 0.679795
+PERIKM_ACT : 3.523220
+POINT_X    : 41.200500
+POINT_Y    : -1.944490
+geometry   : Polygon (Area: 680573.511802, Bounds: (4585773.506399999, -215643.13969989933, 4587067.2771, -214448.88139992068))
+
+
+
+================================================================================
+RECORD 32 of 208
+================================================================================
+
+IDN        : 31
+ID_MJ      : 183
+MPA_NAME   : Shingi Iyuu
+COUNTRY    : Kenya
+REGION     : Kenya
+DESGNATION : Gear Restricion
+STATUS     : Proposed
+CATEGORY   : Local
+CATEGORY2  : LMMA
+YEAR       : Proposed
+ZONE       : Gear Restriction
+MANAGED_BY : NULL
+IUCN       : Undetermined
+NOTES      : Overlaps with Kiunga
+AREAKM_DEC : 2
+AREAKM_ACT : 1.810380
+PERIKM_ACT : 6.238420
+POINT_X    : 41.210900
+POINT_Y    : -1.989340
+geometry   : Polygon (Area: 1812548.760333, Bounds: (4586436.638799998, -220963.8267999616, 4588783.400400001, -219225.0710999313))
+
+
+
+================================================================================
+RECORD 33 of 208
+================================================================================
+
+IDN        : 32
+ID_MJ      : 184
+MPA_NAME   : Tausi
+COUNTRY    : Kenya
+REGION     : Kenya
+DESGNATION : No Take Zone
+STATUS     : Proposed
+CATEGORY   : Local
+CATEGORY2  : LMMA
+YEAR       : Proposed
+ZONE       : No-take area
+MANAGED_BY : NULL
+IUCN       : Undetermined
+NOTES      : NULL
+AREAKM_DEC : 3
+AREAKM_ACT : 2.617340
+PERIKM_ACT : 8.553200
+POINT_X    : 40.964300
+POINT_Y    : -2.173240
+geometry   : Polygon (Area: 2621083.117936, Bounds: (4559372.748899999, -241572.30719992437, 4561297.0007, -238519.8186999506))
+
+
+
+================================================================================
+RECORD 34 of 208
+================================================================================
+
+IDN        : 33
+ID_MJ      : 185
+MPA_NAME   : Mtanga wa Bandari
+COUNTRY    : Kenya
+REGION     : Kenya
+DESGNATION : Seasonal closure
+STATUS     : Proposed
+CATEGORY   : Local
+CATEGORY2  : LMMA
+YEAR       : Proposed
+ZONE       : Seasonal closure
+MANAGED_BY : NULL
+IUCN       : Undetermined
+NOTES      : NULL
+AREAKM_DEC : 1
+AREAKM_ACT : 1.330540
+PERIKM_ACT : 4.754750
+POINT_X    : 41.011900
+POINT_Y    : -2.177170
+geometry   : Polygon (Area: 1332453.084236, Bounds: (4564928.123899999, -241489.02729998968, 4565913.4788999995, -240114.60229994476))
+
+
+
+================================================================================
+RECORD 35 of 208
+================================================================================
+
+IDN        : 34
+ID_MJ      : 84
+MPA_NAME   : Mjimwonge
+COUNTRY    : Tanzania
+REGION     : Tanzania
+DESGNATION : Fisheries Management Area
+STATUS     : Working
+CATEGORY   : Local
+CATEGORY2  : CFMA
+YEAR       : 2005
+ZONE       : Not described
+MANAGED_BY : Marine Parks and Reserves Unit (MPRU)
+IUCN       : Undetermined
+NOTES      : Overlaps w/ Kendwa FID 84 & Sinda
+AREAKM_DEC : 0
+AREAKM_ACT : 73.714400
+PERIKM_ACT : 33.187900
+POINT_X    : 39.390500
+POINT_Y    : -6.821040
+geometry   : Polygon (Area: 74762003.045793, Bounds: (4378741.0275, -760516.9875998857, 4390094.4741, -751904.3119999149))
+
+
+
+================================================================================
+RECORD 36 of 208
+================================================================================
+
+IDN        : 35
+ID_MJ      : 232
+MPA_NAME   : Mkisami
+COUNTRY    : Tanzania
+REGION     : Tanzania
+DESGNATION : Fisheries Management Area
+STATUS     : Working
+CATEGORY   : Local
+CATEGORY2  : CFMA
+YEAR       : 2005
+ZONE       : Not described
+MANAGED_BY : CapeNature
+IUCN       : Undetermined
+NOTES      : NULL
+AREAKM_DEC : 0
+AREAKM_ACT : 137.877000
+PERIKM_ACT : 57.338300
+POINT_X    : 39.509000
+POINT_Y    : -6.879910
+geometry   : Polygon (Area: 139870752.039500, Bounds: (4389965.3805, -771946.0979999121, 4406638.844300001, -753780.3550998691))
+
+
+
+================================================================================
+RECORD 37 of 208
+================================================================================
+
+IDN        : 36
+ID_MJ      : 233
+MPA_NAME   : Kingomikwa
+COUNTRY    : Tanzania
+REGION     : Tanzania
+DESGNATION : Fisheries Management Area
+STATUS     : Working
+CATEGORY   : Local
+CATEGORY2  : CFMA
+YEAR       : 2005
+ZONE       : Not described
+MANAGED_BY : NULL
+IUCN       : Undetermined
+NOTES      : NULL
+AREAKM_DEC : 0
+AREAKM_ACT : 61.514400
+PERIKM_ACT : 33.862900
+POINT_X    : 39.568300
+POINT_Y    : -6.997760
+geometry   : Polygon (Area: 62435096.798740, Bounds: (4399246.5342999995, -780881.7391999193, 4408262.7065, -770654.1626998786))
+
+
+
+================================================================================
+RECORD 38 of 208
+================================================================================
+
+IDN        : 37
+ID_MJ      : 234
+MPA_NAME   : Pepukibukwa
+COUNTRY    : Tanzania
+REGION     : Tanzania
+DESGNATION : Fisheries Management Area
+STATUS     : Working
+CATEGORY   : Local
+CATEGORY2  : CFMA
+YEAR       : 2005
+ZONE       : Not described
+MANAGED_BY : NULL
+IUCN       : Undetermined
+NOTES      : NULL
+AREAKM_DEC : 0
+AREAKM_ACT : 172.858000
+PERIKM_ACT : 75.886600
+POINT_X    : 39.542900
+POINT_Y    : -7.143270
+geometry   : Polygon (Area: 175555118.590821, Bounds: (4388715.2104, -800853.2110998904, 4409757.475000001, -780494.0876999004))
+
+
+
+================================================================================
+RECORD 39 of 208
+================================================================================
+
+IDN        : 38
+ID_MJ      : 74
+MPA_NAME   : Jojibaki
+COUNTRY    : Tanzania
+REGION     : Tanzania
+DESGNATION : Fisheries Management Area
+STATUS     : Working
+CATEGORY   : Local
+CATEGORY2  : CFMA
+YEAR       : 2005
+ZONE       : Not described
+MANAGED_BY : Marine Parks and Reserves Unit (MPRU)
+IUCN       : Undetermined
+NOTES      : Overlaps w/ FID 34 & 35, part of BMU?
+AREAKM_DEC : 0
+AREAKM_ACT : 277.072000
+PERIKM_ACT : 93.804200
+POINT_X    : 39.730300
+POINT_Y    : -7.671620
+geometry   : Polygon (Area: 282062004.574184, Bounds: (4410992.585499998, -865698.6974998926, 4435727.791099998, -838410.2092999798))
+
+
+
+================================================================================
+RECORD 40 of 208
+================================================================================
+
+IDN        : 39
+ID_MJ      : 236
+MPA_NAME   : Tim4si
+COUNTRY    : Tanzania
+REGION     : Tanzania
+DESGNATION : Fisheries Management Area
+STATUS     : Working
+CATEGORY   : Local
+CATEGORY2  : CFMA
+YEAR       : 2005
+ZONE       : Not described
+MANAGED_BY : NULL
+IUCN       : Undetermined
+NOTES      : NULL
+AREAKM_DEC : 0
+AREAKM_ACT : 449.361000
+PERIKM_ACT : 100.203000
+POINT_X    : 39.461600
+POINT_Y    : -8.690230
+geometry   : Polygon (Area: 459789823.992614, Bounds: (4377832.472399998, -978563.0287998867, 4409154.520399999, -948566.6386999072))
+
+
+
+================================================================================
+RECORD 41 of 208
+================================================================================
+
+IDN        : 40
+ID_MJ      : 237
+MPA_NAME   : Msikivi
+COUNTRY    : Tanzania
+REGION     : Tanzania
+DESGNATION : Fisheries Management Area
+STATUS     : Working
+CATEGORY   : Local
+CATEGORY2  : CFMA
+YEAR       : 2005
+ZONE       : Not described
+MANAGED_BY : NULL
+IUCN       : Undetermined
+NOTES      : NULL
+AREAKM_DEC : 0
+AREAKM_ACT : 163.711000
+PERIKM_ACT : 61.743500
+POINT_X    : 39.341300
+POINT_Y    : -7.619170
+geometry   : Polygon (Area: 166619958.408950, Bounds: (4371193.960300008, -851474.8190998677, 4395911.892700004, -837062.4518999048))
+
+
+
+================================================================================
+RECORD 42 of 208
+================================================================================
+
+IDN        : 41
+ID_MJ      : 238
+MPA_NAME   : Mchimchunya
+COUNTRY    : Tanzania
+REGION     : Tanzania
+DESGNATION : Fisheries Management Area
+STATUS     : Working
+CATEGORY   : Local
+CATEGORY2  : CFMA
+YEAR       : 2005
+ZONE       : Not described
+MANAGED_BY : CapeNature
+IUCN       : Undetermined
+NOTES      : NULL
+AREAKM_DEC : 0
+AREAKM_ACT : 323.592000
+PERIKM_ACT : 87.860100
+POINT_X    : 39.453900
+POINT_Y    : -7.695090
+geometry   : Polygon (Area: 329463610.285088, Bounds: (4373350.949700005, -860821.4203999097, 4411380.032699999, -846955.8731999176))
+
+
+
+================================================================================
+RECORD 43 of 208
+================================================================================
+
+IDN        : 42
+ID_MJ      : 86
+MPA_NAME   : Dokichunda
+COUNTRY    : Tanzania
+REGION     : Tanzania
+DESGNATION : Fisheries Management Area
+STATUS     : Working
+CATEGORY   : Local
+CATEGORY2  : CFMA
+YEAR       : 2005
+ZONE       : Not described
+MANAGED_BY : Marine Parks and Reserves Unit (MPRU)
+IUCN       : Undetermined
+NOTES      : Overlaps w/ Shungumbili FID 47, part of TBCA/ BMU?
+AREAKM_DEC : 0
+AREAKM_ACT : 497.418000
+PERIKM_ACT : 97.908500
+POINT_X    : 39.636800
+POINT_Y    : -7.800550
+geometry   : Polygon (Area: 506681872.030240, Bounds: (4396570.283, -878782.1177998636, 4427574.8462000005, -849766.9372999541))
+
+
+
+================================================================================
+RECORD 44 of 208
+================================================================================
+
+IDN        : 43
+ID_MJ      : 240
+MPA_NAME   : Hbama Mashariki
+COUNTRY    : Tanzania
+REGION     : Tanzania
+DESGNATION : Fisheries Management Area
+STATUS     : Working
+CATEGORY   : Local
+CATEGORY2  : CFMA
+YEAR       : Not available
+ZONE       : Not described
+MANAGED_BY : CapeNature
+IUCN       : Undetermined
+NOTES      : NULL
+AREAKM_DEC : 0
+AREAKM_ACT : 145.794000
+PERIKM_ACT : 81.552900
+POINT_X    : 39.828200
+POINT_Y    : -7.962570
+geometry   : Polygon (Area: 148628977.313840, Bounds: (4421890.617800001, -898169.1390999376, 4443654.835, -867708.8481999203))
+
+
+
+================================================================================
+RECORD 45 of 208
+================================================================================
+
+IDN        : 44
+ID_MJ      : 241
+MPA_NAME   : Jujima
+COUNTRY    : Tanzania
+REGION     : Tanzania
+DESGNATION : Fisheries Management Area
+STATUS     : Working
+CATEGORY   : Local
+CATEGORY2  : CFMA
+YEAR       : 2005
+ZONE       : Not described
+MANAGED_BY : NULL
+IUCN       : Undetermined
+NOTES      : Overlaps Mafia Island
+AREAKM_DEC : 0
+AREAKM_ACT : 364.411000
+PERIKM_ACT : 93.975700
+POINT_X    : 39.665500
+POINT_Y    : -8.058670
+geometry   : Polygon (Area: 371667807.977511, Bounds: (4404271.965799998, -906697.5748999176, 4431943.6134, -882884.4458999209))
+
+
+
+================================================================================
+RECORD 46 of 208
+================================================================================
+
+IDN        : 45
+ID_MJ      : 242
+MPA_NAME   : Kimsa
+COUNTRY    : Tanzania
+REGION     : Tanzania
+DESGNATION : Fisheries Management Area
+STATUS     : Working
+CATEGORY   : Local
+CATEGORY2  : CFMA
+YEAR       : 2005
+ZONE       : Not described
+MANAGED_BY : NULL
+IUCN       : Undetermined
+NOTES      : NULL
+AREAKM_DEC : 0
+AREAKM_ACT : 561.716000
+PERIKM_ACT : 125.207000
+POINT_X    : 39.404000
+POINT_Y    : -7.822180
+geometry   : Polygon (Area: 572255101.798235, Bounds: (4365808.627300002, -883345.6362999161, 4405813.669300001, -856669.5487999204))
+
+
+
+================================================================================
+RECORD 47 of 208
+================================================================================
+
+IDN        : 46
+ID_MJ      : 72
+MPA_NAME   : Bwejuu
+COUNTRY    : Tanzania
+REGION     : Tanzania
+DESGNATION : Fisheries Management Area
+STATUS     : Working
+CATEGORY   : Local
+CATEGORY2  : CFMA
+YEAR       : 2005
+ZONE       : Not described
+MANAGED_BY : Marine Parks and Reserves Unit (MPRU)
+IUCN       : Undetermined
+NOTES      : Overlaps w/ FID 33, merge?
+AREAKM_DEC : 0
+AREAKM_ACT : 287.664000
+PERIKM_ACT : 99.323300
+POINT_X    : 39.546700
+POINT_Y    : -8.029500
+geometry   : Polygon (Area: 293351336.128812, Bounds: (4396570.283, -905241.3837998969, 4413942.7921, -877203.3985998755))
+
+
+
+================================================================================
+RECORD 48 of 208
+================================================================================
+
+IDN        : 47
+ID_MJ      : 244
+MPA_NAME   : Mbwekieki
+COUNTRY    : Tanzania
+REGION     : Tanzania
+DESGNATION : Fisheries Management Area
+STATUS     : Working
+CATEGORY   : Local
+CATEGORY2  : CFMA
+YEAR       : 2005
+ZONE       : Not described
+MANAGED_BY : NULL
+IUCN       : Undetermined
+NOTES      : NULL
+AREAKM_DEC : 0
+AREAKM_ACT : 241.145000
+PERIKM_ACT : 82.413400
+POINT_X    : 39.449300
+POINT_Y    : -8.055480
+geometry   : Polygon (Area: 245941716.366160, Bounds: (4382206.6407, -905241.3837998969, 4396706.3094, -877203.3985998755))
+
+
+
+================================================================================
+RECORD 49 of 208
+================================================================================
+
+IDN        : 48
+ID_MJ      : 245
+MPA_NAME   : Njisopoja
+COUNTRY    : Tanzania
+REGION     : Tanzania
+DESGNATION : Fisheries Management Area
+STATUS     : Working
+CATEGORY   : Local
+CATEGORY2  : CFMA
+YEAR       : 2005
+ZONE       : Not described
+MANAGED_BY : NULL
+IUCN       : Undetermined
+NOTES      : NULL
+AREAKM_DEC : 0
+AREAKM_ACT : 1755.190000
+PERIKM_ACT : 198.672000
+POINT_X    : 39.470800
+POINT_Y    : -8.399780
+geometry   : Polygon (Area: 1793216649.983022, Bounds: (4372120.804800006, -965043.4480999247, 4417445.650700002, -903611.8937998721))
+
+
+
+================================================================================
+RECORD 50 of 208
+================================================================================
+
+IDN        : 49
+ID_MJ      : 246
+MPA_NAME   : BK
+COUNTRY    : Tanzania
+REGION     : Tanzania
+DESGNATION : Fisheries Management Area
+STATUS     : Working
+CATEGORY   : Local
+CATEGORY2  : CFMA
+YEAR       : 2005
+ZONE       : Not described
+MANAGED_BY : NULL
+IUCN       : Undetermined
+NOTES      : NULL
+AREAKM_DEC : 0
+AREAKM_ACT : 273.675000
+PERIKM_ACT : 105.753000
+POINT_X    : 39.855700
+POINT_Y    : -7.649880
+geometry   : Polygon (Area: 278586497.438686, Bounds: (4425225.6926, -865698.6974998926, 4447749.930100001, -838825.6512998906))
+
+
+
+================================================================================
+RECORD 51 of 208
+================================================================================
+
+IDN        : 50
+ID_MJ      : 247
+MPA_NAME   : Mkinai
+COUNTRY    : Tanzania
+REGION     : Tanzania
+DESGNATION : Fisheries Management Area
+STATUS     : Working
+CATEGORY   : Local
+CATEGORY2  : CFMA
+YEAR       : 2005
+ZONE       : Not described
+MANAGED_BY : NULL
+IUCN       : Undetermined
+NOTES      : NULL
+AREAKM_DEC : 0
+AREAKM_ACT : 47.860600
+PERIKM_ACT : 54.211500
+POINT_X    : 40.030900
+POINT_Y    : -10.138400
+geometry   : Polygon (Area: 49380605.229037, Bounds: (4449297.9785, -1135322.2123999102, 4464325.652299999, -1122769.4979998725))
+
+
+
+================================================================================
+RECORD 52 of 208
+================================================================================
+
+IDN        : 51
+ID_MJ      : 248
+MPA_NAME   : Mana
+COUNTRY    : Tanzania
+REGION     : Tanzania
+DESGNATION : Fisheries Management Area
+STATUS     : Working
+CATEGORY   : Local
+CATEGORY2  : CFMA
+YEAR       : 2005
+ZONE       : Not described
+MANAGED_BY : NULL
+IUCN       : Undetermined
+NOTES      : NULL
+AREAKM_DEC : 0
+AREAKM_ACT : 55.080200
+PERIKM_ACT : 43.941900
+POINT_X    : 40.145600
+POINT_Y    : -10.207400
+geometry   : Polygon (Area: 56853725.422748, Bounds: (4463438.242199998, -1142334.3864998654, 4474150.317899998, -1126848.6432998679))
+
+
+
+================================================================================
+RECORD 53 of 208
+================================================================================
+
+IDN        : 52
+ID_MJ      : 249
+MPA_NAME   : Mnasi
+COUNTRY    : Tanzania
+REGION     : Tanzania
+DESGNATION : Fisheries Management Area
+STATUS     : Working
+CATEGORY   : Local
+CATEGORY2  : CFMA
+YEAR       : 2005
+ZONE       : Not described
+MANAGED_BY : NULL
+IUCN       : Undetermined
+NOTES      : Overlap Mnazi Bay - Rovuma Estuary
+AREAKM_DEC : 0
+AREAKM_ACT : 91.096000
+PERIKM_ACT : 56.409100
+POINT_X    : 40.250200
+POINT_Y    : -10.221500
+geometry   : Polygon (Area: 94037452.025782, Bounds: (4474150.317899998, -1143305.6395999102, 4487922.986499998, -1130857.97099984))
+
+
+
+================================================================================
+RECORD 54 of 208
+================================================================================
+
+IDN        : 53
+ID_MJ      : 250
+MPA_NAME   : Chole Bay
+COUNTRY    : Tanzania
+REGION     : Tanzania
+DESGNATION : Fisheries Management Area
+STATUS     : Working
+CATEGORY   : Local
+CATEGORY2  : CFMA
+YEAR       : 2005
+ZONE       : Not described
+MANAGED_BY : NULL
+IUCN       : Undetermined
+NOTES      : NULL
+AREAKM_DEC : 0
+AREAKM_ACT : 70.694200
+PERIKM_ACT : 31.634700
+POINT_X    : 39.780500
+POINT_Y    : -7.941690
+geometry   : Polygon (Area: 72060856.987914, Bounds: (4423134.2874, -886003.3481998468, 4433210.122299999, -876023.6178999174))
+
+
+
+================================================================================
+RECORD 55 of 208
+================================================================================
+
+IDN        : 54
+ID_MJ      : 251
+MPA_NAME   : Ponte Cais
+COUNTRY    : Mozambique
+REGION     : Mozambique
+DESGNATION : Marine Protected Area
+STATUS     : Working
+CATEGORY   : Local
+CATEGORY2  : LMMA
+YEAR       : 2017
+ZONE       : Not described
+MANAGED_BY : Co-mgt among community council for fisheries, with support from Bitonga Divers, Ocean Revolution
+IUCN       : Undetermined
+NOTES      : NULL
+AREAKM_DEC : 1
+AREAKM_ACT : 0.845655
+PERIKM_ACT : 4.390930
+POINT_X    : 35.378300
+POINT_Y    : -23.870300
+geometry   : Polygon (Area: 1010152.296786, Bounds: (3937885.3363999985, -2721176.91739993, 3938750.927900002, -2719292.768299839))
+
+
+
+================================================================================
+RECORD 56 of 208
+================================================================================
+
+IDN        : 55
+ID_MJ      : 252
+MPA_NAME   : Marragane
+COUNTRY    : Mozambique
+REGION     : Mozambique
+DESGNATION : Marine Protected Area
+STATUS     : Working
+CATEGORY   : Local
+CATEGORY2  : LMMA
+YEAR       : 2017
+ZONE       : Not described
+MANAGED_BY : Co-mgt among community council for fisheries, with support from Bitonga Divers, Ocean Revolution
+IUCN       : Undetermined
+NOTES      : NULL
+AREAKM_DEC : 3
+AREAKM_ACT : 3.401850
+PERIKM_ACT : 7.167880
+POINT_X    : 35.377200
+POINT_Y    : -23.926200
+geometry   : Polygon (Area: 4067020.522511, Bounds: (3936982.7474999973, -2728308.3789999164, 3939606.2104, -2725817.9256998627))
+
+
+
+================================================================================
+RECORD 57 of 208
+================================================================================
+
+IDN        : 56
+ID_MJ      : 253
+MPA_NAME   : Guindziwe
+COUNTRY    : Mozambique
+REGION     : Mozambique
+DESGNATION : Marine Protected Area
+STATUS     : Working
+CATEGORY   : Local
+CATEGORY2  : LMMA
+YEAR       : 2017
+ZONE       : Not described
+MANAGED_BY : Co-mgt among community council for fisheries, with support from Bitonga Divers, Ocean Revolution
+IUCN       : Undetermined
+NOTES      : NULL
+AREAKM_DEC : 1
+AREAKM_ACT : 1.008160
+PERIKM_ACT : 4.023550
+POINT_X    : 35.370500
+POINT_Y    : -23.943800
+geometry   : Polygon (Area: 1205620.570999, Bounds: (3936903.9001999977, -2729928.1097999364, 3938029.2655000016, -2728299.55609987))
+
+
+
+================================================================================
+RECORD 58 of 208
+================================================================================
+
+IDN        : 57
+ID_MJ      : 254
+MPA_NAME   : Mahigo Mbate
+COUNTRY    : Mozambique
+REGION     : Mozambique
+DESGNATION : Marine Protected Area
+STATUS     : Working
+CATEGORY   : Local
+CATEGORY2  : LMMA
+YEAR       : 2017
+ZONE       : Not described
+MANAGED_BY : Co-mgt among community council for fisheries, with support from Bitonga Divers, Ocean Revolution
+IUCN       : Undetermined
+NOTES      : NULL
+AREAKM_DEC : 0
+AREAKM_ACT : 0.069832
+PERIKM_ACT : 1.110030
+POINT_X    : 35.421100
+POINT_Y    : -23.772500
+geometry   : Polygon (Area: 83290.840661, Bounds: (3942875.4721000004, -2708757.0033998233, 3943222.4549999977, -2708260.835099883))
+
+
+
+================================================================================
+RECORD 59 of 208
+================================================================================
+
+IDN        : 58
+ID_MJ      : 255
+MPA_NAME   : Nha Dzi Sectori
+COUNTRY    : Mozambique
+REGION     : Mozambique
+DESGNATION : Marine Protected Area
+STATUS     : Working
+CATEGORY   : Local
+CATEGORY2  : LMMA
+YEAR       : 2017
+ZONE       : Not described
+MANAGED_BY : Co-mgt among community council for fisheries, with support from Bitonga Divers, Ocean Revolution
+IUCN       : Undetermined
+NOTES      : NULL
+AREAKM_DEC : 0
+AREAKM_ACT : 0.038396
+PERIKM_ACT : 0.796995
+POINT_X    : 35.432100
+POINT_Y    : -23.782200
+geometry   : Polygon (Area: 45802.614327, Bounds: (3944140.8407999985, -2709793.9036998586, 3944457.9899999993, -2709524.268999879))
+
+
+
+================================================================================
+RECORD 60 of 208
+================================================================================
+
+IDN        : 59
+ID_MJ      : 256
+MPA_NAME   : Mandzenika
+COUNTRY    : Mozambique
+REGION     : Mozambique
+DESGNATION : Marine Protected Area
+STATUS     : Working
+CATEGORY   : Local
+CATEGORY2  : LMMA
+YEAR       : 2017
+ZONE       : Not described
+MANAGED_BY : Co-mgt among community council for fisheries, with support from Bitonga Divers, Ocean Revolution
+IUCN       : Undetermined
+NOTES      : NULL
+AREAKM_DEC : 0
+AREAKM_ACT : 0.095172
+PERIKM_ACT : 1.268130
+POINT_X    : 35.438500
+POINT_Y    : -23.790800
+geometry   : Polygon (Area: 113546.480795, Bounds: (3944733.951000001, -2710958.2609999576, 3945217.3002000004, -2710483.4345998927))
+
+
+
+================================================================================
+RECORD 61 of 208
+================================================================================
+
+IDN        : 60
+ID_MJ      : 257
+MPA_NAME   : Guilalene
+COUNTRY    : Mozambique
+REGION     : Mozambique
+DESGNATION : Marine Protected Area
+STATUS     : Working
+CATEGORY   : Local
+CATEGORY2  : LMMA
+YEAR       : 2017
+ZONE       : Not described
+MANAGED_BY : Co-mgt among community council for fisheries, with support from Bitonga Divers, Ocean Revolution
+IUCN       : Undetermined
+NOTES      : NULL
+AREAKM_DEC : 1
+AREAKM_ACT : 0.893611
+PERIKM_ACT : 5.416880
+POINT_X    : 35.373300
+POINT_Y    : -23.838900
+geometry   : Polygon (Area: 1066908.070354, Bounds: (3937481.0040999977, -2717906.513399813, 3937981.244399997, -2715239.4939998672))
+
+
+
+================================================================================
+RECORD 62 of 208
+================================================================================
+
+IDN        : 61
+ID_MJ      : 258
+MPA_NAME   : Guidzivane
+COUNTRY    : Mozambique
+REGION     : Mozambique
+DESGNATION : Marine Protected Area
+STATUS     : Working
+CATEGORY   : Local
+CATEGORY2  : LMMA
+YEAR       : 2017
+ZONE       : Not described
+MANAGED_BY : Co-mgt among community council for fisheries, with support from Bitonga Divers, Ocean Revolution
+IUCN       : Undetermined
+NOTES      : NULL
+AREAKM_DEC : 0
+AREAKM_ACT : 0.362464
+PERIKM_ACT : 3.954780
+POINT_X    : 35.399600
+POINT_Y    : -23.828500
+geometry   : Polygon (Area: 432689.368520, Bounds: (3939679.960900001, -2715783.6131998505, 3941598.287099998, -2714838.6170998514))
+
+
+
+================================================================================
+RECORD 63 of 208
+================================================================================
+
+IDN        : 62
+ID_MJ      : 259
+MPA_NAME   : Marrambone
+COUNTRY    : Mozambique
+REGION     : Mozambique
+DESGNATION : Marine Protected Area
+STATUS     : Working
+CATEGORY   : Local
+CATEGORY2  : LMMA
+YEAR       : 2017
+ZONE       : Not described
+MANAGED_BY : NULL
+IUCN       : Undetermined
+NOTES      : NULL
+AREAKM_DEC : 0
+AREAKM_ACT : 0.017204
+PERIKM_ACT : 0.712299
+POINT_X    : 35.423200
+POINT_Y    : -23.841900
+geometry   : Polygon (Area: 20541.081602, Bounds: (3943176.3240000005, -2717036.4974998278, 3943391.328099999, -2716737.4635998346))
+
+
+
+================================================================================
+RECORD 64 of 208
+================================================================================
+
+IDN        : 63
+ID_MJ      : 260
+MPA_NAME   : Roches Noires
+COUNTRY    : Mauritius
+REGION     : Mauritius
+DESGNATION : Marine Protected Area
+STATUS     : Working
+CATEGORY   : Local
+CATEGORY2  : VMA
+YEAR       : Not available
+ZONE       : Not described
+MANAGED_BY : NULL
+IUCN       : IV
+NOTES      : VH: Deleted duplicate
+AREAKM_DEC : 0
+AREAKM_ACT : 0.066464
+PERIKM_ACT : 1.003210
+POINT_X    : 57.745400
+POINT_Y    : -20.106000
+geometry   : Polygon (Area: 75311.328035, Bounds: (6428003.396400001, -2271069.6743998374, 6428327.8453, -2270700.0697998274))
+
+
+
+================================================================================
+RECORD 65 of 208
+================================================================================
+
+IDN        : 64
+ID_MJ      : 261
+MPA_NAME   : Anse La Raie
+COUNTRY    : Mauritius
+REGION     : Mauritius
+DESGNATION : Marine Protected Area
+STATUS     : Working
+CATEGORY   : Local
+CATEGORY2  : VCMA
+YEAR       : Not available
+ZONE       : Not described
+MANAGED_BY : NULL
+IUCN       : Undetermined
+NOTES      : VH: Deleted duplicate, edit Cat
+AREAKM_DEC : 0
+AREAKM_ACT : 4.750240
+PERIKM_ACT : 9.932520
+POINT_X    : 57.642900
+POINT_Y    : -19.985600
+geometry   : Polygon (Area: 5374381.624666, Bounds: (6415234.694299999, -2258358.394299846, 6418552.159699999, -2255642.0408998737))
+
+
+
+================================================================================
+RECORD 66 of 208
+================================================================================
+
+IDN        : 65
+ID_MJ      : 78
+MPA_NAME   : Deep Sea-Boma
+COUNTRY    : Tanzania
+REGION     : Tanzania
+DESGNATION : Collaborative Management Area
+STATUS     : Not functional
+CATEGORY   : Local
+CATEGORY2  : CMA
+YEAR       : 1996
+ZONE       : Not described
+MANAGED_BY : Marine Parks and Reserves Unit (MPRU)
+IUCN       : Undetermined
+NOTES      : Overlaps w/ Kwale FID 39, Part of the Tanga CMA
+AREAKM_DEC : 400
+AREAKM_ACT : 569.643000
+PERIKM_ACT : 144.356000
+POINT_X    : 39.268400
+POINT_Y    : -4.958600
+geometry   : Polygon (Area: 573905703.671939, Bounds: (4352253.5227, -561788.3355999261, 4389463.2498, -534775.0929999207))
+
+
+
+================================================================================
+RECORD 67 of 208
+================================================================================
+
+IDN        : 66
+ID_MJ      : 514
+MPA_NAME   : Mkwaja-Sange
+COUNTRY    : Tanzania
+REGION     : Tanzania
+DESGNATION : Collaborative Management Area
+STATUS     : Not functional
+CATEGORY   : Local
+CATEGORY2  : CMA
+YEAR       : 2000
+ZONE       : Not described
+MANAGED_BY : NULL
+IUCN       : Undetermined
+NOTES      : Part of the Tanga CMA
+AREAKM_DEC : 405
+AREAKM_ACT : 555.240000
+PERIKM_ACT : 94.500500
+POINT_X    : 38.922100
+POINT_Y    : -5.858800
+geometry   : Polygon (Area: 561060533.927705, Bounds: (4319445.785199999, -664235.5040999213, 4348571.848, -633834.7589999019))
+
+
+
+================================================================================
+RECORD 68 of 208
+================================================================================
+
+IDN        : 67
+ID_MJ      : 88
+MPA_NAME   : Boza Sange
+COUNTRY    : Tanzania
+REGION     : Tanzania
+DESGNATION : Collaborative Management Area
+STATUS     : Not functional
+CATEGORY   : Local
+CATEGORY2  : CMA
+YEAR       : 1996
+ZONE       : Not described
+MANAGED_BY : Marine Parks and Reserves Unit (MPRU)
+IUCN       : Undetermined
+NOTES      : Overlaps Maziwe FID 49, Part of the Tanga CMA
+AREAKM_DEC : 559
+AREAKM_ACT : 862.340000
+PERIKM_ACT : 139.668000
+POINT_X    : 39.049000
+POINT_Y    : -5.576720
+geometry   : Polygon (Area: 870532063.390450, Bounds: (4326939.7683, -638915.1830999531, 4365423.9012, -596973.7088999334))
+
+
+
+================================================================================
+RECORD 69 of 208
+================================================================================
+
+IDN        : 68
+ID_MJ      : 516
+MPA_NAME   : Mtangata
+COUNTRY    : Tanzania
+REGION     : Tanzania
+DESGNATION : Collaborative Management Area
+STATUS     : Not functional
+CATEGORY   : Local
+CATEGORY2  : CMA
+YEAR       : 1996
+ZONE       : Not described
+MANAGED_BY : NULL
+IUCN       : Undetermined
+NOTES      : Part of the Tanga CMA
+AREAKM_DEC : 150
+AREAKM_ACT : 354.780000
+PERIKM_ACT : 76.318700
+POINT_X    : 39.146000
+POINT_Y    : -5.336880
+geometry   : Polygon (Area: 357856420.913095, Bounds: (4344619.3445, -601495.625899952, 4370664.725499998, -581090.3293998872))
+
+
+
+================================================================================
+RECORD 70 of 208
+================================================================================
+
+IDN        : 69
+ID_MJ      : 76
+MPA_NAME   : Mwarongo-Sahare
+COUNTRY    : Tanzania
+REGION     : Tanzania
+DESGNATION : Collaborative Management Area
+STATUS     : Not functional
+CATEGORY   : Local
+CATEGORY2  : CMA
+YEAR       : 2000
+ZONE       : Not described
+MANAGED_BY : Marine Parks and Reserves Unit (MPRU)
+IUCN       : Undetermined
+NOTES      : Part of the Tanga CMA
+AREAKM_DEC : 300
+AREAKM_ACT : 584.333000
+PERIKM_ACT : 123.712000
+POINT_X    : 39.203600
+POINT_Y    : -5.146800
+geometry   : Polygon (Area: 589049694.315102, Bounds: (4348499.077599999, -584112.4000998749, 4380990.717799998, -555906.2720999351))
+
+
+
+================================================================================
+RECORD 71 of 208
+================================================================================
+
+IDN        : 70
+ID_MJ      : 79
+MPA_NAME   : Boma-Mahandakini
+COUNTRY    : Tanzania
+REGION     : Tanzania
+DESGNATION : Collaborative Management Area
+STATUS     : Not functional
+CATEGORY   : Local
+CATEGORY2  : CMA
+YEAR       : 2000
+ZONE       : Not described
+MANAGED_BY : Marine Conservation Unit (MCU)
+IUCN       : Undetermined
+NOTES      : Overlaps with Mwemwe FID 40, part of TBCA/ BMU?
+AREAKM_DEC : 100
+AREAKM_ACT : 240.006000
+PERIKM_ACT : 92.868700
+POINT_X    : 39.274500
+POINT_Y    : -4.799580
+geometry   : Polygon (Area: 241683796.555692, Bounds: (4360832.389800001, -543471.3903999089, 4389923.7305999985, -517946.78879986686))
+
+
+
+================================================================================
+RECORD 72 of 208
+================================================================================
+
+IDN        : 71
+ID_MJ      : 163
+MPA_NAME   : Mkunguni
+COUNTRY    : Kenya
+REGION     : Kenya
+DESGNATION : No Take Zone
+STATUS     : Proposed
+CATEGORY   : Local
+CATEGORY2  : LMMA
+YEAR       : 2015
+ZONE       : No-take area
+MANAGED_BY : Ministry of Blue Economy, Marine Resources, Fisheries and Shipping
+IUCN       : IV
+NOTES      : Duplicate? DIfferent polygon but same name
+AREAKM_DEC : 0
+AREAKM_ACT : 0.198799
+PERIKM_ACT : 2.622460
+POINT_X    : 39.498200
+POINT_Y    : -4.474270
+geometry   : Polygon (Area: 200008.231366, Bounds: (4396340.363600001, -495611.17029989074, 4397476.753699999, -494898.6062999001))
+
+
+
+================================================================================
+RECORD 73 of 208
+================================================================================
+
+IDN        : 72
+ID_MJ      : 0
+MPA_NAME   : Vamizi Island
+COUNTRY    : Mozambique
+REGION     : Mozambique
+DESGNATION : Marine Reserve
+STATUS     : Working
+CATEGORY   : Local
+CATEGORY2  : LMMA
+YEAR       : 2006
+ZONE       : Not described
+MANAGED_BY : Fishing community council with support from WWF
+IUCN       : Undetermined
+NOTES      : Added
+AREAKM_DEC : 18
+AREAKM_ACT : 70.784700
+PERIKM_ACT : 32.787400
+POINT_X    : 40.707700
+POINT_Y    : -11.001400
+geometry   : Polygon (Area: 73441972.710352, Bounds: (4525682.1119885715, -1228581.440104896, 4536400.755004946, -1219686.2221322227))
+
+
+
+================================================================================
+RECORD 74 of 208
+================================================================================
+
+IDN        : 73
+ID_MJ      : 262
+MPA_NAME   : Mangolovolo
+COUNTRY    : Madagascar
+REGION     : Madagascar
+DESGNATION : No take zone, sustainable use zone
+STATUS     : Working
+CATEGORY   : Local
+CATEGORY2  : LMMA
+YEAR       : Not available
+ZONE       : Mulitple
+MANAGED_BY : NULL
+IUCN       : Undetermined
+NOTES      : NULL
+AREAKM_DEC : 0
+AREAKM_ACT : 2.002810
+PERIKM_ACT : 5.017230
+POINT_X    : 43.522100
+POINT_Y    : -21.677900
+geometry   : Polygon (Area: 2317157.237263, Bounds: (4843990.498002258, -2457977.690611972, 4845723.29619792, -2456274.5113212806))
+
+
+
+================================================================================
+RECORD 75 of 208
+================================================================================
+
+IDN        : 74
+ID_MJ      : 263
+MPA_NAME   : Bekoropoke Miray
+COUNTRY    : Madagascar
+REGION     : Madagascar
+DESGNATION : No take zone, sustainable use zone
+STATUS     : Working
+CATEGORY   : Local
+CATEGORY2  : LMMA
+YEAR       : 2005
+ZONE       : Mulitple
+MANAGED_BY : NULL
+IUCN       : Undetermined
+NOTES      : Updated attributes
+AREAKM_DEC : 42
+AREAKM_ACT : 2.002940
+PERIKM_ACT : 5.017390
+POINT_X    : 43.511400
+POINT_Y    : -21.483500
+geometry   : Polygon (Area: 2311127.231244, Bounds: (4842803.90850063, -2434837.3170791236, 4844536.554099596, -2433138.4207258243))
+
+
+
+================================================================================
+RECORD 76 of 208
+================================================================================
+
+IDN        : 75
+ID_MJ      : 264
+MPA_NAME   : Ambohibe
+COUNTRY    : Madagascar
+REGION     : Madagascar
+DESGNATION : No take zone, sustainable use zone
+STATUS     : Working
+CATEGORY   : Local
+CATEGORY2  : LMMA
+YEAR       : Not available
+ZONE       : Mulitple
+MANAGED_BY : NULL
+IUCN       : Undetermined
+NOTES      : NULL
+AREAKM_DEC : 0
+AREAKM_ACT : 2.003030
+PERIKM_ACT : 5.017490
+POINT_X    : 43.512700
+POINT_Y    : -21.350600
+geometry   : Polygon (Area: 2307047.610769, Bounds: (4842949.789212149, -2419034.0364770014, 4844682.3303881455, -2417338.036763791))
+
+
+
+================================================================================
+RECORD 77 of 208
+================================================================================
+
+IDN        : 76
+ID_MJ      : 265
+MPA_NAME   : Andranopasy
+COUNTRY    : Madagascar
+REGION     : Madagascar
+DESGNATION : No take zone, sustainable use zone
+STATUS     : Working
+CATEGORY   : Local
+CATEGORY2  : LMMA
+YEAR       : 2005
+ZONE       : Mulitple
+MANAGED_BY : NULL
+IUCN       : Undetermined
+NOTES      : NULL
+AREAKM_DEC : 72
+AREAKM_ACT : 2.003070
+PERIKM_ACT : 5.017550
+POINT_X    : 43.734400
+POINT_Y    : -21.282200
+geometry   : Polygon (Area: 2304961.411351, Bounds: (4867628.233998225, -2410906.213743386, 4869360.721402001, -2409211.69610618))
+
+
+
+================================================================================
+RECORD 78 of 208
+================================================================================
+
+IDN        : 77
+ID_MJ      : 266
+MPA_NAME   : Lovobe
+COUNTRY    : Madagascar
+REGION     : Madagascar
+DESGNATION : Temporary reserves
+STATUS     : Working
+CATEGORY   : Local
+CATEGORY2  : LMMA
+YEAR       : Not available
+ZONE       : Seasonal closure
+MANAGED_BY : NULL
+IUCN       : IV
+NOTES      : Ala Vao?
+AREAKM_DEC : 0
+AREAKM_ACT : 2.003650
+PERIKM_ACT : 5.018280
+POINT_X    : 44.260800
+POINT_Y    : -20.339900
+geometry   : Polygon (Area: 2277148.587107, Bounds: (4926227.185306209, -2299331.540848403, 4927958.930094102, -2297656.7461649794))
+
+
+
+================================================================================
+RECORD 79 of 208
+================================================================================
+
+IDN        : 78
+ID_MJ      : 267
+MPA_NAME   : Antsatsabo Miray
+COUNTRY    : Madagascar
+REGION     : Madagascar
+DESGNATION : Temporary reserves
+STATUS     : Working
+CATEGORY   : Local
+CATEGORY2  : LMMA
+YEAR       : 2011
+ZONE       : Seasonal closure
+MANAGED_BY : NULL
+IUCN       : Undetermined
+NOTES      : Updated attributes
+AREAKM_DEC : 0
+AREAKM_ACT : 2.003620
+PERIKM_ACT : 5.018250
+POINT_X    : 44.235900
+POINT_Y    : -20.382200
+geometry   : Polygon (Area: 2278360.512051, Bounds: (4923447.520900647, -2304325.0281846807, 4925179.299099522, -2302649.3748579985))
+
+
+
+================================================================================
+RECORD 80 of 208
+================================================================================
+
+IDN        : 79
+ID_MJ      : 268
+MPA_NAME   : Begamela
+COUNTRY    : Madagascar
+REGION     : Madagascar
+DESGNATION : Temporary reserves
+STATUS     : Working
+CATEGORY   : Local
+CATEGORY2  : LMMA
+YEAR       : Not available
+ZONE       : Seasonal closure
+MANAGED_BY : NULL
+IUCN       : Undetermined
+NOTES      : Mahavelo?
+AREAKM_DEC : 0
+AREAKM_ACT : 2.003590
+PERIKM_ACT : 5.018210
+POINT_X    : 44.176100
+POINT_Y    : -20.436000
+geometry   : Polygon (Area: 2279905.898571, Bounds: (4916793.93367037, -2310674.544435964, 4918525.75432983, -2308997.7958988138))
+
+
+
+================================================================================
+RECORD 81 of 208
+================================================================================
+
+IDN        : 80
+ID_MJ      : 269
+MPA_NAME   : Antanimanimbo
+COUNTRY    : Madagascar
+REGION     : Madagascar
+DESGNATION : Temporary reserves
+STATUS     : Working
+CATEGORY   : Local
+CATEGORY2  : LMMA
+YEAR       : Not available
+ZONE       : Seasonal closure
+MANAGED_BY : NULL
+IUCN       : Undetermined
+NOTES      : Mbahsoahoavy miray?
+AREAKM_DEC : 0
+AREAKM_ACT : 2.003390
+PERIKM_ACT : 5.017960
+POINT_X    : 43.961700
+POINT_Y    : -20.765100
+geometry   : Polygon (Area: 2289486.506278, Bounds: (4892932.471042203, -2349589.6621746332, 4894664.5513581745, -2347906.122767504))
+
+
+
+================================================================================
+RECORD 82 of 208
+================================================================================
+
+IDN        : 81
+ID_MJ      : 270
+MPA_NAME   : Manjaboaka
+COUNTRY    : Madagascar
+REGION     : Madagascar
+DESGNATION : Temporary reserves
+STATUS     : Working
+CATEGORY   : Local
+CATEGORY2  : LMMA
+YEAR       : Not available
+ZONE       : Seasonal closure
+MANAGED_BY : NULL
+IUCN       : Undetermined
+NOTES      : Renamed - Ambatomilo, Antsepoke, Bevohitse,etc
+AREAKM_DEC : 0
+AREAKM_ACT : 2.002390
+PERIKM_ACT : 5.016690
+POINT_X    : 43.227700
+POINT_Y    : -22.334600
+geometry   : Polygon (Area: 2338097.087462, Bounds: (4811221.122399992, -2536370.159233411, 4812954.434800196, -2534652.0992063624))
+
+
+
+================================================================================
+RECORD 83 of 208
+================================================================================
+
+IDN        : 82
+ID_MJ      : 271
+MPA_NAME   : Teariake
+COUNTRY    : Madagascar
+REGION     : Madagascar
+DESGNATION : Temporary reserves
+STATUS     : Working
+CATEGORY   : Local
+CATEGORY2  : LMMA
+YEAR       : 2011
+ZONE       : Seasonal closure
+MANAGED_BY : NULL
+IUCN       : Undetermined
+NOTES      : Renamed, Nosy Lava, Nosy Tompoy etc
+AREAKM_DEC : 0
+AREAKM_ACT : 2.002740
+PERIKM_ACT : 5.017130
+POINT_X    : 43.347900
+POINT_Y    : -21.801800
+geometry   : Polygon (Area: 2321042.304698, Bounds: (4824603.0468178205, -2472741.8239276106, 4826335.942182497, -2471035.885131412))
+
+
+
+================================================================================
+RECORD 84 of 208
+================================================================================
+
+IDN        : 83
+ID_MJ      : 272
+MPA_NAME   : Ambalahonko
+COUNTRY    : Madagascar
+REGION     : Madagascar
+DESGNATION : No take zone
+STATUS     : Working
+CATEGORY   : Local
+CATEGORY2  : LMMA
+YEAR       : 2011
+ZONE       : No-take area
+MANAGED_BY : NULL
+IUCN       : Undetermined
+NOTES      : Part of CLB MIAVOTRA
+AREAKM_DEC : 2
+AREAKM_ACT : 2.007160
+PERIKM_ACT : 5.022730
+POINT_X    : 48.447800
+POINT_Y    : -13.584700
+geometry   : Polygon (Area: 2123575.617645, Bounds: (5392319.033156824, -1517364.9283859665, 5394045.366243407, -1515798.193192357))
+
+
+
+================================================================================
+RECORD 85 of 208
+================================================================================
+
+IDN        : 84
+ID_MJ      : 273
+MPA_NAME   : Ambolikapiky
+COUNTRY    : Madagascar
+REGION     : Madagascar
+DESGNATION : No take zone
+STATUS     : Working
+CATEGORY   : Local
+CATEGORY2  : LMMA
+YEAR       : 2011
+ZONE       : No-take area
+MANAGED_BY : NULL
+IUCN       : Ib
+NOTES      : Part of CLB Miezaka?
+AREAKM_DEC : 7
+AREAKM_ACT : 2.007170
+PERIKM_ACT : 5.022740
+POINT_X    : 48.469000
+POINT_Y    : -13.561700
+geometry   : Polygon (Area: 2123177.900723, Bounds: (5394681.24205591, -1514753.2356935919, 5396407.556544282, -1513186.777194272))
+
+
+
+================================================================================
+RECORD 86 of 208
+================================================================================
+
+IDN        : 85
+ID_MJ      : 274
+MPA_NAME   : Ankingabe
+COUNTRY    : Madagascar
+REGION     : Madagascar
+DESGNATION : No take zone
+STATUS     : Working
+CATEGORY   : Local
+CATEGORY2  : LMMA
+YEAR       : Not available
+ZONE       : No-take area
+MANAGED_BY : NULL
+IUCN       : II
+NOTES      : NULL
+AREAKM_DEC : 0
+AREAKM_ACT : 2.007200
+PERIKM_ACT : 5.022780
+POINT_X    : 48.520700
+POINT_Y    : -13.494900
+geometry   : Polygon (Area: 2122022.995888, Bounds: (5400435.373562449, -1507142.661884127, 5402161.633837823, -1505577.006541024))
+
+
+
+================================================================================
+RECORD 87 of 208
+================================================================================
+
+IDN        : 86
+ID_MJ      : 275
+MPA_NAME   : Andilamboay
+COUNTRY    : Madagascar
+REGION     : Madagascar
+DESGNATION : No take zone
+STATUS     : Working
+CATEGORY   : Local
+CATEGORY2  : LMMA
+YEAR       : Not available
+ZONE       : No-take area
+MANAGED_BY : NULL
+IUCN       : Ib
+NOTES      : Part of Ampijoroa?
+AREAKM_DEC : 0
+AREAKM_ACT : 2.007180
+PERIKM_ACT : 5.022760
+POINT_X    : 48.556800
+POINT_Y    : -13.532900
+geometry   : Polygon (Area: 2122680.510067, Bounds: (5404453.991826232, -1511476.1791266655, 5406180.282974064, -1509910.0674479718))
+
+
+
+================================================================================
+RECORD 88 of 208
+================================================================================
+
+IDN        : 87
+ID_MJ      : 276
+MPA_NAME   : Antsahampano
+COUNTRY    : Madagascar
+REGION     : Madagascar
+DESGNATION : Marine Protected Area
+STATUS     : Working
+CATEGORY   : Local
+CATEGORY2  : LMMA
+YEAR       : Not available
+ZONE       : Not described
+MANAGED_BY : NULL
+IUCN       : II
+NOTES      : Why Seychelles, Part of CLB FIZAMITI?
+AREAKM_DEC : 0
+AREAKM_ACT : 2.007160
+PERIKM_ACT : 5.022730
+POINT_X    : 48.406100
+POINT_Y    : -13.579000
+geometry   : Polygon (Area: 2123477.157277, Bounds: (5387674.786246227, -1516721.9390413216, 5389401.114754031, -1515155.2717147216))
+
+
+
+================================================================================
+RECORD 89 of 208
+================================================================================
+
+IDN        : 88
+ID_MJ      : 277
+MPA_NAME   : Irodo
+COUNTRY    : Madagascar
+REGION     : Madagascar
+DESGNATION : No take zone, temporary reserve
+STATUS     : Working
+CATEGORY   : Local
+CATEGORY2  : LMMA
+YEAR       : 2016
+ZONE       : Mulitple
+MANAGED_BY : NULL
+IUCN       : Undetermined
+NOTES      : 
+Fikambanan’ny Mpanjono Tia Fivoarana Irodo
+AREAKM_DEC : 0
+AREAKM_ACT : 2.007560
+PERIKM_ACT : 5.023230
+POINT_X    : 49.522900
+POINT_Y    : -12.645900
+geometry   : Polygon (Area: 2107943.274076, Bounds: (5512006.790896417, -1410733.990671819, 5513732.36230373, -1409178.1170743152))
+
+
+
+================================================================================
+RECORD 90 of 208
+================================================================================
+
+IDN        : 89
+ID_MJ      : 278
+MPA_NAME   : Ambolobozobe
+COUNTRY    : Madagascar
+REGION     : Madagascar
+DESGNATION : No take zone, temporary reserve
+STATUS     : Working
+CATEGORY   : Local
+CATEGORY2  : LMMA
+YEAR       : 2016
+ZONE       : Mulitple
+MANAGED_BY : NULL
+IUCN       : Undetermined
+NOTES      : In-land, Fikambanan’ny Mpanjono Ambolobozobe
+AREAKM_DEC : 0
+AREAKM_ACT : 2.007610
+PERIKM_ACT : 5.023290
+POINT_X    : 49.531400
+POINT_Y    : -12.521400
+geometry   : Polygon (Area: 2105966.692126, Bounds: (5512947.491147731, -1396629.1634756613, 5514672.9614525065, -1395074.6589983848))
+
+
+
+================================================================================
+RECORD 91 of 208
+================================================================================
+
+IDN        : 90
+ID_MJ      : 279
+MPA_NAME   : Ambolobozokely
+COUNTRY    : Madagascar
+REGION     : Madagascar
+DESGNATION : No take zone, temporary reserve
+STATUS     : Working
+CATEGORY   : Local
+CATEGORY2  : LMMA
+YEAR       : Not available
+ZONE       : Mulitple
+MANAGED_BY : NULL
+IUCN       : Undetermined
+NOTES      : In-land?
+AREAKM_DEC : 0
+AREAKM_ACT : 2.007640
+PERIKM_ACT : 5.023320
+POINT_X    : 49.512000
+POINT_Y    : -12.454000
+geometry   : Polygon (Area: 2104904.701850, Bounds: (5510789.033655892, -1388986.3165322004, 5512514.449144349, -1387432.547286969))
+
+
+
+================================================================================
+RECORD 92 of 208
+================================================================================
+
+IDN        : 91
+ID_MJ      : 280
+MPA_NAME   : Andranonangozy
+COUNTRY    : Madagascar
+REGION     : Madagascar
+DESGNATION : No take zone, temporary reserve
+STATUS     : Working
+CATEGORY   : Local
+CATEGORY2  : LMMA
+YEAR       : Not available
+ZONE       : Mulitple
+MANAGED_BY : NULL
+IUCN       : II
+NOTES      : Part of FIZMIFA?
+AREAKM_DEC : 0
+AREAKM_ACT : 2.006330
+PERIKM_ACT : 5.021670
+POINT_X    : 49.726600
+POINT_Y    : -15.444700
+geometry   : Polygon (Area: 2158457.829729, Bounds: (5534676.985937687, -1729924.8240694401, 5536404.822262669, -1728333.7621141328))
+
+
+
+================================================================================
+RECORD 93 of 208
+================================================================================
+
+IDN        : 92
+ID_MJ      : 281
+MPA_NAME   : Varingohitra
+COUNTRY    : Madagascar
+REGION     : Madagascar
+DESGNATION : No take zone, temporary reserve
+STATUS     : Working
+CATEGORY   : Local
+CATEGORY2  : LMMA
+YEAR       : Not available
+ZONE       : Mulitple
+MANAGED_BY : NULL
+IUCN       : IV
+NOTES      : Part of VILOVARI?
+AREAKM_DEC : 0
+AREAKM_ACT : 2.006330
+PERIKM_ACT : 5.021660
+POINT_X    : 49.695600
+POINT_Y    : -15.458100
+geometry   : Polygon (Area: 2158727.877645, Bounds: (5531226.0763382455, -1731462.9061946904, 5532953.923461956, -1729871.6546458874))
+
+
+
+================================================================================
+RECORD 94 of 208
+================================================================================
+
+IDN        : 93
+ID_MJ      : 282
+MPA_NAME   : Anjahana
+COUNTRY    : Madagascar
+REGION     : Madagascar
+DESGNATION : No take zone, temporary reserve
+STATUS     : Working
+CATEGORY   : Local
+CATEGORY2  : LMMA
+YEAR       : Not available
+ZONE       : Mulitple
+MANAGED_BY : NULL
+IUCN       : IV
+NOTES      : Part of FENOSOA? Why Seychelles?
+AREAKM_DEC : 0
+AREAKM_ACT : 2.006350
+PERIKM_ACT : 5.021690
+POINT_X    : 49.869500
+POINT_Y    : -15.410300
+geometry   : Polygon (Area: 2157766.790433, Bounds: (5550583.441791678, -1725979.0704269148, 5552311.250408503, -1724388.4944105323))
+
+
+
+================================================================================
+RECORD 95 of 208
+================================================================================
+
+IDN        : 94
+ID_MJ      : 283
+MPA_NAME   : Navana
+COUNTRY    : Madagascar
+REGION     : Madagascar
+DESGNATION : No take zone, temporary reserve
+STATUS     : Working
+CATEGORY   : Local
+CATEGORY2  : LMMA
+YEAR       : 2011
+ZONE       : Mulitple
+MANAGED_BY : NULL
+IUCN       : Undetermined
+NOTES      : Part of FIMIARO/ ORANDAVA?
+AREAKM_DEC : 3
+AREAKM_ACT : 2.006350
+PERIKM_ACT : 5.021690
+POINT_X    : 49.865100
+POINT_Y    : -15.414800
+geometry   : Polygon (Area: 2157856.656953, Bounds: (5550095.860590493, -1726492.049739179, 5551823.6728098, -1724901.410717399))
+
+
+
+================================================================================
+RECORD 96 of 208
+================================================================================
+
+IDN        : 95
+ID_MJ      : 284
+MPA_NAME   : Masindrano
+COUNTRY    : Madagascar
+REGION     : Madagascar
+DESGNATION : No take zone, temporary reserve
+STATUS     : Working
+CATEGORY   : Local
+CATEGORY2  : LMMA
+YEAR       : Not available
+ZONE       : Mulitple
+MANAGED_BY : NULL
+IUCN       : II
+NOTES      : Duplicate, but Seychelles? FIMIARO part?
+AREAKM_DEC : 0
+AREAKM_ACT : 2.006340
+PERIKM_ACT : 5.021680
+POINT_X    : 49.907600
+POINT_Y    : -15.441300
+geometry   : Polygon (Area: 2158390.647505, Bounds: (5554830.267911813, -1729533.4320511634, 5556558.101488448, -1727942.4195178289))
+
+
+
+================================================================================
+RECORD 97 of 208
+================================================================================
+
+IDN        : 96
+ID_MJ      : 285
+MPA_NAME   : Nandrasana
+COUNTRY    : Madagascar
+REGION     : Madagascar
+DESGNATION : No take zone, temporary reserve
+STATUS     : Working
+CATEGORY   : Local
+CATEGORY2  : LMMA
+YEAR       : Not available
+ZONE       : Mulitple
+MANAGED_BY : NULL
+IUCN       : II
+NOTES      : Duplicate, buy Seychelles? Part of SAMINA?
+AREAKM_DEC : 0
+AREAKM_ACT : 2.006250
+PERIKM_ACT : 5.021570
+POINT_X    : 49.627500
+POINT_Y    : -15.607600
+geometry   : Polygon (Area: 2161763.683240, Bounds: (5523647.385107103, -1748632.0083862243, 5525375.352693015, -1747038.6292924155))
+
+
+
+================================================================================
+RECORD 98 of 208
+================================================================================
+
+IDN        : 97
+ID_MJ      : 286
+MPA_NAME   : Tanambao'i Nandrasana
+COUNTRY    : Madagascar
+REGION     : Madagascar
+DESGNATION : No take zone, temporary reserve
+STATUS     : Working
+CATEGORY   : Local
+CATEGORY2  : LMMA
+YEAR       : Not available
+ZONE       : Mulitple
+MANAGED_BY : NULL
+IUCN       : Undetermined
+NOTES      : RANOMADIO?
+AREAKM_DEC : 0
+AREAKM_ACT : 2.006250
+PERIKM_ACT : 5.021570
+POINT_X    : 49.620700
+POINT_Y    : -15.603600
+geometry   : Polygon (Area: 2161682.341897, Bounds: (5522882.621810011, -1748174.8287255852, 5524610.58619017, -1746581.5065360223))
+
+
+
+================================================================================
+RECORD 99 of 208
+================================================================================
+
+IDN        : 98
+ID_MJ      : 287
+MPA_NAME   : Voloina
+COUNTRY    : Madagascar
+REGION     : Madagascar
+DESGNATION : No take zone, temporary reserve
+STATUS     : Working
+CATEGORY   : Local
+CATEGORY2  : LMMA
+YEAR       : Not available
+ZONE       : Mulitple
+MANAGED_BY : NULL
+IUCN       : II
+NOTES      : Part of TVM?
+AREAKM_DEC : 0
+AREAKM_ACT : 2.006270
+PERIKM_ACT : 5.021590
+POINT_X    : 49.616000
+POINT_Y    : -15.578400
+geometry   : Polygon (Area: 2161166.753933, Bounds: (5522364.996387712, -1745272.2915992395, 5524092.940412527, -1743679.3305542353))
+
+
+
+================================================================================
+RECORD 100 of 208
+================================================================================
+
+IDN        : 99
+ID_MJ      : 288
+MPA_NAME   : Rantabe
+COUNTRY    : Madagascar
+REGION     : Madagascar
+DESGNATION : No take zone, temporary reserve
+STATUS     : Working
+CATEGORY   : Local
+CATEGORY2  : LMMA
+YEAR       : Not available
+ZONE       : Mulitple
+MANAGED_BY : NULL
+IUCN       : II
+NOTES      : Duplicate, part of FMHMR? Why Seychelles?
+AREAKM_DEC : 0
+AREAKM_ACT : 2.006210
+PERIKM_ACT : 5.021510
+POINT_X    : 49.643800
+POINT_Y    : -15.702400
+geometry   : Polygon (Area: 2163707.556934, Bounds: (5525457.401830459, -1759525.428369963, 5527185.44576976, -1757930.687315435))
+
+

@@ -1,0 +1,24 @@
+================================================================================
+RECORD 13 of 208
+================================================================================
+
+IDN        : 12
+ID_MJ      : 162
+MPA_NAME   : Waa
+COUNTRY    : Kenya
+REGION     : Kenya
+DESGNATION : No Take Zone
+STATUS     : Proposed
+CATEGORY   : Local
+CATEGORY2  : LMMA
+YEAR       : Proposed
+ZONE       : No-take area
+MANAGED_BY : Ministry of Blue Economy, Marine Resources, Fisheries and Shipping
+IUCN       : IV
+NOTES      : NULL
+AREAKM_DEC : 0
+AREAKM_ACT : 0.064745
+PERIKM_ACT : 1.076110
+POINT_X    : 39.614300
+POINT_Y    : -4.208270
+geometry   : Polygon (Area: 65092.817993, Bounds: (4409700.102000002, -465942.7728999738, 4410001.7778, -465575.7692999657))

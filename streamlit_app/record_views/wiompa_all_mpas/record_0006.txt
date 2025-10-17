@@ -1,0 +1,24 @@
+================================================================================
+RECORD 6 of 368
+================================================================================
+
+IDN        : 5
+ID_MJ      : 155
+MPA_NAME   : Kibuyuni
+COUNTRY    : Kenya
+REGION     : Kenya
+DESGNATION : Gear Restricion
+STATUS     : Proposed
+CATEGORY   : Local
+CATEGORY2  : LMMA
+YEAR       : 2010
+ZONE       : Gear Restriction
+MANAGED_BY : Ministry of Blue Economy, Marine Resources, Fisheries and Shipping
+IUCN       : IV
+NOTES      : Overlaps TBCA
+AREAKM_DEC : 0
+AREAKM_ACT : 0.289899
+PERIKM_ACT : 3.484800
+POINT_X    : 39.331000
+POINT_Y    : -4.644270
+geometry   : Polygon (Area: 291799.963362, Bounds: (4377694.969099998, -514479.60019994323, 4379169.618399999, -513794.3024999649))
